@@ -5,14 +5,14 @@
 
 ### تفاصيل البيانات
 
-<b>Name: </b><sub>اسم السورة</sub><br>
-<b>English_Name: </b><sub>اسم السورة بالإنجليزي</sub><br>
-<b>Number: </b><sub>رقم السورة</sub><br>
-<b>Number_Verses: </b><sup>عدد آيات السورة</sub><br>
-<b>Number_Words: </b><sup>عدد كلمات السورة</sub><br>
-<b>Number_Letters: </b><sup>عدد حروف السورة</sub><br>
-<b>Descent: </b><sup>مكان النزول مكية او مدنية</sub><br>
-<b>Surah: </b><sup>السورة</sup><br>
+<b>Name: اسم السورة</b><br>
+<b>English_Name: اسم السورة بالإنجليزي</b><br>
+<b>Number: رقم السورة</b><br>
+<b>Number_Verses: عدد آيات السورة</b><br>
+<b>Number_Words: عدد كلمات السورة</b><br>
+<b>Number_Letters: عدد حروف السورة</b><br>
+<b>Descent: مكان النزول مكية او مدنية</b><br>
+<b>Surah: السورة</b><br>
 
 مثال من ملف Quran.json
 
