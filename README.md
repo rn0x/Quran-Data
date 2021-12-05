@@ -18,7 +18,7 @@
 <b>Descent: مكان النزول مكية او مدنية</b><sub> - string</sub><br>
 <b>Surah: السورة</b><sub> - string</sub><br>
 
-مثال من ملف Quran.json
+<b>مثال من ملف Quran.json</b>
 
 <div align="center">
     <img src="/Github/Quran.png" alt="Quran json">
