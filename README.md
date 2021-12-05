@@ -16,7 +16,7 @@
 <b>Number_Words: عدد كلمات السورة</b><sub> - number</sub><br>
 <b>Number_Letters: عدد حروف السورة</b><sub> - number</sub><br>
 <b>Descent: مكان النزول مكية او مدنية</b><sub> - string</sub><br>
-<b>Surah: السورة</b><sub> - string</sup><br>
+<b>Surah: السورة</b><sub> - string</sub><br>
 
 مثال من ملف Quran.json
 
