@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="/Github/Quran-Json.jpg" alt="Quran json">
+</div>
+
 # Quran Json 
 
 <b>ملف جسون يحتوي على القرآن الكريم كامل ويحتوي على معلومات حول السورة مثل عدد الآيات و عدد الكلمات وأين نزلت الخ ... </b><br>
