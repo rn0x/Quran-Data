@@ -40,7 +40,7 @@
 
 <br>
 
-# تنزيل الملفات 
+# تنزيل 
 <br>
  قم بإستنساخ المستودع 
 
@@ -51,8 +51,8 @@ git clone https://github.com/rn0x/Quran-Json
 <br>
 
 # مصادر 
-الترجمة الإنجليزية من تأليف أم محمد ومصدرها  [tanzil.net](https://tanzil.net/trans/en.sahih)
-ملفات الصوت من [EveryAyah Quran Files](https://www.everyayah.com/data/Ghamadi_40kbps)
+- الترجمة الإنجليزية من تأليف أم محمد ومصدرها  [tanzil.net](https://tanzil.net/trans/en.sahih)
+- ملفات الصوت من [EveryAyah Quran Files](https://www.everyayah.com/data/Ghamadi_40kbps)
 
 <br><br><br>
 
