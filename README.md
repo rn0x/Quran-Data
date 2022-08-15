@@ -8,7 +8,8 @@
 
 
 # تفاصيل البيانات
-#
+<br>
+
 - **id** = رقم السورة - `number`
 - **name** = إسم السورة - `striing`
 - **name_en** = إسم السورة بالإنجليزي - `striing`
@@ -37,9 +38,24 @@
     <br>
 </div>
 
+<br>
 
+# تنزيل الملفات 
+<br>
+ قم بإستنساخ المستودع 
 
-<br><br><br><br>
+```bash
+git clone https://github.com/rn0x/Quran-Json
+```
+<br>
+<br>
+
+# مصادر 
+الترجمة الإنجليزية من تأليف أم محمد ومصدرها  [tanzil.net](https://tanzil.net/trans/en.sahih)
+ملفات الصوت من [EveryAyah Quran Files](https://www.everyayah.com/data/Ghamadi_40kbps)
+
+<br><br><br>
+
 # سعد الغامدي
 
 **سعد الغامدي** قارئ من السعودية، ولد القارئ **سعد الغامدي** سنة 1387 هـ الموافق ل 1967م.
