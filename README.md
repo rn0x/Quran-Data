@@ -10,21 +10,21 @@
 # تفاصيل البيانات
 <br>
 
-- **id** = رقم السورة - `number`
-- **name** = إسم السورة - `striing`
-- **name_en** = إسم السورة بالإنجليزي - `striing`
-- **name_translation** = ترجمة إسم السورة - `striing`
-- **words** = عدد الكلمات - `number`
-- **letters** = عدد الحروف - `number`
-- **type** = مكان النزول (**مكية او مدنية**) - `striing`
-- **type_en** = مكان النزول بالإنجليزي - `striing`
-- **ar** = نص السورة بالكامل باللغة العربية - `striing`
-- **en** = نص السورة بالكامل باللغة الإنجليزي - `striing`
+- **id** = رقم السورة - `Number`
+- **name** = إسم السورة - `String`
+- **name_en** = إسم السورة بالإنجليزي - `String`
+- **name_translation** = ترجمة إسم السورة - `String`
+- **words** = عدد الكلمات - `Number`
+- **letters** = عدد الحروف - `Number`
+- **type** = مكان النزول (**مكية او مدنية**) - `String`
+- **type_en** = مكان النزول بالإنجليزي - `String`
+- **ar** = نص السورة بالكامل باللغة العربية - `String`
+- **en** = نص السورة بالكامل باللغة الإنجليزي - `String`
 - **array** = يحتوي على آيات السورة بشكل مفرد مع الترجمة بلأنجليزي - `Array`
-- **array > filename** = إسم ملف الصوت - `striing`
-- **array > path** = مسار ملف الصوت - `striing`
-- **array > dir** = مجلد ملف الصوت - `striing`
-- **array > size** = حجم ملف الصوت بالبايت - `number`
+- **array > filename** = إسم ملف الصوت - `String`
+- **array > path** = مسار ملف الصوت - `String`
+- **array > dir** = مجلد ملف الصوت - `String`
+- **array > size** = حجم ملف الصوت بالبايت - `Number`
 
 <br><br>
 
