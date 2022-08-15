@@ -4,25 +4,34 @@
 
 # Quran Json 
 
-<b>ملف جسون يحتوي على القرآن الكريم كامل ويحتوي على معلومات حول السورة مثل عدد الآيات و عدد الكلمات وأين نزلت الخ ... </b><br>
+<b>ملف جسون للقرآن الكريم يحتوي على ملفات صوت لكل آية ويحتوي على معلومات حول السورة مثل عدد الآيات و عدد الكلمات وأين نزلت الخ ... </b><br>
 <br><br>
 
 
-### تفاصيل البيانات
+# تفاصيل البيانات
+#
+- **id** = رقم السورة - `number`
+- **name** = إسم السورة - `striing`
+- **name_en** = إسم السورة بالإنجليزي - `striing`
+- **name_translation** = ترجمة إسم السورة - `striing`
+- **words** = عدد الكلمات - `number`
+- **letters** = عدد الحروف - `number`
+- **type** = مكان النزول (**مكية او مدنية**) - `striing`
+- **type_en** = مكان النزول بالإنجليزي - `striing`
+- **ar** = نص السورة بالكامل باللغة العربية - `striing`
+- **en** = نص السورة بالكامل باللغة الإنجليزي - `striing`
+- **array** = يحتوي على آيات السورة بشكل مفرد مع الترجمة بلأنجليزي - `Array`
+- **array > filename** = إسم ملف الصوت - `striing`
+- **array > path** = مسار ملف الصوت - `striing`
+- **array > dir** = مجلد ملف الصوت - `striing`
+- **array > size** = حجم ملف الصوت بالبايت - `number`
 
-<b>الملف عبارة عن Array يتحوي على Object</b><br>
 <br><br>
 
-<b>Name: اسم السورة</b><sub> - string</sub><br>
-<b>English_Name: اسم السورة بالإنجليزي</b><sub> - string</sub><br>
-<b>Number: رقم السورة</b><sub> - number</sub><br>
-<b>Number_Verses: عدد آيات السورة</b><sub> - number</sub><br>
-<b>Number_Words: عدد كلمات السورة</b><sub> - number</sub><br>
-<b>Number_Letters: عدد حروف السورة</b><sub> - number</sub><br>
-<b>Descent: مكان النزول مكية او مدنية</b><sub> - string</sub><br>
-<b>Surah: السورة</b><sub> - string</sub><br>
+# مثال من ملف [Quran.json](http://bot.altaqwaa.org/Quran.json)
+<br><br>
 
-<b>مثال من ملف Quran.json</b>
+
 
 <div align="center">
     <img src="/Github/Quran.png" alt="Quran json">
