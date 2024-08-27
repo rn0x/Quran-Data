@@ -1,0 +1,37 @@
+{
+  "name": "quran-data",
+  "description": "مشروع Quran Data يوفر واجهة برمجة تطبيقات للوصول إلى بيانات القرآن الكريم وتنظيمها بشكل مرن وشامل",
+  "version": "2.0.0",
+  "main": "api/server.mjs",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node api/server.mjs",
+    "dev": "nodemon",
+    "splitData": "node scripts/splitData.js",
+    "jsonToSqlite": "node scripts/jsonToSqlite.mjs",
+    "jsonToCsv": "node scripts/jsonToCsv.mjs"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Ryan Almalki",
+    "email": "rn0x.me@gmail.com",
+    "url": "https://github.com/rn0x/quran-data"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.4.0",
+    "fs-extra": "^11.2.0",
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

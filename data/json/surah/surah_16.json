@@ -1,0 +1,3357 @@
+{
+  "number": 16,
+  "name": {
+    "ar": "النحل",
+    "en": "The Bee",
+    "transliteration": "An-Nahl"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "verses_count": 128,
+  "words__count": 1845,
+  "letters__count": 7642,
+  "verses": [
+    {
+      "number": 1,
+      "text": {
+        "ar": "أَتَىٰٓ أَمۡرُ ٱللَّهِ فَلَا تَسۡتَعۡجِلُوهُۚ سُبۡحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشۡرِكُونَ",
+        "en": "The command of Allah is coming, so be not impatient for it. Exalted is He and high above what they associate with Him"
+      },
+      "juz": 14,
+      "page": 267,
+      "sajda": false
+    },
+    {
+      "number": 2,
+      "text": {
+        "ar": "يُنَزِّلُ ٱلۡمَلَـٰٓئِكَةَ بِٱلرُّوحِ مِنۡ أَمۡرِهِۦ عَلَىٰ مَن يَشَآءُ مِنۡ عِبَادِهِۦٓ أَنۡ أَنذِرُوٓاْ أَنَّهُۥ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱتَّقُونِ",
+        "en": "He sends down the angels, with the inspiration of His command, upon whom He wills of His servants, [telling them], \"Warn that there is no deity except Me; so fear Me"
+      },
+      "juz": 14,
+      "page": 267,
+      "sajda": false
+    },
+    {
+      "number": 3,
+      "text": {
+        "ar": "خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ بِٱلۡحَقِّۚ تَعَٰلَىٰ عَمَّا يُشۡرِكُونَ",
+        "en": "He created the heavens and earth in truth. High is He above what they associate with Him"
+      },
+      "juz": 14,
+      "page": 267,
+      "sajda": false
+    },
+    {
+      "number": 4,
+      "text": {
+        "ar": "خَلَقَ ٱلۡإِنسَٰنَ مِن نُّطۡفَةٖ فَإِذَا هُوَ خَصِيمٞ مُّبِينٞ",
+        "en": "He created man from a sperm-drop; then at once, he is a clear adversary"
+      },
+      "juz": 14,
+      "page": 267,
+      "sajda": false
+    },
+    {
+      "number": 5,
+      "text": {
+        "ar": "وَٱلۡأَنۡعَٰمَ خَلَقَهَاۖ لَكُمۡ فِيهَا دِفۡءٞ وَمَنَٰفِعُ وَمِنۡهَا تَأۡكُلُونَ",
+        "en": "And the grazing livestock He has created for you; in them is warmth and [numerous] benefits, and from them you eat"
+      },
+      "juz": 14,
+      "page": 267,
+      "sajda": false
+    },
+    {
+      "number": 6,
+      "text": {
+        "ar": "وَلَكُمۡ فِيهَا جَمَالٌ حِينَ تُرِيحُونَ وَحِينَ تَسۡرَحُونَ",
+        "en": "And for you in them is [the enjoyment of] beauty when you bring them in [for the evening] and when you send them out [to pasture]"
+      },
+      "juz": 14,
+      "page": 267,
+      "sajda": false
+    },
+    {
+      "number": 7,
+      "text": {
+        "ar": "وَتَحۡمِلُ أَثۡقَالَكُمۡ إِلَىٰ بَلَدٖ لَّمۡ تَكُونُواْ بَٰلِغِيهِ إِلَّا بِشِقِّ ٱلۡأَنفُسِۚ إِنَّ رَبَّكُمۡ لَرَءُوفٞ رَّحِيمٞ",
+        "en": "And they carry your loads to a land you could not have reached except with difficulty to yourselves. Indeed, your Lord is Kind and Merciful"
+      },
+      "juz": 14,
+      "page": 268,
+      "sajda": false
+    },
+    {
+      "number": 8,
+      "text": {
+        "ar": "وَٱلۡخَيۡلَ وَٱلۡبِغَالَ وَٱلۡحَمِيرَ لِتَرۡكَبُوهَا وَزِينَةٗۚ وَيَخۡلُقُ مَا لَا تَعۡلَمُونَ",
+        "en": "And [He created] the horses, mules and donkeys for you to ride and [as] adornment. And He creates that which you do not know"
+      },
+      "juz": 14,
+      "page": 268,
+      "sajda": false
+    },
+    {
+      "number": 9,
+      "text": {
+        "ar": "وَعَلَى ٱللَّهِ قَصۡدُ ٱلسَّبِيلِ وَمِنۡهَا جَآئِرٞۚ وَلَوۡ شَآءَ لَهَدَىٰكُمۡ أَجۡمَعِينَ",
+        "en": "And upon Allah is the direction of the [right] way, and among the various paths are those deviating. And if He willed, He could have guided you all"
+      },
+      "juz": 14,
+      "page": 268,
+      "sajda": false
+    },
+    {
+      "number": 10,
+      "text": {
+        "ar": "هُوَ ٱلَّذِيٓ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗۖ لَّكُم مِّنۡهُ شَرَابٞ وَمِنۡهُ شَجَرٞ فِيهِ تُسِيمُونَ",
+        "en": "It is He who sends down rain from the sky; from it is drink and from it is foliage in which you pasture [animals]"
+      },
+      "juz": 14,
+      "page": 268,
+      "sajda": false
+    },
+    {
+      "number": 11,
+      "text": {
+        "ar": "يُنۢبِتُ لَكُم بِهِ ٱلزَّرۡعَ وَٱلزَّيۡتُونَ وَٱلنَّخِيلَ وَٱلۡأَعۡنَٰبَ وَمِن كُلِّ ٱلثَّمَرَٰتِۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّقَوۡمٖ يَتَفَكَّرُونَ",
+        "en": "He causes to grow for you thereby the crops, olives, palm trees, grapevines, and from all the fruits. Indeed in that is a sign for a people who give thought"
+      },
+      "juz": 14,
+      "page": 268,
+      "sajda": false
+    },
+    {
+      "number": 12,
+      "text": {
+        "ar": "وَسَخَّرَ لَكُمُ ٱلَّيۡلَ وَٱلنَّهَارَ وَٱلشَّمۡسَ وَٱلۡقَمَرَۖ وَٱلنُّجُومُ مُسَخَّرَٰتُۢ بِأَمۡرِهِۦٓۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يَعۡقِلُونَ",
+        "en": "And He has subjected for you the night and day and the sun and moon, and the stars are subjected by His command. Indeed in that are signs for a people who reason"
+      },
+      "juz": 14,
+      "page": 268,
+      "sajda": false
+    },
+    {
+      "number": 13,
+      "text": {
+        "ar": "وَمَا ذَرَأَ لَكُمۡ فِي ٱلۡأَرۡضِ مُخۡتَلِفًا أَلۡوَٰنُهُۥٓۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّقَوۡمٖ يَذَّكَّرُونَ",
+        "en": "And [He has subjected] whatever He multiplied for you on the earth of varying colors. Indeed in that is a sign for a people who remember"
+      },
+      "juz": 14,
+      "page": 268,
+      "sajda": false
+    },
+    {
+      "number": 14,
+      "text": {
+        "ar": "وَهُوَ ٱلَّذِي سَخَّرَ ٱلۡبَحۡرَ لِتَأۡكُلُواْ مِنۡهُ لَحۡمٗا طَرِيّٗا وَتَسۡتَخۡرِجُواْ مِنۡهُ حِلۡيَةٗ تَلۡبَسُونَهَاۖ وَتَرَى ٱلۡفُلۡكَ مَوَاخِرَ فِيهِ وَلِتَبۡتَغُواْ مِن فَضۡلِهِۦ وَلَعَلَّكُمۡ تَشۡكُرُونَ",
+        "en": "And it is He who subjected the sea for you to eat from it tender meat and to extract from it ornaments which you wear. And you see the ships plowing through it, and [He subjected it] that you may seek of His bounty; and perhaps you will be grateful"
+      },
+      "juz": 14,
+      "page": 268,
+      "sajda": false
+    },
+    {
+      "number": 15,
+      "text": {
+        "ar": "وَأَلۡقَىٰ فِي ٱلۡأَرۡضِ رَوَٰسِيَ أَن تَمِيدَ بِكُمۡ وَأَنۡهَٰرٗا وَسُبُلٗا لَّعَلَّكُمۡ تَهۡتَدُونَ",
+        "en": "And He has cast into the earth firmly set mountains, lest it shift with you, and [made] rivers and roads, that you may be guided"
+      },
+      "juz": 14,
+      "page": 269,
+      "sajda": false
+    },
+    {
+      "number": 16,
+      "text": {
+        "ar": "وَعَلَٰمَٰتٖۚ وَبِٱلنَّجۡمِ هُمۡ يَهۡتَدُونَ",
+        "en": "And landmarks. And by the stars they are [also] guided"
+      },
+      "juz": 14,
+      "page": 269,
+      "sajda": false
+    },
+    {
+      "number": 17,
+      "text": {
+        "ar": "أَفَمَن يَخۡلُقُ كَمَن لَّا يَخۡلُقُۚ أَفَلَا تَذَكَّرُونَ",
+        "en": "Then is He who creates like one who does not create? So will you not be reminded"
+      },
+      "juz": 14,
+      "page": 269,
+      "sajda": false
+    },
+    {
+      "number": 18,
+      "text": {
+        "ar": "وَإِن تَعُدُّواْ نِعۡمَةَ ٱللَّهِ لَا تُحۡصُوهَآۗ إِنَّ ٱللَّهَ لَغَفُورٞ رَّحِيمٞ",
+        "en": "And if you should count the favors of Allah, you could not enumerate them. Indeed, Allah is Forgiving and Merciful"
+      },
+      "juz": 14,
+      "page": 269,
+      "sajda": false
+    },
+    {
+      "number": 19,
+      "text": {
+        "ar": "وَٱللَّهُ يَعۡلَمُ مَا تُسِرُّونَ وَمَا تُعۡلِنُونَ",
+        "en": "And Allah knows what you conceal and what you declare"
+      },
+      "juz": 14,
+      "page": 269,
+      "sajda": false
+    },
+    {
+      "number": 20,
+      "text": {
+        "ar": "وَٱلَّذِينَ يَدۡعُونَ مِن دُونِ ٱللَّهِ لَا يَخۡلُقُونَ شَيۡـٔٗا وَهُمۡ يُخۡلَقُونَ",
+        "en": "And those they invoke other than Allah create nothing, and they [themselves] are created"
+      },
+      "juz": 14,
+      "page": 269,
+      "sajda": false
+    },
+    {
+      "number": 21,
+      "text": {
+        "ar": "أَمۡوَٰتٌ غَيۡرُ أَحۡيَآءٖۖ وَمَا يَشۡعُرُونَ أَيَّانَ يُبۡعَثُونَ",
+        "en": "They are, [in fact], dead, not alive, and they do not perceive when they will be resurrected"
+      },
+      "juz": 14,
+      "page": 269,
+      "sajda": false
+    },
+    {
+      "number": 22,
+      "text": {
+        "ar": "إِلَٰهُكُمۡ إِلَٰهٞ وَٰحِدٞۚ فَٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ قُلُوبُهُم مُّنكِرَةٞ وَهُم مُّسۡتَكۡبِرُونَ",
+        "en": "Your god is one God. But those who do not believe in the Hereafter - their hearts are disapproving, and they are arrogant"
+      },
+      "juz": 14,
+      "page": 269,
+      "sajda": false
+    },
+    {
+      "number": 23,
+      "text": {
+        "ar": "لَا جَرَمَ أَنَّ ٱللَّهَ يَعۡلَمُ مَا يُسِرُّونَ وَمَا يُعۡلِنُونَۚ إِنَّهُۥ لَا يُحِبُّ ٱلۡمُسۡتَكۡبِرِينَ",
+        "en": "Assuredly, Allah knows what they conceal and what they declare. Indeed, He does not like the arrogant"
+      },
+      "juz": 14,
+      "page": 269,
+      "sajda": false
+    },
+    {
+      "number": 24,
+      "text": {
+        "ar": "وَإِذَا قِيلَ لَهُم مَّاذَآ أَنزَلَ رَبُّكُمۡ قَالُوٓاْ أَسَٰطِيرُ ٱلۡأَوَّلِينَ",
+        "en": "And when it is said to them, \"What has your Lord sent down?\" They say, \"Legends of the former peoples"
+      },
+      "juz": 14,
+      "page": 269,
+      "sajda": false
+    },
+    {
+      "number": 25,
+      "text": {
+        "ar": "لِيَحۡمِلُوٓاْ أَوۡزَارَهُمۡ كَامِلَةٗ يَوۡمَ ٱلۡقِيَٰمَةِ وَمِنۡ أَوۡزَارِ ٱلَّذِينَ يُضِلُّونَهُم بِغَيۡرِ عِلۡمٍۗ أَلَا سَآءَ مَا يَزِرُونَ",
+        "en": "That they may bear their own burdens in full on the Day of Resurrection and some of the burdens of those whom they misguide without knowledge. Unquestionably, evil is that which they bear"
+      },
+      "juz": 14,
+      "page": 269,
+      "sajda": false
+    },
+    {
+      "number": 26,
+      "text": {
+        "ar": "قَدۡ مَكَرَ ٱلَّذِينَ مِن قَبۡلِهِمۡ فَأَتَى ٱللَّهُ بُنۡيَٰنَهُم مِّنَ ٱلۡقَوَاعِدِ فَخَرَّ عَلَيۡهِمُ ٱلسَّقۡفُ مِن فَوۡقِهِمۡ وَأَتَىٰهُمُ ٱلۡعَذَابُ مِنۡ حَيۡثُ لَا يَشۡعُرُونَ",
+        "en": "Those before them had already plotted, but Allah came at their building from the foundations, so the roof fell upon them from above them, and the punishment came to them from where they did not perceive"
+      },
+      "juz": 14,
+      "page": 269,
+      "sajda": false
+    },
+    {
+      "number": 27,
+      "text": {
+        "ar": "ثُمَّ يَوۡمَ ٱلۡقِيَٰمَةِ يُخۡزِيهِمۡ وَيَقُولُ أَيۡنَ شُرَكَآءِيَ ٱلَّذِينَ كُنتُمۡ تُشَـٰٓقُّونَ فِيهِمۡۚ قَالَ ٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ إِنَّ ٱلۡخِزۡيَ ٱلۡيَوۡمَ وَٱلسُّوٓءَ عَلَى ٱلۡكَٰفِرِينَ",
+        "en": "Then on the Day of Resurrection He will disgrace them and say, \"Where are My 'partners' for whom you used to oppose [the believers]?\" Those who were given knowledge will say, \"Indeed disgrace, this Day, and evil are upon the disbelievers"
+      },
+      "juz": 14,
+      "page": 270,
+      "sajda": false
+    },
+    {
+      "number": 28,
+      "text": {
+        "ar": "ٱلَّذِينَ تَتَوَفَّىٰهُمُ ٱلۡمَلَـٰٓئِكَةُ ظَالِمِيٓ أَنفُسِهِمۡۖ فَأَلۡقَوُاْ ٱلسَّلَمَ مَا كُنَّا نَعۡمَلُ مِن سُوٓءِۭۚ بَلَىٰٓۚ إِنَّ ٱللَّهَ عَلِيمُۢ بِمَا كُنتُمۡ تَعۡمَلُونَ",
+        "en": "The ones whom the angels take in death [while] wronging themselves, and [who] then offer submission, [saying], \"We were not doing any evil.\" But, yes! Indeed, Allah is Knowing of what you used to do"
+      },
+      "juz": 14,
+      "page": 270,
+      "sajda": false
+    },
+    {
+      "number": 29,
+      "text": {
+        "ar": "فَٱدۡخُلُوٓاْ أَبۡوَٰبَ جَهَنَّمَ خَٰلِدِينَ فِيهَاۖ فَلَبِئۡسَ مَثۡوَى ٱلۡمُتَكَبِّرِينَ",
+        "en": "So enter the gates of Hell to abide eternally therein, and how wretched is the residence of the arrogant"
+      },
+      "juz": 14,
+      "page": 270,
+      "sajda": false
+    },
+    {
+      "number": 30,
+      "text": {
+        "ar": "۞وَقِيلَ لِلَّذِينَ ٱتَّقَوۡاْ مَاذَآ أَنزَلَ رَبُّكُمۡۚ قَالُواْ خَيۡرٗاۗ لِّلَّذِينَ أَحۡسَنُواْ فِي هَٰذِهِ ٱلدُّنۡيَا حَسَنَةٞۚ وَلَدَارُ ٱلۡأٓخِرَةِ خَيۡرٞۚ وَلَنِعۡمَ دَارُ ٱلۡمُتَّقِينَ",
+        "en": "And it will be said to those who feared Allah, \"What did your Lord send down?\" They will say, \"[That which is] good.\" For those who do good in this world is good; and the home of the Hereafter is better. And how excellent is the home of the righteous"
+      },
+      "juz": 14,
+      "page": 270,
+      "sajda": false
+    },
+    {
+      "number": 31,
+      "text": {
+        "ar": "جَنَّـٰتُ عَدۡنٖ يَدۡخُلُونَهَا تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۖ لَهُمۡ فِيهَا مَا يَشَآءُونَۚ كَذَٰلِكَ يَجۡزِي ٱللَّهُ ٱلۡمُتَّقِينَ",
+        "en": "Gardens of perpetual residence, which they will enter, beneath which rivers flow. They will have therein whatever they wish. Thus does Allah reward the righteous"
+      },
+      "juz": 14,
+      "page": 270,
+      "sajda": false
+    },
+    {
+      "number": 32,
+      "text": {
+        "ar": "ٱلَّذِينَ تَتَوَفَّىٰهُمُ ٱلۡمَلَـٰٓئِكَةُ طَيِّبِينَ يَقُولُونَ سَلَٰمٌ عَلَيۡكُمُ ٱدۡخُلُواْ ٱلۡجَنَّةَ بِمَا كُنتُمۡ تَعۡمَلُونَ",
+        "en": "The ones whom the angels take in death, [being] good and pure; [the angels] will say, \"Peace be upon you. Enter Paradise for what you used to do"
+      },
+      "juz": 14,
+      "page": 270,
+      "sajda": false
+    },
+    {
+      "number": 33,
+      "text": {
+        "ar": "هَلۡ يَنظُرُونَ إِلَّآ أَن تَأۡتِيَهُمُ ٱلۡمَلَـٰٓئِكَةُ أَوۡ يَأۡتِيَ أَمۡرُ رَبِّكَۚ كَذَٰلِكَ فَعَلَ ٱلَّذِينَ مِن قَبۡلِهِمۡۚ وَمَا ظَلَمَهُمُ ٱللَّهُ وَلَٰكِن كَانُوٓاْ أَنفُسَهُمۡ يَظۡلِمُونَ",
+        "en": "Do the disbelievers await [anything] except that the angels should come to them or there comes the command of your Lord? Thus did those do before them. And Allah wronged them not, but they had been wronging themselves"
+      },
+      "juz": 14,
+      "page": 270,
+      "sajda": false
+    },
+    {
+      "number": 34,
+      "text": {
+        "ar": "فَأَصَابَهُمۡ سَيِّـَٔاتُ مَا عَمِلُواْ وَحَاقَ بِهِم مَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
+        "en": "So they were struck by the evil consequences of what they did and were enveloped by what they used to ridicule"
+      },
+      "juz": 14,
+      "page": 270,
+      "sajda": false
+    },
+    {
+      "number": 35,
+      "text": {
+        "ar": "وَقَالَ ٱلَّذِينَ أَشۡرَكُواْ لَوۡ شَآءَ ٱللَّهُ مَا عَبَدۡنَا مِن دُونِهِۦ مِن شَيۡءٖ نَّحۡنُ وَلَآ ءَابَآؤُنَا وَلَا حَرَّمۡنَا مِن دُونِهِۦ مِن شَيۡءٖۚ كَذَٰلِكَ فَعَلَ ٱلَّذِينَ مِن قَبۡلِهِمۡۚ فَهَلۡ عَلَى ٱلرُّسُلِ إِلَّا ٱلۡبَلَٰغُ ٱلۡمُبِينُ",
+        "en": "And those who associate others with Allah say, \"If Allah had willed, we would not have worshipped anything other than Him, neither we nor our fathers, nor would we have forbidden anything through other than Him.\" Thus did those do before them. So is there upon the messengers except [the duty of] clear notification"
+      },
+      "juz": 14,
+      "page": 271,
+      "sajda": false
+    },
+    {
+      "number": 36,
+      "text": {
+        "ar": "وَلَقَدۡ بَعَثۡنَا فِي كُلِّ أُمَّةٖ رَّسُولًا أَنِ ٱعۡبُدُواْ ٱللَّهَ وَٱجۡتَنِبُواْ ٱلطَّـٰغُوتَۖ فَمِنۡهُم مَّنۡ هَدَى ٱللَّهُ وَمِنۡهُم مَّنۡ حَقَّتۡ عَلَيۡهِ ٱلضَّلَٰلَةُۚ فَسِيرُواْ فِي ٱلۡأَرۡضِ فَٱنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ ٱلۡمُكَذِّبِينَ",
+        "en": "And We certainly sent into every nation a messenger, [saying], \"Worship Allah and avoid Taghut.\" And among them were those whom Allah guided, and among them were those upon whom error was [deservedly] decreed. So proceed through the earth and observe how was the end of the deniers"
+      },
+      "juz": 14,
+      "page": 271,
+      "sajda": false
+    },
+    {
+      "number": 37,
+      "text": {
+        "ar": "إِن تَحۡرِصۡ عَلَىٰ هُدَىٰهُمۡ فَإِنَّ ٱللَّهَ لَا يَهۡدِي مَن يُضِلُّۖ وَمَا لَهُم مِّن نَّـٰصِرِينَ",
+        "en": "[Even] if you should strive for their guidance, [O Muhammad], indeed, Allah does not guide those He sends astray, and they will have no helpers"
+      },
+      "juz": 14,
+      "page": 271,
+      "sajda": false
+    },
+    {
+      "number": 38,
+      "text": {
+        "ar": "وَأَقۡسَمُواْ بِٱللَّهِ جَهۡدَ أَيۡمَٰنِهِمۡ لَا يَبۡعَثُ ٱللَّهُ مَن يَمُوتُۚ بَلَىٰ وَعۡدًا عَلَيۡهِ حَقّٗا وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
+        "en": "And they swear by Allah their strongest oaths [that] Allah will not resurrect one who dies. But yes - [it is] a true promise [binding] upon Him, but most of the people do not know"
+      },
+      "juz": 14,
+      "page": 271,
+      "sajda": false
+    },
+    {
+      "number": 39,
+      "text": {
+        "ar": "لِيُبَيِّنَ لَهُمُ ٱلَّذِي يَخۡتَلِفُونَ فِيهِ وَلِيَعۡلَمَ ٱلَّذِينَ كَفَرُوٓاْ أَنَّهُمۡ كَانُواْ كَٰذِبِينَ",
+        "en": "[It is] so He will make clear to them [the truth of] that wherein they differ and so those who have disbelieved may know that they were liars"
+      },
+      "juz": 14,
+      "page": 271,
+      "sajda": false
+    },
+    {
+      "number": 40,
+      "text": {
+        "ar": "إِنَّمَا قَوۡلُنَا لِشَيۡءٍ إِذَآ أَرَدۡنَٰهُ أَن نَّقُولَ لَهُۥ كُن فَيَكُونُ",
+        "en": "Indeed, Our word to a thing when We intend it is but that We say to it, \"Be,\" and it is"
+      },
+      "juz": 14,
+      "page": 271,
+      "sajda": false
+    },
+    {
+      "number": 41,
+      "text": {
+        "ar": "وَٱلَّذِينَ هَاجَرُواْ فِي ٱللَّهِ مِنۢ بَعۡدِ مَا ظُلِمُواْ لَنُبَوِّئَنَّهُمۡ فِي ٱلدُّنۡيَا حَسَنَةٗۖ وَلَأَجۡرُ ٱلۡأٓخِرَةِ أَكۡبَرُۚ لَوۡ كَانُواْ يَعۡلَمُونَ",
+        "en": "And those who emigrated for [the cause of] Allah after they had been wronged - We will surely settle them in this world in a good place; but the reward of the Hereafter is greater, if only they could know"
+      },
+      "juz": 14,
+      "page": 271,
+      "sajda": false
+    },
+    {
+      "number": 42,
+      "text": {
+        "ar": "ٱلَّذِينَ صَبَرُواْ وَعَلَىٰ رَبِّهِمۡ يَتَوَكَّلُونَ",
+        "en": "[They are] those who endured patiently and upon their Lord relied"
+      },
+      "juz": 14,
+      "page": 271,
+      "sajda": false
+    },
+    {
+      "number": 43,
+      "text": {
+        "ar": "وَمَآ أَرۡسَلۡنَا مِن قَبۡلِكَ إِلَّا رِجَالٗا نُّوحِيٓ إِلَيۡهِمۡۖ فَسۡـَٔلُوٓاْ أَهۡلَ ٱلذِّكۡرِ إِن كُنتُمۡ لَا تَعۡلَمُونَ",
+        "en": "And We sent not before you except men to whom We revealed [Our message]. So ask the people of the message if you do not know"
+      },
+      "juz": 14,
+      "page": 272,
+      "sajda": false
+    },
+    {
+      "number": 44,
+      "text": {
+        "ar": "بِٱلۡبَيِّنَٰتِ وَٱلزُّبُرِۗ وَأَنزَلۡنَآ إِلَيۡكَ ٱلذِّكۡرَ لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ إِلَيۡهِمۡ وَلَعَلَّهُمۡ يَتَفَكَّرُونَ",
+        "en": "[We sent them] with clear proofs and written ordinances. And We revealed to you the message that you may make clear to the people what was sent down to them and that they might give thought"
+      },
+      "juz": 14,
+      "page": 272,
+      "sajda": false
+    },
+    {
+      "number": 45,
+      "text": {
+        "ar": "أَفَأَمِنَ ٱلَّذِينَ مَكَرُواْ ٱلسَّيِّـَٔاتِ أَن يَخۡسِفَ ٱللَّهُ بِهِمُ ٱلۡأَرۡضَ أَوۡ يَأۡتِيَهُمُ ٱلۡعَذَابُ مِنۡ حَيۡثُ لَا يَشۡعُرُونَ",
+        "en": "Then, do those who have planned evil deeds feel secure that Allah will not cause the earth to swallow them or that the punishment will not come upon them from where they do not perceive"
+      },
+      "juz": 14,
+      "page": 272,
+      "sajda": false
+    },
+    {
+      "number": 46,
+      "text": {
+        "ar": "أَوۡ يَأۡخُذَهُمۡ فِي تَقَلُّبِهِمۡ فَمَا هُم بِمُعۡجِزِينَ",
+        "en": "Or that He would not seize them during their [usual] activity, and they could not cause failure"
+      },
+      "juz": 14,
+      "page": 272,
+      "sajda": false
+    },
+    {
+      "number": 47,
+      "text": {
+        "ar": "أَوۡ يَأۡخُذَهُمۡ عَلَىٰ تَخَوُّفٖ فَإِنَّ رَبَّكُمۡ لَرَءُوفٞ رَّحِيمٌ",
+        "en": "Or that He would not seize them gradually [in a state of dread]? But indeed, your Lord is Kind and Merciful"
+      },
+      "juz": 14,
+      "page": 272,
+      "sajda": false
+    },
+    {
+      "number": 48,
+      "text": {
+        "ar": "أَوَلَمۡ يَرَوۡاْ إِلَىٰ مَا خَلَقَ ٱللَّهُ مِن شَيۡءٖ يَتَفَيَّؤُاْ ظِلَٰلُهُۥ عَنِ ٱلۡيَمِينِ وَٱلشَّمَآئِلِ سُجَّدٗا لِّلَّهِ وَهُمۡ دَٰخِرُونَ",
+        "en": "Have they not considered what things Allah has created? Their shadows incline to the right and to the left, prostrating to Allah, while they are humble"
+      },
+      "juz": 14,
+      "page": 272,
+      "sajda": false
+    },
+    {
+      "number": 49,
+      "text": {
+        "ar": "وَلِلَّهِۤ يَسۡجُدُۤ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ مِن دَآبَّةٖ وَٱلۡمَلَـٰٓئِكَةُ وَهُمۡ لَا يَسۡتَكۡبِرُونَ",
+        "en": "And to Allah prostrates whatever is in the heavens and whatever is on the earth of creatures, and the angels [as well], and they are not arrogant"
+      },
+      "juz": 14,
+      "page": 272,
+      "sajda": false
+    },
+    {
+      "number": 50,
+      "text": {
+        "ar": "يَخَافُونَ رَبَّهُم مِّن فَوۡقِهِمۡ وَيَفۡعَلُونَ مَا يُؤۡمَرُونَ۩",
+        "en": "They fear their Lord above them, and they do what they are commanded"
+      },
+      "juz": 14,
+      "page": 272,
+      "sajda": {
+        "id": 3,
+        "recommended": true,
+        "obligatory": false
+      }
+    },
+    {
+      "number": 51,
+      "text": {
+        "ar": "۞وَقَالَ ٱللَّهُ لَا تَتَّخِذُوٓاْ إِلَٰهَيۡنِ ٱثۡنَيۡنِۖ إِنَّمَا هُوَ إِلَٰهٞ وَٰحِدٞ فَإِيَّـٰيَ فَٱرۡهَبُونِ",
+        "en": "And Allah has said, \"Do not take for yourselves two deities. He is but one God, so fear only Me"
+      },
+      "juz": 14,
+      "page": 272,
+      "sajda": false
+    },
+    {
+      "number": 52,
+      "text": {
+        "ar": "وَلَهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَلَهُ ٱلدِّينُ وَاصِبًاۚ أَفَغَيۡرَ ٱللَّهِ تَتَّقُونَ",
+        "en": "And to Him belongs whatever is in the heavens and the earth, and to Him is [due] worship constantly. Then is it other than Allah that you fear"
+      },
+      "juz": 14,
+      "page": 272,
+      "sajda": false
+    },
+    {
+      "number": 53,
+      "text": {
+        "ar": "وَمَا بِكُم مِّن نِّعۡمَةٖ فَمِنَ ٱللَّهِۖ ثُمَّ إِذَا مَسَّكُمُ ٱلضُّرُّ فَإِلَيۡهِ تَجۡـَٔرُونَ",
+        "en": "And whatever you have of favor - it is from Allah. Then when adversity touches you, to Him you cry for help"
+      },
+      "juz": 14,
+      "page": 272,
+      "sajda": false
+    },
+    {
+      "number": 54,
+      "text": {
+        "ar": "ثُمَّ إِذَا كَشَفَ ٱلضُّرَّ عَنكُمۡ إِذَا فَرِيقٞ مِّنكُم بِرَبِّهِمۡ يُشۡرِكُونَ",
+        "en": "Then when He removes the adversity from you, at once a party of you associates others with their Lord"
+      },
+      "juz": 14,
+      "page": 272,
+      "sajda": false
+    },
+    {
+      "number": 55,
+      "text": {
+        "ar": "لِيَكۡفُرُواْ بِمَآ ءَاتَيۡنَٰهُمۡۚ فَتَمَتَّعُواْ فَسَوۡفَ تَعۡلَمُونَ",
+        "en": "So they will deny what We have given them. Then enjoy yourselves, for you are going to know"
+      },
+      "juz": 14,
+      "page": 273,
+      "sajda": false
+    },
+    {
+      "number": 56,
+      "text": {
+        "ar": "وَيَجۡعَلُونَ لِمَا لَا يَعۡلَمُونَ نَصِيبٗا مِّمَّا رَزَقۡنَٰهُمۡۗ تَٱللَّهِ لَتُسۡـَٔلُنَّ عَمَّا كُنتُمۡ تَفۡتَرُونَ",
+        "en": "And they assign to what they do not know a portion of that which We have provided them. By Allah, you will surely be questioned about what you used to invent"
+      },
+      "juz": 14,
+      "page": 273,
+      "sajda": false
+    },
+    {
+      "number": 57,
+      "text": {
+        "ar": "وَيَجۡعَلُونَ لِلَّهِ ٱلۡبَنَٰتِ سُبۡحَٰنَهُۥ وَلَهُم مَّا يَشۡتَهُونَ",
+        "en": "And they attribute to Allah daughters - exalted is He - and for them is what they desire"
+      },
+      "juz": 14,
+      "page": 273,
+      "sajda": false
+    },
+    {
+      "number": 58,
+      "text": {
+        "ar": "وَإِذَا بُشِّرَ أَحَدُهُم بِٱلۡأُنثَىٰ ظَلَّ وَجۡهُهُۥ مُسۡوَدّٗا وَهُوَ كَظِيمٞ",
+        "en": "And when one of them is informed of [the birth of] a female, his face becomes dark, and he suppresses grief"
+      },
+      "juz": 14,
+      "page": 273,
+      "sajda": false
+    },
+    {
+      "number": 59,
+      "text": {
+        "ar": "يَتَوَٰرَىٰ مِنَ ٱلۡقَوۡمِ مِن سُوٓءِ مَا بُشِّرَ بِهِۦٓۚ أَيُمۡسِكُهُۥ عَلَىٰ هُونٍ أَمۡ يَدُسُّهُۥ فِي ٱلتُّرَابِۗ أَلَا سَآءَ مَا يَحۡكُمُونَ",
+        "en": "He hides himself from the people because of the ill of which he has been informed. Should he keep it in humiliation or bury it in the ground? Unquestionably, evil is what they decide"
+      },
+      "juz": 14,
+      "page": 273,
+      "sajda": false
+    },
+    {
+      "number": 60,
+      "text": {
+        "ar": "لِلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ مَثَلُ ٱلسَّوۡءِۖ وَلِلَّهِ ٱلۡمَثَلُ ٱلۡأَعۡلَىٰۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+        "en": "For those who do not believe in the Hereafter is the description of evil; and for Allah is the highest attribute. And He is Exalted in Might, the Wise"
+      },
+      "juz": 14,
+      "page": 273,
+      "sajda": false
+    },
+    {
+      "number": 61,
+      "text": {
+        "ar": "وَلَوۡ يُؤَاخِذُ ٱللَّهُ ٱلنَّاسَ بِظُلۡمِهِم مَّا تَرَكَ عَلَيۡهَا مِن دَآبَّةٖ وَلَٰكِن يُؤَخِّرُهُمۡ إِلَىٰٓ أَجَلٖ مُّسَمّٗىۖ فَإِذَا جَآءَ أَجَلُهُمۡ لَا يَسۡتَـٔۡخِرُونَ سَاعَةٗ وَلَا يَسۡتَقۡدِمُونَ",
+        "en": "And if Allah were to impose blame on the people for their wrongdoing, He would not have left upon the earth any creature, but He defers them for a specified term. And when their term has come, they will not remain behind an hour, nor will they precede [it]"
+      },
+      "juz": 14,
+      "page": 273,
+      "sajda": false
+    },
+    {
+      "number": 62,
+      "text": {
+        "ar": "وَيَجۡعَلُونَ لِلَّهِ مَا يَكۡرَهُونَۚ وَتَصِفُ أَلۡسِنَتُهُمُ ٱلۡكَذِبَ أَنَّ لَهُمُ ٱلۡحُسۡنَىٰۚ لَا جَرَمَ أَنَّ لَهُمُ ٱلنَّارَ وَأَنَّهُم مُّفۡرَطُونَ",
+        "en": "And they attribute to Allah that which they dislike, and their tongues assert the lie that they will have the best [from Him]. Assuredly, they will have the Fire, and they will be [therein] neglected"
+      },
+      "juz": 14,
+      "page": 273,
+      "sajda": false
+    },
+    {
+      "number": 63,
+      "text": {
+        "ar": "تَٱللَّهِ لَقَدۡ أَرۡسَلۡنَآ إِلَىٰٓ أُمَمٖ مِّن قَبۡلِكَ فَزَيَّنَ لَهُمُ ٱلشَّيۡطَٰنُ أَعۡمَٰلَهُمۡ فَهُوَ وَلِيُّهُمُ ٱلۡيَوۡمَ وَلَهُمۡ عَذَابٌ أَلِيمٞ",
+        "en": "By Allah, We did certainly send [messengers] to nations before you, but Satan made their deeds attractive to them. And he is the disbelievers' ally today [as well], and they will have a painful punishment"
+      },
+      "juz": 14,
+      "page": 273,
+      "sajda": false
+    },
+    {
+      "number": 64,
+      "text": {
+        "ar": "وَمَآ أَنزَلۡنَا عَلَيۡكَ ٱلۡكِتَٰبَ إِلَّا لِتُبَيِّنَ لَهُمُ ٱلَّذِي ٱخۡتَلَفُواْ فِيهِ وَهُدٗى وَرَحۡمَةٗ لِّقَوۡمٖ يُؤۡمِنُونَ",
+        "en": "And We have not revealed to you the Book, [O Muhammad], except for you to make clear to them that wherein they have differed and as guidance and mercy for a people who believe"
+      },
+      "juz": 14,
+      "page": 273,
+      "sajda": false
+    },
+    {
+      "number": 65,
+      "text": {
+        "ar": "وَٱللَّهُ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَأَحۡيَا بِهِ ٱلۡأَرۡضَ بَعۡدَ مَوۡتِهَآۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّقَوۡمٖ يَسۡمَعُونَ",
+        "en": "And Allah has sent down rain from the sky and given life thereby to the earth after its lifelessness. Indeed in that is a sign for a people who listen"
+      },
+      "juz": 14,
+      "page": 274,
+      "sajda": false
+    },
+    {
+      "number": 66,
+      "text": {
+        "ar": "وَإِنَّ لَكُمۡ فِي ٱلۡأَنۡعَٰمِ لَعِبۡرَةٗۖ نُّسۡقِيكُم مِّمَّا فِي بُطُونِهِۦ مِنۢ بَيۡنِ فَرۡثٖ وَدَمٖ لَّبَنًا خَالِصٗا سَآئِغٗا لِّلشَّـٰرِبِينَ",
+        "en": "And indeed, for you in grazing livestock is a lesson. We give you drink from what is in their bellies - between excretion and blood - pure milk, palatable to drinkers"
+      },
+      "juz": 14,
+      "page": 274,
+      "sajda": false
+    },
+    {
+      "number": 67,
+      "text": {
+        "ar": "وَمِن ثَمَرَٰتِ ٱلنَّخِيلِ وَٱلۡأَعۡنَٰبِ تَتَّخِذُونَ مِنۡهُ سَكَرٗا وَرِزۡقًا حَسَنًاۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّقَوۡمٖ يَعۡقِلُونَ",
+        "en": "And from the fruits of the palm trees and grapevines you take intoxicant and good provision. Indeed in that is a sign for a people who reason"
+      },
+      "juz": 14,
+      "page": 274,
+      "sajda": false
+    },
+    {
+      "number": 68,
+      "text": {
+        "ar": "وَأَوۡحَىٰ رَبُّكَ إِلَى ٱلنَّحۡلِ أَنِ ٱتَّخِذِي مِنَ ٱلۡجِبَالِ بُيُوتٗا وَمِنَ ٱلشَّجَرِ وَمِمَّا يَعۡرِشُونَ",
+        "en": "And your Lord inspired to the bee, \"Take for yourself among the mountains, houses, and among the trees and [in] that which they construct"
+      },
+      "juz": 14,
+      "page": 274,
+      "sajda": false
+    },
+    {
+      "number": 69,
+      "text": {
+        "ar": "ثُمَّ كُلِي مِن كُلِّ ٱلثَّمَرَٰتِ فَٱسۡلُكِي سُبُلَ رَبِّكِ ذُلُلٗاۚ يَخۡرُجُ مِنۢ بُطُونِهَا شَرَابٞ مُّخۡتَلِفٌ أَلۡوَٰنُهُۥ فِيهِ شِفَآءٞ لِّلنَّاسِۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّقَوۡمٖ يَتَفَكَّرُونَ",
+        "en": "Then eat from all the fruits and follow the ways of your Lord laid down [for you].\" There emerges from their bellies a drink, varying in colors, in which there is healing for people. Indeed in that is a sign for a people who give thought"
+      },
+      "juz": 14,
+      "page": 274,
+      "sajda": false
+    },
+    {
+      "number": 70,
+      "text": {
+        "ar": "وَٱللَّهُ خَلَقَكُمۡ ثُمَّ يَتَوَفَّىٰكُمۡۚ وَمِنكُم مَّن يُرَدُّ إِلَىٰٓ أَرۡذَلِ ٱلۡعُمُرِ لِكَيۡ لَا يَعۡلَمَ بَعۡدَ عِلۡمٖ شَيۡـًٔاۚ إِنَّ ٱللَّهَ عَلِيمٞ قَدِيرٞ",
+        "en": "And Allah created you; then He will take you in death. And among you is he who is reversed to the most decrepit [old] age so that he will not know, after [having had] knowledge, a thing. Indeed, Allah is Knowing and Competent"
+      },
+      "juz": 14,
+      "page": 274,
+      "sajda": false
+    },
+    {
+      "number": 71,
+      "text": {
+        "ar": "وَٱللَّهُ فَضَّلَ بَعۡضَكُمۡ عَلَىٰ بَعۡضٖ فِي ٱلرِّزۡقِۚ فَمَا ٱلَّذِينَ فُضِّلُواْ بِرَآدِّي رِزۡقِهِمۡ عَلَىٰ مَا مَلَكَتۡ أَيۡمَٰنُهُمۡ فَهُمۡ فِيهِ سَوَآءٌۚ أَفَبِنِعۡمَةِ ٱللَّهِ يَجۡحَدُونَ",
+        "en": "And Allah has favored some of you over others in provision. But those who were favored would not hand over their provision to those whom their right hands possess so they would be equal to them therein. Then is it the favor of Allah they reject"
+      },
+      "juz": 14,
+      "page": 274,
+      "sajda": false
+    },
+    {
+      "number": 72,
+      "text": {
+        "ar": "وَٱللَّهُ جَعَلَ لَكُم مِّنۡ أَنفُسِكُمۡ أَزۡوَٰجٗا وَجَعَلَ لَكُم مِّنۡ أَزۡوَٰجِكُم بَنِينَ وَحَفَدَةٗ وَرَزَقَكُم مِّنَ ٱلطَّيِّبَٰتِۚ أَفَبِٱلۡبَٰطِلِ يُؤۡمِنُونَ وَبِنِعۡمَتِ ٱللَّهِ هُمۡ يَكۡفُرُونَ",
+        "en": "And Allah has made for you from yourselves mates and has made for you from your mates sons and grandchildren and has provided for you from the good things. Then in falsehood do they believe and in the favor of Allah they disbelieve"
+      },
+      "juz": 14,
+      "page": 274,
+      "sajda": false
+    },
+    {
+      "number": 73,
+      "text": {
+        "ar": "وَيَعۡبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَمۡلِكُ لَهُمۡ رِزۡقٗا مِّنَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ شَيۡـٔٗا وَلَا يَسۡتَطِيعُونَ",
+        "en": "And they worship besides Allah that which does not possess for them [the power of] provision from the heavens and the earth at all, and [in fact], they are unable"
+      },
+      "juz": 14,
+      "page": 275,
+      "sajda": false
+    },
+    {
+      "number": 74,
+      "text": {
+        "ar": "فَلَا تَضۡرِبُواْ لِلَّهِ ٱلۡأَمۡثَالَۚ إِنَّ ٱللَّهَ يَعۡلَمُ وَأَنتُمۡ لَا تَعۡلَمُونَ",
+        "en": "So do not assert similarities to Allah. Indeed, Allah knows and you do not know"
+      },
+      "juz": 14,
+      "page": 275,
+      "sajda": false
+    },
+    {
+      "number": 75,
+      "text": {
+        "ar": "۞ضَرَبَ ٱللَّهُ مَثَلًا عَبۡدٗا مَّمۡلُوكٗا لَّا يَقۡدِرُ عَلَىٰ شَيۡءٖ وَمَن رَّزَقۡنَٰهُ مِنَّا رِزۡقًا حَسَنٗا فَهُوَ يُنفِقُ مِنۡهُ سِرّٗا وَجَهۡرًاۖ هَلۡ يَسۡتَوُۥنَۚ ٱلۡحَمۡدُ لِلَّهِۚ بَلۡ أَكۡثَرُهُمۡ لَا يَعۡلَمُونَ",
+        "en": "Allah presents an example: a slave [who is] owned and unable to do a thing and he to whom We have provided from Us good provision, so he spends from it secretly and publicly. Can they be equal? Praise to Allah! But most of them do not know"
+      },
+      "juz": 14,
+      "page": 275,
+      "sajda": false
+    },
+    {
+      "number": 76,
+      "text": {
+        "ar": "وَضَرَبَ ٱللَّهُ مَثَلٗا رَّجُلَيۡنِ أَحَدُهُمَآ أَبۡكَمُ لَا يَقۡدِرُ عَلَىٰ شَيۡءٖ وَهُوَ كَلٌّ عَلَىٰ مَوۡلَىٰهُ أَيۡنَمَا يُوَجِّههُّ لَا يَأۡتِ بِخَيۡرٍ هَلۡ يَسۡتَوِي هُوَ وَمَن يَأۡمُرُ بِٱلۡعَدۡلِ وَهُوَ عَلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+        "en": "And Allah presents an example of two men, one of them dumb and unable to do a thing, while he is a burden to his guardian. Wherever he directs him, he brings no good. Is he equal to one who commands justice, while he is on a straight path"
+      },
+      "juz": 14,
+      "page": 275,
+      "sajda": false
+    },
+    {
+      "number": 77,
+      "text": {
+        "ar": "وَلِلَّهِ غَيۡبُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَمَآ أَمۡرُ ٱلسَّاعَةِ إِلَّا كَلَمۡحِ ٱلۡبَصَرِ أَوۡ هُوَ أَقۡرَبُۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+        "en": "And to Allah belongs the unseen [aspects] of the heavens and the earth. And the command for the Hour is not but as a glance of the eye or even nearer. Indeed, Allah is over all things competent"
+      },
+      "juz": 14,
+      "page": 275,
+      "sajda": false
+    },
+    {
+      "number": 78,
+      "text": {
+        "ar": "وَٱللَّهُ أَخۡرَجَكُم مِّنۢ بُطُونِ أُمَّهَٰتِكُمۡ لَا تَعۡلَمُونَ شَيۡـٔٗا وَجَعَلَ لَكُمُ ٱلسَّمۡعَ وَٱلۡأَبۡصَٰرَ وَٱلۡأَفۡـِٔدَةَ لَعَلَّكُمۡ تَشۡكُرُونَ",
+        "en": "And Allah has extracted you from the wombs of your mothers not knowing a thing, and He made for you hearing and vision and intellect that perhaps you would be grateful"
+      },
+      "juz": 14,
+      "page": 275,
+      "sajda": false
+    },
+    {
+      "number": 79,
+      "text": {
+        "ar": "أَلَمۡ يَرَوۡاْ إِلَى ٱلطَّيۡرِ مُسَخَّرَٰتٖ فِي جَوِّ ٱلسَّمَآءِ مَا يُمۡسِكُهُنَّ إِلَّا ٱللَّهُۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يُؤۡمِنُونَ",
+        "en": "Do they not see the birds controlled in the atmosphere of the sky? None holds them up except Allah. Indeed in that are signs for a people who believe"
+      },
+      "juz": 14,
+      "page": 275,
+      "sajda": false
+    },
+    {
+      "number": 80,
+      "text": {
+        "ar": "وَٱللَّهُ جَعَلَ لَكُم مِّنۢ بُيُوتِكُمۡ سَكَنٗا وَجَعَلَ لَكُم مِّن جُلُودِ ٱلۡأَنۡعَٰمِ بُيُوتٗا تَسۡتَخِفُّونَهَا يَوۡمَ ظَعۡنِكُمۡ وَيَوۡمَ إِقَامَتِكُمۡ وَمِنۡ أَصۡوَافِهَا وَأَوۡبَارِهَا وَأَشۡعَارِهَآ أَثَٰثٗا وَمَتَٰعًا إِلَىٰ حِينٖ",
+        "en": "And Allah has made for you from your homes a place of rest and made for you from the hides of the animals tents which you find light on your day of travel and your day of encampment; and from their wool, fur and hair is furnishing and enjoyment for a time"
+      },
+      "juz": 14,
+      "page": 276,
+      "sajda": false
+    },
+    {
+      "number": 81,
+      "text": {
+        "ar": "وَٱللَّهُ جَعَلَ لَكُم مِّمَّا خَلَقَ ظِلَٰلٗا وَجَعَلَ لَكُم مِّنَ ٱلۡجِبَالِ أَكۡنَٰنٗا وَجَعَلَ لَكُمۡ سَرَٰبِيلَ تَقِيكُمُ ٱلۡحَرَّ وَسَرَٰبِيلَ تَقِيكُم بَأۡسَكُمۡۚ كَذَٰلِكَ يُتِمُّ نِعۡمَتَهُۥ عَلَيۡكُمۡ لَعَلَّكُمۡ تُسۡلِمُونَ",
+        "en": "And Allah has made for you, from that which He has created, shadows and has made for you from the mountains, shelters and has made for you garments which protect you from the heat and garments which protect you from your [enemy in] battle. Thus does He complete His favor upon you that you might submit [to Him]"
+      },
+      "juz": 14,
+      "page": 276,
+      "sajda": false
+    },
+    {
+      "number": 82,
+      "text": {
+        "ar": "فَإِن تَوَلَّوۡاْ فَإِنَّمَا عَلَيۡكَ ٱلۡبَلَٰغُ ٱلۡمُبِينُ",
+        "en": "But if they turn away, [O Muhammad] - then only upon you is [responsibility for] clear notification"
+      },
+      "juz": 14,
+      "page": 276,
+      "sajda": false
+    },
+    {
+      "number": 83,
+      "text": {
+        "ar": "يَعۡرِفُونَ نِعۡمَتَ ٱللَّهِ ثُمَّ يُنكِرُونَهَا وَأَكۡثَرُهُمُ ٱلۡكَٰفِرُونَ",
+        "en": "They recognize the favor of Allah; then they deny it. And most of them are disbelievers"
+      },
+      "juz": 14,
+      "page": 276,
+      "sajda": false
+    },
+    {
+      "number": 84,
+      "text": {
+        "ar": "وَيَوۡمَ نَبۡعَثُ مِن كُلِّ أُمَّةٖ شَهِيدٗا ثُمَّ لَا يُؤۡذَنُ لِلَّذِينَ كَفَرُواْ وَلَا هُمۡ يُسۡتَعۡتَبُونَ",
+        "en": "And [mention] the Day when We will resurrect from every nation a witness. Then it will not be permitted to the disbelievers [to apologize or make excuses], nor will they be asked to appease [Allah]"
+      },
+      "juz": 14,
+      "page": 276,
+      "sajda": false
+    },
+    {
+      "number": 85,
+      "text": {
+        "ar": "وَإِذَا رَءَا ٱلَّذِينَ ظَلَمُواْ ٱلۡعَذَابَ فَلَا يُخَفَّفُ عَنۡهُمۡ وَلَا هُمۡ يُنظَرُونَ",
+        "en": "And when those who wronged see the punishment, it will not be lightened for them, nor will they be reprieved"
+      },
+      "juz": 14,
+      "page": 276,
+      "sajda": false
+    },
+    {
+      "number": 86,
+      "text": {
+        "ar": "وَإِذَا رَءَا ٱلَّذِينَ أَشۡرَكُواْ شُرَكَآءَهُمۡ قَالُواْ رَبَّنَا هَـٰٓؤُلَآءِ شُرَكَآؤُنَا ٱلَّذِينَ كُنَّا نَدۡعُواْ مِن دُونِكَۖ فَأَلۡقَوۡاْ إِلَيۡهِمُ ٱلۡقَوۡلَ إِنَّكُمۡ لَكَٰذِبُونَ",
+        "en": "And when those who associated others with Allah see their \"partners,\" they will say,\" Our Lord, these are our partners [to You] whom we used to invoke besides You.\" But they will throw at them the statement, \"Indeed, you are liars"
+      },
+      "juz": 14,
+      "page": 276,
+      "sajda": false
+    },
+    {
+      "number": 87,
+      "text": {
+        "ar": "وَأَلۡقَوۡاْ إِلَى ٱللَّهِ يَوۡمَئِذٍ ٱلسَّلَمَۖ وَضَلَّ عَنۡهُم مَّا كَانُواْ يَفۡتَرُونَ",
+        "en": "And they will impart to Allah that Day [their] submission, and lost from them is what they used to invent"
+      },
+      "juz": 14,
+      "page": 276,
+      "sajda": false
+    },
+    {
+      "number": 88,
+      "text": {
+        "ar": "ٱلَّذِينَ كَفَرُواْ وَصَدُّواْ عَن سَبِيلِ ٱللَّهِ زِدۡنَٰهُمۡ عَذَابٗا فَوۡقَ ٱلۡعَذَابِ بِمَا كَانُواْ يُفۡسِدُونَ",
+        "en": "Those who disbelieved and averted [others] from the way of Allah - We will increase them in punishment over [their] punishment for what corruption they were causing"
+      },
+      "juz": 14,
+      "page": 277,
+      "sajda": false
+    },
+    {
+      "number": 89,
+      "text": {
+        "ar": "وَيَوۡمَ نَبۡعَثُ فِي كُلِّ أُمَّةٖ شَهِيدًا عَلَيۡهِم مِّنۡ أَنفُسِهِمۡۖ وَجِئۡنَا بِكَ شَهِيدًا عَلَىٰ هَـٰٓؤُلَآءِۚ وَنَزَّلۡنَا عَلَيۡكَ ٱلۡكِتَٰبَ تِبۡيَٰنٗا لِّكُلِّ شَيۡءٖ وَهُدٗى وَرَحۡمَةٗ وَبُشۡرَىٰ لِلۡمُسۡلِمِينَ",
+        "en": "And [mention] the Day when We will resurrect among every nation a witness over them from themselves. And We will bring you, [O Muhammad], as a witness over your nation. And We have sent down to you the Book as clarification for all things and as guidance and mercy and good tidings for the Muslims"
+      },
+      "juz": 14,
+      "page": 277,
+      "sajda": false
+    },
+    {
+      "number": 90,
+      "text": {
+        "ar": "۞إِنَّ ٱللَّهَ يَأۡمُرُ بِٱلۡعَدۡلِ وَٱلۡإِحۡسَٰنِ وَإِيتَآيِٕ ذِي ٱلۡقُرۡبَىٰ وَيَنۡهَىٰ عَنِ ٱلۡفَحۡشَآءِ وَٱلۡمُنكَرِ وَٱلۡبَغۡيِۚ يَعِظُكُمۡ لَعَلَّكُمۡ تَذَكَّرُونَ",
+        "en": "Indeed, Allah orders justice and good conduct and giving to relatives and forbids immorality and bad conduct and oppression. He admonishes you that perhaps you will be reminded"
+      },
+      "juz": 14,
+      "page": 277,
+      "sajda": false
+    },
+    {
+      "number": 91,
+      "text": {
+        "ar": "وَأَوۡفُواْ بِعَهۡدِ ٱللَّهِ إِذَا عَٰهَدتُّمۡ وَلَا تَنقُضُواْ ٱلۡأَيۡمَٰنَ بَعۡدَ تَوۡكِيدِهَا وَقَدۡ جَعَلۡتُمُ ٱللَّهَ عَلَيۡكُمۡ كَفِيلًاۚ إِنَّ ٱللَّهَ يَعۡلَمُ مَا تَفۡعَلُونَ",
+        "en": "And fulfill the covenant of Allah when you have taken it, [O believers], and do not break oaths after their confirmation while you have made Allah, over you, a witness. Indeed, Allah knows what you do"
+      },
+      "juz": 14,
+      "page": 277,
+      "sajda": false
+    },
+    {
+      "number": 92,
+      "text": {
+        "ar": "وَلَا تَكُونُواْ كَٱلَّتِي نَقَضَتۡ غَزۡلَهَا مِنۢ بَعۡدِ قُوَّةٍ أَنكَٰثٗا تَتَّخِذُونَ أَيۡمَٰنَكُمۡ دَخَلَۢا بَيۡنَكُمۡ أَن تَكُونَ أُمَّةٌ هِيَ أَرۡبَىٰ مِنۡ أُمَّةٍۚ إِنَّمَا يَبۡلُوكُمُ ٱللَّهُ بِهِۦۚ وَلَيُبَيِّنَنَّ لَكُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ مَا كُنتُمۡ فِيهِ تَخۡتَلِفُونَ",
+        "en": "And do not be like she who untwisted her spun thread after it was strong [by] taking your oaths as [means of] deceit between you because one community is more plentiful [in number or wealth] than another community. Allah only tries you thereby. And He will surely make clear to you on the Day of Resurrection that over which you used to differ"
+      },
+      "juz": 14,
+      "page": 277,
+      "sajda": false
+    },
+    {
+      "number": 93,
+      "text": {
+        "ar": "وَلَوۡ شَآءَ ٱللَّهُ لَجَعَلَكُمۡ أُمَّةٗ وَٰحِدَةٗ وَلَٰكِن يُضِلُّ مَن يَشَآءُ وَيَهۡدِي مَن يَشَآءُۚ وَلَتُسۡـَٔلُنَّ عَمَّا كُنتُمۡ تَعۡمَلُونَ",
+        "en": "And if Allah had willed, He could have made you [of] one religion, but He causes to stray whom He wills and guides whom He wills. And you will surely be questioned about what you used to do"
+      },
+      "juz": 14,
+      "page": 277,
+      "sajda": false
+    },
+    {
+      "number": 94,
+      "text": {
+        "ar": "وَلَا تَتَّخِذُوٓاْ أَيۡمَٰنَكُمۡ دَخَلَۢا بَيۡنَكُمۡ فَتَزِلَّ قَدَمُۢ بَعۡدَ ثُبُوتِهَا وَتَذُوقُواْ ٱلسُّوٓءَ بِمَا صَدَدتُّمۡ عَن سَبِيلِ ٱللَّهِ وَلَكُمۡ عَذَابٌ عَظِيمٞ",
+        "en": "And do not take your oaths as [means of] deceit between you, lest a foot slip after it was [once] firm, and you would taste evil [in this world] for what [people] you diverted from the way of Allah, and you would have [in the Hereafter] a great punishment"
+      },
+      "juz": 14,
+      "page": 278,
+      "sajda": false
+    },
+    {
+      "number": 95,
+      "text": {
+        "ar": "وَلَا تَشۡتَرُواْ بِعَهۡدِ ٱللَّهِ ثَمَنٗا قَلِيلًاۚ إِنَّمَا عِندَ ٱللَّهِ هُوَ خَيۡرٞ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ",
+        "en": "And do not exchange the covenant of Allah for a small price. Indeed, what is with Allah is best for you, if only you could know"
+      },
+      "juz": 14,
+      "page": 278,
+      "sajda": false
+    },
+    {
+      "number": 96,
+      "text": {
+        "ar": "مَا عِندَكُمۡ يَنفَدُ وَمَا عِندَ ٱللَّهِ بَاقٖۗ وَلَنَجۡزِيَنَّ ٱلَّذِينَ صَبَرُوٓاْ أَجۡرَهُم بِأَحۡسَنِ مَا كَانُواْ يَعۡمَلُونَ",
+        "en": "Whatever you have will end, but what Allah has is lasting. And We will surely give those who were patient their reward according to the best of what they used to do"
+      },
+      "juz": 14,
+      "page": 278,
+      "sajda": false
+    },
+    {
+      "number": 97,
+      "text": {
+        "ar": "مَنۡ عَمِلَ صَٰلِحٗا مِّن ذَكَرٍ أَوۡ أُنثَىٰ وَهُوَ مُؤۡمِنٞ فَلَنُحۡيِيَنَّهُۥ حَيَوٰةٗ طَيِّبَةٗۖ وَلَنَجۡزِيَنَّهُمۡ أَجۡرَهُم بِأَحۡسَنِ مَا كَانُواْ يَعۡمَلُونَ",
+        "en": "Whoever does righteousness, whether male or female, while he is a believer - We will surely cause him to live a good life, and We will surely give them their reward [in the Hereafter] according to the best of what they used to do"
+      },
+      "juz": 14,
+      "page": 278,
+      "sajda": false
+    },
+    {
+      "number": 98,
+      "text": {
+        "ar": "فَإِذَا قَرَأۡتَ ٱلۡقُرۡءَانَ فَٱسۡتَعِذۡ بِٱللَّهِ مِنَ ٱلشَّيۡطَٰنِ ٱلرَّجِيمِ",
+        "en": "So when you recite the Qur'an, [first] seek refuge in Allah from Satan, the expelled [from His mercy]"
+      },
+      "juz": 14,
+      "page": 278,
+      "sajda": false
+    },
+    {
+      "number": 99,
+      "text": {
+        "ar": "إِنَّهُۥ لَيۡسَ لَهُۥ سُلۡطَٰنٌ عَلَى ٱلَّذِينَ ءَامَنُواْ وَعَلَىٰ رَبِّهِمۡ يَتَوَكَّلُونَ",
+        "en": "Indeed, there is for him no authority over those who have believed and rely upon their Lord"
+      },
+      "juz": 14,
+      "page": 278,
+      "sajda": false
+    },
+    {
+      "number": 100,
+      "text": {
+        "ar": "إِنَّمَا سُلۡطَٰنُهُۥ عَلَى ٱلَّذِينَ يَتَوَلَّوۡنَهُۥ وَٱلَّذِينَ هُم بِهِۦ مُشۡرِكُونَ",
+        "en": "His authority is only over those who take him as an ally and those who through him associate others with Allah"
+      },
+      "juz": 14,
+      "page": 278,
+      "sajda": false
+    },
+    {
+      "number": 101,
+      "text": {
+        "ar": "وَإِذَا بَدَّلۡنَآ ءَايَةٗ مَّكَانَ ءَايَةٖ وَٱللَّهُ أَعۡلَمُ بِمَا يُنَزِّلُ قَالُوٓاْ إِنَّمَآ أَنتَ مُفۡتَرِۭۚ بَلۡ أَكۡثَرُهُمۡ لَا يَعۡلَمُونَ",
+        "en": "And when We substitute a verse in place of a verse - and Allah is most knowing of what He sends down - they say, \"You, [O Muhammad], are but an inventor [of lies].\" But most of them do not know"
+      },
+      "juz": 14,
+      "page": 278,
+      "sajda": false
+    },
+    {
+      "number": 102,
+      "text": {
+        "ar": "قُلۡ نَزَّلَهُۥ رُوحُ ٱلۡقُدُسِ مِن رَّبِّكَ بِٱلۡحَقِّ لِيُثَبِّتَ ٱلَّذِينَ ءَامَنُواْ وَهُدٗى وَبُشۡرَىٰ لِلۡمُسۡلِمِينَ",
+        "en": "Say, [O Muhammad], \"The Pure Spirit has brought it down from your Lord in truth to make firm those who believe and as guidance and good tidings to the Muslims"
+      },
+      "juz": 14,
+      "page": 278,
+      "sajda": false
+    },
+    {
+      "number": 103,
+      "text": {
+        "ar": "وَلَقَدۡ نَعۡلَمُ أَنَّهُمۡ يَقُولُونَ إِنَّمَا يُعَلِّمُهُۥ بَشَرٞۗ لِّسَانُ ٱلَّذِي يُلۡحِدُونَ إِلَيۡهِ أَعۡجَمِيّٞ وَهَٰذَا لِسَانٌ عَرَبِيّٞ مُّبِينٌ",
+        "en": "And We certainly know that they say, \"It is only a human being who teaches the Prophet.\" The tongue of the one they refer to is foreign, and this Qur'an is [in] a clear Arabic language"
+      },
+      "juz": 14,
+      "page": 279,
+      "sajda": false
+    },
+    {
+      "number": 104,
+      "text": {
+        "ar": "إِنَّ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِـَٔايَٰتِ ٱللَّهِ لَا يَهۡدِيهِمُ ٱللَّهُ وَلَهُمۡ عَذَابٌ أَلِيمٌ",
+        "en": "Indeed, those who do not believe in the verses of Allah - Allah will not guide them, and for them is a painful punishment"
+      },
+      "juz": 14,
+      "page": 279,
+      "sajda": false
+    },
+    {
+      "number": 105,
+      "text": {
+        "ar": "إِنَّمَا يَفۡتَرِي ٱلۡكَذِبَ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِـَٔايَٰتِ ٱللَّهِۖ وَأُوْلَـٰٓئِكَ هُمُ ٱلۡكَٰذِبُونَ",
+        "en": "They only invent falsehood who do not believe in the verses of Allah, and it is those who are the liars"
+      },
+      "juz": 14,
+      "page": 279,
+      "sajda": false
+    },
+    {
+      "number": 106,
+      "text": {
+        "ar": "مَن كَفَرَ بِٱللَّهِ مِنۢ بَعۡدِ إِيمَٰنِهِۦٓ إِلَّا مَنۡ أُكۡرِهَ وَقَلۡبُهُۥ مُطۡمَئِنُّۢ بِٱلۡإِيمَٰنِ وَلَٰكِن مَّن شَرَحَ بِٱلۡكُفۡرِ صَدۡرٗا فَعَلَيۡهِمۡ غَضَبٞ مِّنَ ٱللَّهِ وَلَهُمۡ عَذَابٌ عَظِيمٞ",
+        "en": "Whoever disbelieves in Allah after his belief... except for one who is forced [to renounce his religion] while his heart is secure in faith. But those who [willingly] open their breasts to disbelief, upon them is wrath from Allah, and for them is a great punishment"
+      },
+      "juz": 14,
+      "page": 279,
+      "sajda": false
+    },
+    {
+      "number": 107,
+      "text": {
+        "ar": "ذَٰلِكَ بِأَنَّهُمُ ٱسۡتَحَبُّواْ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا عَلَى ٱلۡأٓخِرَةِ وَأَنَّ ٱللَّهَ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡكَٰفِرِينَ",
+        "en": "That is because they preferred the worldly life over the Hereafter and that Allah does not guide the disbelieving people"
+      },
+      "juz": 14,
+      "page": 279,
+      "sajda": false
+    },
+    {
+      "number": 108,
+      "text": {
+        "ar": "أُوْلَـٰٓئِكَ ٱلَّذِينَ طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمۡ وَسَمۡعِهِمۡ وَأَبۡصَٰرِهِمۡۖ وَأُوْلَـٰٓئِكَ هُمُ ٱلۡغَٰفِلُونَ",
+        "en": "Those are the ones over whose hearts and hearing and vision Allah has sealed, and it is those who are the heedless"
+      },
+      "juz": 14,
+      "page": 279,
+      "sajda": false
+    },
+    {
+      "number": 109,
+      "text": {
+        "ar": "لَا جَرَمَ أَنَّهُمۡ فِي ٱلۡأٓخِرَةِ هُمُ ٱلۡخَٰسِرُونَ",
+        "en": "Assuredly, it is they, in the Hereafter, who will be the losers"
+      },
+      "juz": 14,
+      "page": 279,
+      "sajda": false
+    },
+    {
+      "number": 110,
+      "text": {
+        "ar": "ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ هَاجَرُواْ مِنۢ بَعۡدِ مَا فُتِنُواْ ثُمَّ جَٰهَدُواْ وَصَبَرُوٓاْ إِنَّ رَبَّكَ مِنۢ بَعۡدِهَا لَغَفُورٞ رَّحِيمٞ",
+        "en": "Then, indeed your Lord, to those who emigrated after they had been compelled [to renounce their religion] and thereafter fought [for the cause of Allah] and were patient - indeed, your Lord, after that, is Forgiving and Merciful"
+      },
+      "juz": 14,
+      "page": 279,
+      "sajda": false
+    },
+    {
+      "number": 111,
+      "text": {
+        "ar": "۞يَوۡمَ تَأۡتِي كُلُّ نَفۡسٖ تُجَٰدِلُ عَن نَّفۡسِهَا وَتُوَفَّىٰ كُلُّ نَفۡسٖ مَّا عَمِلَتۡ وَهُمۡ لَا يُظۡلَمُونَ",
+        "en": "On the Day when every soul will come disputing for itself, and every soul will be fully compensated for what it did, and they will not be wronged"
+      },
+      "juz": 14,
+      "page": 280,
+      "sajda": false
+    },
+    {
+      "number": 112,
+      "text": {
+        "ar": "وَضَرَبَ ٱللَّهُ مَثَلٗا قَرۡيَةٗ كَانَتۡ ءَامِنَةٗ مُّطۡمَئِنَّةٗ يَأۡتِيهَا رِزۡقُهَا رَغَدٗا مِّن كُلِّ مَكَانٖ فَكَفَرَتۡ بِأَنۡعُمِ ٱللَّهِ فَأَذَٰقَهَا ٱللَّهُ لِبَاسَ ٱلۡجُوعِ وَٱلۡخَوۡفِ بِمَا كَانُواْ يَصۡنَعُونَ",
+        "en": "And Allah presents an example: a city which was safe and secure, its provision coming to it in abundance from every location, but it denied the favors of Allah. So Allah made it taste the envelopment of hunger and fear for what they had been doing"
+      },
+      "juz": 14,
+      "page": 280,
+      "sajda": false
+    },
+    {
+      "number": 113,
+      "text": {
+        "ar": "وَلَقَدۡ جَآءَهُمۡ رَسُولٞ مِّنۡهُمۡ فَكَذَّبُوهُ فَأَخَذَهُمُ ٱلۡعَذَابُ وَهُمۡ ظَٰلِمُونَ",
+        "en": "And there had certainly come to them a Messenger from among themselves, but they denied him; so punishment overtook them while they were wrongdoers"
+      },
+      "juz": 14,
+      "page": 280,
+      "sajda": false
+    },
+    {
+      "number": 114,
+      "text": {
+        "ar": "فَكُلُواْ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَٰلٗا طَيِّبٗا وَٱشۡكُرُواْ نِعۡمَتَ ٱللَّهِ إِن كُنتُمۡ إِيَّاهُ تَعۡبُدُونَ",
+        "en": "Then eat of what Allah has provided for you [which is] lawful and good. And be grateful for the favor of Allah, if it is [indeed] Him that you worship"
+      },
+      "juz": 14,
+      "page": 280,
+      "sajda": false
+    },
+    {
+      "number": 115,
+      "text": {
+        "ar": "إِنَّمَا حَرَّمَ عَلَيۡكُمُ ٱلۡمَيۡتَةَ وَٱلدَّمَ وَلَحۡمَ ٱلۡخِنزِيرِ وَمَآ أُهِلَّ لِغَيۡرِ ٱللَّهِ بِهِۦۖ فَمَنِ ٱضۡطُرَّ غَيۡرَ بَاغٖ وَلَا عَادٖ فَإِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٞ",
+        "en": "He has only forbidden to you dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allah. But whoever is forced [by necessity], neither desiring [it] nor transgressing [its limit] - then indeed, Allah is Forgiving and Merciful"
+      },
+      "juz": 14,
+      "page": 280,
+      "sajda": false
+    },
+    {
+      "number": 116,
+      "text": {
+        "ar": "وَلَا تَقُولُواْ لِمَا تَصِفُ أَلۡسِنَتُكُمُ ٱلۡكَذِبَ هَٰذَا حَلَٰلٞ وَهَٰذَا حَرَامٞ لِّتَفۡتَرُواْ عَلَى ٱللَّهِ ٱلۡكَذِبَۚ إِنَّ ٱلَّذِينَ يَفۡتَرُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَ لَا يُفۡلِحُونَ",
+        "en": "And do not say about what your tongues assert of untruth, \"This is lawful and this is unlawful,\" to invent falsehood about Allah. Indeed, those who invent falsehood about Allah will not succeed"
+      },
+      "juz": 14,
+      "page": 280,
+      "sajda": false
+    },
+    {
+      "number": 117,
+      "text": {
+        "ar": "مَتَٰعٞ قَلِيلٞ وَلَهُمۡ عَذَابٌ أَلِيمٞ",
+        "en": "[It is but] a brief enjoyment, and they will have a painful punishment"
+      },
+      "juz": 14,
+      "page": 280,
+      "sajda": false
+    },
+    {
+      "number": 118,
+      "text": {
+        "ar": "وَعَلَى ٱلَّذِينَ هَادُواْ حَرَّمۡنَا مَا قَصَصۡنَا عَلَيۡكَ مِن قَبۡلُۖ وَمَا ظَلَمۡنَٰهُمۡ وَلَٰكِن كَانُوٓاْ أَنفُسَهُمۡ يَظۡلِمُونَ",
+        "en": "And to those who are Jews We have prohibited that which We related to you before. And We did not wrong them [thereby], but they were wronging themselves"
+      },
+      "juz": 14,
+      "page": 280,
+      "sajda": false
+    },
+    {
+      "number": 119,
+      "text": {
+        "ar": "ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ عَمِلُواْ ٱلسُّوٓءَ بِجَهَٰلَةٖ ثُمَّ تَابُواْ مِنۢ بَعۡدِ ذَٰلِكَ وَأَصۡلَحُوٓاْ إِنَّ رَبَّكَ مِنۢ بَعۡدِهَا لَغَفُورٞ رَّحِيمٌ",
+        "en": "Then, indeed your Lord, to those who have done wrong out of ignorance and then repent after that and correct themselves - indeed, your Lord, thereafter, is Forgiving and Merciful"
+      },
+      "juz": 14,
+      "page": 281,
+      "sajda": false
+    },
+    {
+      "number": 120,
+      "text": {
+        "ar": "إِنَّ إِبۡرَٰهِيمَ كَانَ أُمَّةٗ قَانِتٗا لِّلَّهِ حَنِيفٗا وَلَمۡ يَكُ مِنَ ٱلۡمُشۡرِكِينَ",
+        "en": "Indeed, Abraham was a [comprehensive] leader, devoutly obedient to Allah, inclining toward truth, and he was not of those who associate others with Allah"
+      },
+      "juz": 14,
+      "page": 281,
+      "sajda": false
+    },
+    {
+      "number": 121,
+      "text": {
+        "ar": "شَاكِرٗا لِّأَنۡعُمِهِۚ ٱجۡتَبَىٰهُ وَهَدَىٰهُ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+        "en": "[He was] grateful for His favors. Allah chose him and guided him to a straight path"
+      },
+      "juz": 14,
+      "page": 281,
+      "sajda": false
+    },
+    {
+      "number": 122,
+      "text": {
+        "ar": "وَءَاتَيۡنَٰهُ فِي ٱلدُّنۡيَا حَسَنَةٗۖ وَإِنَّهُۥ فِي ٱلۡأٓخِرَةِ لَمِنَ ٱلصَّـٰلِحِينَ",
+        "en": "And We gave him good in this world, and indeed, in the Hereafter he will be among the righteous"
+      },
+      "juz": 14,
+      "page": 281,
+      "sajda": false
+    },
+    {
+      "number": 123,
+      "text": {
+        "ar": "ثُمَّ أَوۡحَيۡنَآ إِلَيۡكَ أَنِ ٱتَّبِعۡ مِلَّةَ إِبۡرَٰهِيمَ حَنِيفٗاۖ وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِينَ",
+        "en": "Then We revealed to you, [O Muhammad], to follow the religion of Abraham, inclining toward truth; and he was not of those who associate with Allah"
+      },
+      "juz": 14,
+      "page": 281,
+      "sajda": false
+    },
+    {
+      "number": 124,
+      "text": {
+        "ar": "إِنَّمَا جُعِلَ ٱلسَّبۡتُ عَلَى ٱلَّذِينَ ٱخۡتَلَفُواْ فِيهِۚ وَإِنَّ رَبَّكَ لَيَحۡكُمُ بَيۡنَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ فِيمَا كَانُواْ فِيهِ يَخۡتَلِفُونَ",
+        "en": "The sabbath was only appointed for those who differed over it. And indeed, your Lord will judge between them on the Day of Resurrection concerning that over which they used to differ"
+      },
+      "juz": 14,
+      "page": 281,
+      "sajda": false
+    },
+    {
+      "number": 125,
+      "text": {
+        "ar": "ٱدۡعُ إِلَىٰ سَبِيلِ رَبِّكَ بِٱلۡحِكۡمَةِ وَٱلۡمَوۡعِظَةِ ٱلۡحَسَنَةِۖ وَجَٰدِلۡهُم بِٱلَّتِي هِيَ أَحۡسَنُۚ إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعۡلَمُ بِٱلۡمُهۡتَدِينَ",
+        "en": "Invite to the way of your Lord with wisdom and good instruction, and argue with them in a way that is best. Indeed, your Lord is most knowing of who has strayed from His way, and He is most knowing of who is [rightly] guided"
+      },
+      "juz": 14,
+      "page": 281,
+      "sajda": false
+    },
+    {
+      "number": 126,
+      "text": {
+        "ar": "وَإِنۡ عَاقَبۡتُمۡ فَعَاقِبُواْ بِمِثۡلِ مَا عُوقِبۡتُم بِهِۦۖ وَلَئِن صَبَرۡتُمۡ لَهُوَ خَيۡرٞ لِّلصَّـٰبِرِينَ",
+        "en": "And if you punish [an enemy, O believers], punish with an equivalent of that with which you were harmed. But if you are patient - it is better for those who are patient"
+      },
+      "juz": 14,
+      "page": 281,
+      "sajda": false
+    },
+    {
+      "number": 127,
+      "text": {
+        "ar": "وَٱصۡبِرۡ وَمَا صَبۡرُكَ إِلَّا بِٱللَّهِۚ وَلَا تَحۡزَنۡ عَلَيۡهِمۡ وَلَا تَكُ فِي ضَيۡقٖ مِّمَّا يَمۡكُرُونَ",
+        "en": "And be patient, [O Muhammad], and your patience is not but through Allah. And do not grieve over them and do not be in distress over what they conspire"
+      },
+      "juz": 14,
+      "page": 281,
+      "sajda": false
+    },
+    {
+      "number": 128,
+      "text": {
+        "ar": "إِنَّ ٱللَّهَ مَعَ ٱلَّذِينَ ٱتَّقَواْ وَّٱلَّذِينَ هُم مُّحۡسِنُونَ",
+        "en": "Indeed, Allah is with those who fear Him and those who are doers of good"
+      },
+      "juz": 14,
+      "page": 281,
+      "sajda": false
+    }
+  ],
+  "audio": [
+    {
+      "id": 1,
+      "reciter": {
+        "ar": "أحمد الحواشي",
+        "en": "Ahmed Al-Hawashi"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server11.mp3quran.net/hawashi",
+      "link": "https://server11.mp3quran.net/hawashi/016.mp3"
+    },
+    {
+      "id": 2,
+      "reciter": {
+        "ar": "أحمد السويلم",
+        "en": "Ahmed Al-Suwailem"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server14.mp3quran.net/swlim/Rewayat-Hafs-A-n-Assem/",
+      "link": "https://server14.mp3quran.net/swlim/Rewayat-Hafs-A-n-Assem//016.mp3"
+    },
+    {
+      "id": 3,
+      "reciter": {
+        "ar": "أحمد الطرابلسي",
+        "en": "Ahmed Trabelsi"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server10.mp3quran.net/trabulsi",
+      "link": "https://server10.mp3quran.net/trabulsi/016.mp3"
+    },
+    {
+      "id": 4,
+      "reciter": {
+        "ar": "أحمد بن علي العجمي",
+        "en": "Ahmed bin Ali Al-Ajmi"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server10.mp3quran.net/ajm/128",
+      "link": "https://server10.mp3quran.net/ajm/128/016.mp3"
+    },
+    {
+      "id": 5,
+      "reciter": {
+        "ar": "أحمد خضر الطرابلسي",
+        "en": "Ahmed Khader Trabelsi"
+      },
+      "rewaya": {
+        "ar": "قالون عن نافع",
+        "en": "They said about Nafi’"
+      },
+      "server": "https://server10.mp3quran.net/trablsi",
+      "link": "https://server10.mp3quran.net/trablsi/016.mp3"
+    },
+    {
+      "id": 6,
+      "reciter": {
+        "ar": "أحمد خليل شاهين",
+        "en": "Ahmed Khalil Shaheen"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server16.mp3quran.net/shaheen/Rewayat-Hafs-A-n-Assem",
+      "link": "https://server16.mp3quran.net/shaheen/Rewayat-Hafs-A-n-Assem/016.mp3"
+    },
+    {
+      "id": 7,
+      "reciter": {
+        "ar": "أحمد ديبان",
+        "en": "Ahmed Diban"
+      },
+      "rewaya": {
+        "ar": "شعبة عن عاصم",
+        "en": "Shu'bah about Asim"
+      },
+      "server": "https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim",
+      "link": "https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/016.mp3"
+    },
+    {
+      "id": 8,
+      "reciter": {
+        "ar": "أحمد ديبان",
+        "en": "Ahmed Diban"
+      },
+      "rewaya": {
+        "ar": "البزي عن ابن كثير",
+        "en": "Al-Bazi on the authority of Ibn Kathir"
+      },
+      "server": "https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer",
+      "link": "https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/016.mp3"
+    },
+    {
+      "id": 9,
+      "reciter": {
+        "ar": "أحمد ديبان",
+        "en": "Ahmed Diban"
+      },
+      "rewaya": {
+        "ar": "قالون عن نافع",
+        "en": "They said about Nafi’"
+      },
+      "server": "https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi",
+      "link": "https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/016.mp3"
+    },
+    {
+      "id": 10,
+      "reciter": {
+        "ar": "أحمد ديبان",
+        "en": "Ahmed Diban"
+      },
+      "rewaya": {
+        "ar": "قنبل عن ابن كثير",
+        "en": "Qunbil on the authority of Ibn Kathir"
+      },
+      "server": "https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer",
+      "link": "https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/016.mp3"
+    },
+    {
+      "id": 11,
+      "reciter": {
+        "ar": "أحمد ديبان",
+        "en": "Ahmed Diban"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem",
+      "link": "https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/016.mp3"
+    },
+    {
+      "id": 12,
+      "reciter": {
+        "ar": "أحمد ديبان",
+        "en": "Ahmed Diban"
+      },
+      "rewaya": {
+        "ar": "الدوري عن أبي عمرو",
+        "en": "Al-Duri on the authority of Abu Amr"
+      },
+      "server": "https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr",
+      "link": "https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/016.mp3"
+    },
+    {
+      "id": 13,
+      "reciter": {
+        "ar": "أحمد صابر",
+        "en": "Ahmed Saber"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server8.mp3quran.net/saber",
+      "link": "https://server8.mp3quran.net/saber/016.mp3"
+    },
+    {
+      "id": 14,
+      "reciter": {
+        "ar": "أحمد عامر",
+        "en": "Ahmed Amer"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server10.mp3quran.net/Aamer",
+      "link": "https://server10.mp3quran.net/Aamer/016.mp3"
+    },
+    {
+      "id": 15,
+      "reciter": {
+        "ar": "أحمد عيسى المعصراوي",
+        "en": "Ahmed Issa Al-Maasrawi"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server16.mp3quran.net/a_maasaraawi/Rewayat-Hafs-A-n-Assem",
+      "link": "https://server16.mp3quran.net/a_maasaraawi/Rewayat-Hafs-A-n-Assem/016.mp3"
+    },
+    {
+      "id": 16,
+      "reciter": {
+        "ar": "أحمد نعينع",
+        "en": "Ahmed Naina"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server11.mp3quran.net/ahmad_nu",
+      "link": "https://server11.mp3quran.net/ahmad_nu/016.mp3"
+    },
+    {
+      "id": 17,
+      "reciter": {
+        "ar": "أكرم العلاقمي",
+        "en": "Akram Al-Alaqmi"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server9.mp3quran.net/akrm",
+      "link": "https://server9.mp3quran.net/akrm/016.mp3"
+    },
+    {
+      "id": 18,
+      "reciter": {
+        "ar": "إبراهيم الأخضر",
+        "en": "Ibrahim Al-Akhdar"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server6.mp3quran.net/akdr",
+      "link": "https://server6.mp3quran.net/akdr/016.mp3"
+    },
+    {
+      "id": 19,
+      "reciter": {
+        "ar": "إبراهيم الجرمي",
+        "en": "Ibrahim Al-Jarmi"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server11.mp3quran.net/jormy",
+      "link": "https://server11.mp3quran.net/jormy/016.mp3"
+    },
+    {
+      "id": 20,
+      "reciter": {
+        "ar": "إبراهيم الدوسري",
+        "en": "Ibrahim Al-Dosari"
+      },
+      "rewaya": {
+        "ar": "ورش عن نافع",
+        "en": "Warsh on the authority of Nafi’"
+      },
+      "server": "https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi",
+      "link": "https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/016.mp3"
+    },
+    {
+      "id": 21,
+      "reciter": {
+        "ar": "إبراهيم الدوسري",
+        "en": "Ibrahim Al-Dosari"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem",
+      "link": "https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/016.mp3"
+    },
+    {
+      "id": 22,
+      "reciter": {
+        "ar": "إبراهيم كشيدان",
+        "en": "Ibrahim Kashidan"
+      },
+      "rewaya": {
+        "ar": "قالون عن نافع",
+        "en": "They said about Nafi’"
+      },
+      "server": "https://server16.mp3quran.net/i_kshidan/Rewayat-Qalon-A-n-Nafi",
+      "link": "https://server16.mp3quran.net/i_kshidan/Rewayat-Qalon-A-n-Nafi/016.mp3"
+    },
+    {
+      "id": 23,
+      "reciter": {
+        "ar": "الدوكالي محمد العالم",
+        "en": "Doukali Muhammad Al-Alam"
+      },
+      "rewaya": {
+        "ar": "قالون عن نافع",
+        "en": "They said about Nafi’"
+      },
+      "server": "https://server7.mp3quran.net/dokali",
+      "link": "https://server7.mp3quran.net/dokali/016.mp3"
+    },
+    {
+      "id": 24,
+      "reciter": {
+        "ar": "الزين محمد أحمد",
+        "en": "Al-Zein Muhammad Ahmed"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server9.mp3quran.net/alzain",
+      "link": "https://server9.mp3quran.net/alzain/016.mp3"
+    },
+    {
+      "id": 25,
+      "reciter": {
+        "ar": "العيون الكوشي",
+        "en": "Kushite eyes"
+      },
+      "rewaya": {
+        "ar": "ورش عن نافع",
+        "en": "Warsh on the authority of Nafi’"
+      },
+      "server": "https://server11.mp3quran.net/koshi",
+      "link": "https://server11.mp3quran.net/koshi/016.mp3"
+    },
+    {
+      "id": 26,
+      "reciter": {
+        "ar": "الفاتح محمد الزبير",
+        "en": "Al-Fatih Muhammad Al-Zubair"
+      },
+      "rewaya": {
+        "ar": "الدوري عن أبي عمرو",
+        "en": "Al-Duri on the authority of Abu Amr"
+      },
+      "server": "https://server6.mp3quran.net/fateh",
+      "link": "https://server6.mp3quran.net/fateh/016.mp3"
+    },
+    {
+      "id": 27,
+      "reciter": {
+        "ar": "القارئ ياسين",
+        "en": "Reader Yassin"
+      },
+      "rewaya": {
+        "ar": "ورش عن نافع",
+        "en": "Warsh on the authority of Nafi’"
+      },
+      "server": "https://server11.mp3quran.net/qari",
+      "link": "https://server11.mp3quran.net/qari/016.mp3"
+    },
+    {
+      "id": 28,
+      "reciter": {
+        "ar": "بدر التركي",
+        "en": "Badr Al-Turki"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/",
+      "link": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem//016.mp3"
+    },
+    {
+      "id": 29,
+      "reciter": {
+        "ar": "بندر بليله",
+        "en": "Bandar at night"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server6.mp3quran.net/balilah",
+      "link": "https://server6.mp3quran.net/balilah/016.mp3"
+    },
+    {
+      "id": 30,
+      "reciter": {
+        "ar": "بيشه وا قادر الكردي",
+        "en": "Yes, you can do it"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem",
+      "link": "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/016.mp3"
+    },
+    {
+      "id": 31,
+      "reciter": {
+        "ar": "توفيق الصايغ",
+        "en": "Tawfiq Al Sayegh"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server6.mp3quran.net/twfeeq",
+      "link": "https://server6.mp3quran.net/twfeeq/016.mp3"
+    },
+    {
+      "id": 32,
+      "reciter": {
+        "ar": "جمال شاكر عبدالله",
+        "en": "Jamal Shaker Abdullah"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server6.mp3quran.net/jamal",
+      "link": "https://server6.mp3quran.net/jamal/016.mp3"
+    },
+    {
+      "id": 33,
+      "reciter": {
+        "ar": "جمعان العصيمي",
+        "en": "Juman Al-Osaimi"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server6.mp3quran.net/jaman",
+      "link": "https://server6.mp3quran.net/jaman/016.mp3"
+    },
+    {
+      "id": 34,
+      "reciter": {
+        "ar": "حاتم فريد الواعر",
+        "en": "Hatem Farid Al Waer"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server11.mp3quran.net/hatem",
+      "link": "https://server11.mp3quran.net/hatem/016.mp3"
+    },
+    {
+      "id": 35,
+      "reciter": {
+        "ar": "خالد الجليل",
+        "en": "Khaled Al-Jalil"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server10.mp3quran.net/jleel",
+      "link": "https://server10.mp3quran.net/jleel/016.mp3"
+    },
+    {
+      "id": 36,
+      "reciter": {
+        "ar": "خالد القحطاني",
+        "en": "Khaled Al-Qahtani"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server10.mp3quran.net/qht",
+      "link": "https://server10.mp3quran.net/qht/016.mp3"
+    },
+    {
+      "id": 37,
+      "reciter": {
+        "ar": "خالد المهنا",
+        "en": "Khaled Al-Muhanna"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server11.mp3quran.net/mohna",
+      "link": "https://server11.mp3quran.net/mohna/016.mp3"
+    },
+    {
+      "id": 38,
+      "reciter": {
+        "ar": "خالد عبدالكافي",
+        "en": "Khaled Abdel Kafi"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server11.mp3quran.net/kafi",
+      "link": "https://server11.mp3quran.net/kafi/016.mp3"
+    },
+    {
+      "id": 39,
+      "reciter": {
+        "ar": "خالد كريم محمدي",
+        "en": "Khaled Karim Mohammadi"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server16.mp3quran.net/kh_mohammadi/Rewayat-Hafs-A-n-Assem",
+      "link": "https://server16.mp3quran.net/kh_mohammadi/Rewayat-Hafs-A-n-Assem/016.mp3"
+    },
+    {
+      "id": 40,
+      "reciter": {
+        "ar": "خليفة الطنيجي",
+        "en": "Khalifa Al-Taniji"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server12.mp3quran.net/tnjy",
+      "link": "https://server12.mp3quran.net/tnjy/016.mp3"
+    },
+    {
+      "id": 41,
+      "reciter": {
+        "ar": "رامي الدعيس",
+        "en": "Rami Al-Dais"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server6.mp3quran.net/rami",
+      "link": "https://server6.mp3quran.net/rami/016.mp3"
+    },
+    {
+      "id": 42,
+      "reciter": {
+        "ar": "رشيد بلعالية",
+        "en": "Rachid Belalia"
+      },
+      "rewaya": {
+        "ar": "ورش عن نافع",
+        "en": "Warsh on the authority of Nafi’"
+      },
+      "server": "https://server6.mp3quran.net/bl3/Rewayat-Warsh-A-n-Nafi",
+      "link": "https://server6.mp3quran.net/bl3/Rewayat-Warsh-A-n-Nafi/016.mp3"
+    },
+    {
+      "id": 43,
+      "reciter": {
+        "ar": "زكي داغستاني",
+        "en": "Zaki Daghestani"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server9.mp3quran.net/zaki",
+      "link": "https://server9.mp3quran.net/zaki/016.mp3"
+    },
+    {
+      "id": 44,
+      "reciter": {
+        "ar": "سعد الغامدي",
+        "en": "Saad Al-Ghamdi"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server7.mp3quran.net/s_gmd",
+      "link": "https://server7.mp3quran.net/s_gmd/016.mp3"
+    },
+    {
+      "id": 45,
+      "reciter": {
+        "ar": "سعد المقرن",
+        "en": "Saad Al-Muqrin"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server16.mp3quran.net/saad/Rewayat-Hafs-A-n-Assem/",
+      "link": "https://server16.mp3quran.net/saad/Rewayat-Hafs-A-n-Assem//016.mp3"
+    },
+    {
+      "id": 46,
+      "reciter": {
+        "ar": "سعود الشريم",
+        "en": "Saud Al-Shuraim"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server7.mp3quran.net/shur",
+      "link": "https://server7.mp3quran.net/shur/016.mp3"
+    },
+    {
+      "id": 47,
+      "reciter": {
+        "ar": "سلمان الصديق",
+        "en": "Salman Al-Siddiq"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server16.mp3quran.net/s_sadeiq/Rewayat-Hafs-A-n-Assem",
+      "link": "https://server16.mp3quran.net/s_sadeiq/Rewayat-Hafs-A-n-Assem/016.mp3"
+    },
+    {
+      "id": 48,
+      "reciter": {
+        "ar": "سهل ياسين",
+        "en": "Sahl Yassin"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server6.mp3quran.net/shl",
+      "link": "https://server6.mp3quran.net/shl/016.mp3"
+    },
+    {
+      "id": 49,
+      "reciter": {
+        "ar": "سيد أحمد هاشمي",
+        "en": "Syed Ahmed Hashemi"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server16.mp3quran.net/s_hashemi/Rewayat-Hafs-A-n-Assem",
+      "link": "https://server16.mp3quran.net/s_hashemi/Rewayat-Hafs-A-n-Assem/016.mp3"
+    },
+    {
+      "id": 50,
+      "reciter": {
+        "ar": "سيد رمضان",
+        "en": "Mr. Ramadan"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server12.mp3quran.net/sayed",
+      "link": "https://server12.mp3quran.net/sayed/016.mp3"
+    },
+    {
+      "id": 51,
+      "reciter": {
+        "ar": "شيخ أبو بكر الشاطري",
+        "en": "Sheikh Abu Bakr Al-Shatri"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server11.mp3quran.net/shatri",
+      "link": "https://server11.mp3quran.net/shatri/016.mp3"
+    },
+    {
+      "id": 52,
+      "reciter": {
+        "ar": "شيرزاد عبدالرحمن طاهر",
+        "en": "Shirzad Abdulrahman Taher"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server12.mp3quran.net/taher",
+      "link": "https://server12.mp3quran.net/taher/016.mp3"
+    },
+    {
+      "id": 53,
+      "reciter": {
+        "ar": "صابر عبدالحكم",
+        "en": "Saber Abdel Hakam"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server12.mp3quran.net/hkm",
+      "link": "https://server12.mp3quran.net/hkm/016.mp3"
+    },
+    {
+      "id": 54,
+      "reciter": {
+        "ar": "صالح الشمراني",
+        "en": "Saleh Al-Shamrani"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server16.mp3quran.net/shamrani/Rewayat-Hafs-A-n-Assem",
+      "link": "https://server16.mp3quran.net/shamrani/Rewayat-Hafs-A-n-Assem/016.mp3"
+    },
+    {
+      "id": 55,
+      "reciter": {
+        "ar": "صالح الهبدان",
+        "en": "Saleh Al Habdan"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server6.mp3quran.net/habdan",
+      "link": "https://server6.mp3quran.net/habdan/016.mp3"
+    },
+    {
+      "id": 56,
+      "reciter": {
+        "ar": "صلاح البدير",
+        "en": "Salah Al-Badir"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server6.mp3quran.net/s_bud",
+      "link": "https://server6.mp3quran.net/s_bud/016.mp3"
+    },
+    {
+      "id": 57,
+      "reciter": {
+        "ar": "صلاح الهاشم",
+        "en": "Salah Al-Hashem"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server12.mp3quran.net/salah_hashim_m",
+      "link": "https://server12.mp3quran.net/salah_hashim_m/016.mp3"
+    },
+    {
+      "id": 58,
+      "reciter": {
+        "ar": "صلاح بو خاطر",
+        "en": "Salah Bou Khater"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server8.mp3quran.net/bu_khtr",
+      "link": "https://server8.mp3quran.net/bu_khtr/016.mp3"
+    },
+    {
+      "id": 59,
+      "reciter": {
+        "ar": "طارق عبدالغني دعوب",
+        "en": "Tariq Abdul Ghani Daoub"
+      },
+      "rewaya": {
+        "ar": "قالون عن نافع",
+        "en": "They said about Nafi’"
+      },
+      "server": "https://server10.mp3quran.net/tareq",
+      "link": "https://server10.mp3quran.net/tareq/016.mp3"
+    },
+    {
+      "id": 60,
+      "reciter": {
+        "ar": "عادل الكلباني",
+        "en": "Adel Al-Kalbani"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server8.mp3quran.net/a_klb",
+      "link": "https://server8.mp3quran.net/a_klb/016.mp3"
+    },
+    {
+      "id": 61,
+      "reciter": {
+        "ar": "عادل ريان",
+        "en": "Adel Rayan"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server8.mp3quran.net/ryan",
+      "link": "https://server8.mp3quran.net/ryan/016.mp3"
+    },
+    {
+      "id": 62,
+      "reciter": {
+        "ar": "عبدالإله بن عون",
+        "en": "Abdul-Ilah bin Aoun"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server16.mp3quran.net/a_binaoun/Rewayat-Hafs-A-n-Assem",
+      "link": "https://server16.mp3quran.net/a_binaoun/Rewayat-Hafs-A-n-Assem/016.mp3"
+    },
+    {
+      "id": 63,
+      "reciter": {
+        "ar": "عبدالبارئ الثبيتي",
+        "en": "Abdul Bara Al-Thubaiti"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server6.mp3quran.net/thubti",
+      "link": "https://server6.mp3quran.net/thubti/016.mp3"
+    },
+    {
+      "id": 64,
+      "reciter": {
+        "ar": "عبدالبارئ محمد",
+        "en": "Abdul Bare Muhammad"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server12.mp3quran.net/bari",
+      "link": "https://server12.mp3quran.net/bari/016.mp3"
+    },
+    {
+      "id": 65,
+      "reciter": {
+        "ar": "عبدالباسط عبدالصمد ",
+        "en": "Abdel Basset Abdel Samad"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad",
+      "link": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/016.mp3"
+    },
+    {
+      "id": 66,
+      "reciter": {
+        "ar": "عبدالباسط عبدالصمد ",
+        "en": "Abdel Basset Abdel Samad"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server7.mp3quran.net/basit",
+      "link": "https://server7.mp3quran.net/basit/016.mp3"
+    },
+    {
+      "id": 67,
+      "reciter": {
+        "ar": "عبدالباسط عبدالصمد ",
+        "en": "Abdel Basset Abdel Samad"
+      },
+      "rewaya": {
+        "ar": "ورش عن نافع",
+        "en": "Warsh on the authority of Nafi’"
+      },
+      "server": "https://server7.mp3quran.net/basit/Rewayat-Warsh-A-n-Nafi",
+      "link": "https://server7.mp3quran.net/basit/Rewayat-Warsh-A-n-Nafi/016.mp3"
+    },
+    {
+      "id": 68,
+      "reciter": {
+        "ar": "عبدالرحمن السديس",
+        "en": "Abdul Rahman Al-Sudais"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server11.mp3quran.net/sds",
+      "link": "https://server11.mp3quran.net/sds/016.mp3"
+    },
+    {
+      "id": 69,
+      "reciter": {
+        "ar": "عبدالرحمن العوسي",
+        "en": "Abdul Rahman Al-Awsi"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server6.mp3quran.net/aloosi",
+      "link": "https://server6.mp3quran.net/aloosi/016.mp3"
+    },
+    {
+      "id": 70,
+      "reciter": {
+        "ar": "عبدالرحمن الماجد",
+        "en": "Abdul Rahman Al Majid"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server10.mp3quran.net/a_majed",
+      "link": "https://server10.mp3quran.net/a_majed/016.mp3"
+    },
+    {
+      "id": 71,
+      "reciter": {
+        "ar": "عبدالرشيد صوفي",
+        "en": "Abdul Rashid Sufi"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server16.mp3quran.net/soufi/Rewayat-Hafs-A-n-Assem",
+      "link": "https://server16.mp3quran.net/soufi/Rewayat-Hafs-A-n-Assem/016.mp3"
+    },
+    {
+      "id": 72,
+      "reciter": {
+        "ar": "عبدالرشيد صوفي",
+        "en": "Abdul Rashid Sufi"
+      },
+      "rewaya": {
+        "ar": "خلف عن حمزة",
+        "en": "Khalaf on the authority of Hamza"
+      },
+      "server": "https://server16.mp3quran.net/soufi/Rewayat-Khalaf-A-n-Hamzah",
+      "link": "https://server16.mp3quran.net/soufi/Rewayat-Khalaf-A-n-Hamzah/016.mp3"
+    },
+    {
+      "id": 73,
+      "reciter": {
+        "ar": "عبدالرشيد صوفي",
+        "en": "Abdul Rashid Sufi"
+      },
+      "rewaya": {
+        "ar": "السوسي عن أبي عمرو",
+        "en": "Al-Susi on the authority of Abu Amr"
+      },
+      "server": "https://server16.mp3quran.net/soufi/Rewayat-Assosi-A-n-Abi-Amr",
+      "link": "https://server16.mp3quran.net/soufi/Rewayat-Assosi-A-n-Abi-Amr/016.mp3"
+    },
+    {
+      "id": 74,
+      "reciter": {
+        "ar": "عبدالعزيز الأحمد",
+        "en": "Abdulaziz Al-Ahmad"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server11.mp3quran.net/a_ahmed",
+      "link": "https://server11.mp3quran.net/a_ahmed/016.mp3"
+    },
+    {
+      "id": 75,
+      "reciter": {
+        "ar": "عبدالعزيز الزهراني",
+        "en": "Abdulaziz Al-Zahrani"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server9.mp3quran.net/zahrani",
+      "link": "https://server9.mp3quran.net/zahrani/016.mp3"
+    },
+    {
+      "id": 76,
+      "reciter": {
+        "ar": "عبدالله الخلف",
+        "en": "Abdullah Al-Khalaf"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server14.mp3quran.net/khalf",
+      "link": "https://server14.mp3quran.net/khalf/016.mp3"
+    },
+    {
+      "id": 77,
+      "reciter": {
+        "ar": "عبدالله الكندري",
+        "en": "Abdullah Al-Kandari"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server10.mp3quran.net/Abdullahk",
+      "link": "https://server10.mp3quran.net/Abdullahk/016.mp3"
+    },
+    {
+      "id": 78,
+      "reciter": {
+        "ar": "عبدالله المطرود",
+        "en": "Abdullah Al-Matroud"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server8.mp3quran.net/mtrod",
+      "link": "https://server8.mp3quran.net/mtrod/016.mp3"
+    },
+    {
+      "id": 79,
+      "reciter": {
+        "ar": "عبدالله بصفر",
+        "en": "Abdullah Basfar"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server6.mp3quran.net/bsfr",
+      "link": "https://server6.mp3quran.net/bsfr/016.mp3"
+    },
+    {
+      "id": 80,
+      "reciter": {
+        "ar": "عبدالله خياط",
+        "en": "Abdullah Khayyat"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server12.mp3quran.net/kyat",
+      "link": "https://server12.mp3quran.net/kyat/016.mp3"
+    },
+    {
+      "id": 81,
+      "reciter": {
+        "ar": "عبدالله عبدل",
+        "en": "Abdullah Abdul"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server16.mp3quran.net/a_abdl/Rewayat-Hafs-A-n-Assem",
+      "link": "https://server16.mp3quran.net/a_abdl/Rewayat-Hafs-A-n-Assem/016.mp3"
+    },
+    {
+      "id": 82,
+      "reciter": {
+        "ar": "عبدالله عواد الجهني",
+        "en": "Abdullah Awad Al-Juhani"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server13.mp3quran.net/jhn",
+      "link": "https://server13.mp3quran.net/jhn/016.mp3"
+    },
+    {
+      "id": 83,
+      "reciter": {
+        "ar": "عبدالله غيلان",
+        "en": "Abdullah Ghailan"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server8.mp3quran.net/gulan",
+      "link": "https://server8.mp3quran.net/gulan/016.mp3"
+    },
+    {
+      "id": 84,
+      "reciter": {
+        "ar": "عبدالله كامل",
+        "en": "Abdullah Kamel"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server16.mp3quran.net/kamel/Rewayat-Hafs-A-n-Assem",
+      "link": "https://server16.mp3quran.net/kamel/Rewayat-Hafs-A-n-Assem/016.mp3"
+    },
+    {
+      "id": 85,
+      "reciter": {
+        "ar": "عبدالمحسن الحارثي",
+        "en": "Abdul Mohsen Al Harithi"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server6.mp3quran.net/mohsin_harthi",
+      "link": "https://server6.mp3quran.net/mohsin_harthi/016.mp3"
+    },
+    {
+      "id": 86,
+      "reciter": {
+        "ar": "عبدالمحسن العبيكان",
+        "en": "Abdul Mohsen Al-Obaikan"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server12.mp3quran.net/obk",
+      "link": "https://server12.mp3quran.net/obk/016.mp3"
+    },
+    {
+      "id": 87,
+      "reciter": {
+        "ar": "عبدالمحسن القاسم",
+        "en": "Abdul Mohsen Al-Qasim"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server8.mp3quran.net/qasm",
+      "link": "https://server8.mp3quran.net/qasm/016.mp3"
+    },
+    {
+      "id": 88,
+      "reciter": {
+        "ar": "عبدالهادي أحمد كناكري",
+        "en": "Abdul Hadi Ahmed Kanakry"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server6.mp3quran.net/kanakeri",
+      "link": "https://server6.mp3quran.net/kanakeri/016.mp3"
+    },
+    {
+      "id": 89,
+      "reciter": {
+        "ar": "عبدالودود حنيف",
+        "en": "Abdul Wadud Hanif"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server8.mp3quran.net/wdod",
+      "link": "https://server8.mp3quran.net/wdod/016.mp3"
+    },
+    {
+      "id": 90,
+      "reciter": {
+        "ar": "علي الحذيفي",
+        "en": "Ali Al-Hudhayfi"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server9.mp3quran.net/hthfi",
+      "link": "https://server9.mp3quran.net/hthfi/016.mp3"
+    },
+    {
+      "id": 91,
+      "reciter": {
+        "ar": "علي الحذيفي",
+        "en": "Ali Al-Hudhayfi"
+      },
+      "rewaya": {
+        "ar": "قالون عن نافع",
+        "en": "They said about Nafi’"
+      },
+      "server": "https://server9.mp3quran.net/huthifi_qalon",
+      "link": "https://server9.mp3quran.net/huthifi_qalon/016.mp3"
+    },
+    {
+      "id": 92,
+      "reciter": {
+        "ar": "علي جابر",
+        "en": "Ali Jaber"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server11.mp3quran.net/a_jbr",
+      "link": "https://server11.mp3quran.net/a_jbr/016.mp3"
+    },
+    {
+      "id": 93,
+      "reciter": {
+        "ar": "علي حجاج السويسي",
+        "en": "Ali Hajjaj Al-Suwaisi"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server9.mp3quran.net/hajjaj",
+      "link": "https://server9.mp3quran.net/hajjaj/016.mp3"
+    },
+    {
+      "id": 94,
+      "reciter": {
+        "ar": "عماد زهير حافظ",
+        "en": "Imad Zuhair Hafez"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server6.mp3quran.net/hafz",
+      "link": "https://server6.mp3quran.net/hafz/016.mp3"
+    },
+    {
+      "id": 95,
+      "reciter": {
+        "ar": "عمر القزابري",
+        "en": "Omar Al-Qazbari"
+      },
+      "rewaya": {
+        "ar": "ورش عن نافع",
+        "en": "Warsh on the authority of Nafi’"
+      },
+      "server": "https://server9.mp3quran.net/omar_warsh",
+      "link": "https://server9.mp3quran.net/omar_warsh/016.mp3"
+    },
+    {
+      "id": 96,
+      "reciter": {
+        "ar": "فؤاد الخامري",
+        "en": "Fouad Al-Khamiri"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server16.mp3quran.net/f_khamery/Rewayat-Hafs-A-n-Assem",
+      "link": "https://server16.mp3quran.net/f_khamery/Rewayat-Hafs-A-n-Assem/016.mp3"
+    },
+    {
+      "id": 97,
+      "reciter": {
+        "ar": "فارس عباد",
+        "en": "Fares Abbad"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server8.mp3quran.net/frs_a",
+      "link": "https://server8.mp3quran.net/frs_a/016.mp3"
+    },
+    {
+      "id": 98,
+      "reciter": {
+        "ar": "ماجد الزامل",
+        "en": "Majed Al-Zamil"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server9.mp3quran.net/zaml",
+      "link": "https://server9.mp3quran.net/zaml/016.mp3"
+    },
+    {
+      "id": 99,
+      "reciter": {
+        "ar": "مال الله عبدالرحمن الجابر",
+        "en": "Mal Allah Abdul Rahman Al Jaber"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server16.mp3quran.net/mal-allah_jaber/Rewayat-Hafs-A-n-Assem",
+      "link": "https://server16.mp3quran.net/mal-allah_jaber/Rewayat-Hafs-A-n-Assem/016.mp3"
+    },
+    {
+      "id": 100,
+      "reciter": {
+        "ar": "ماهر المعيقلي",
+        "en": "Maher Al-Muaiqly"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server12.mp3quran.net/maher/Almusshaf-Al-Mojawwad",
+      "link": "https://server12.mp3quran.net/maher/Almusshaf-Al-Mojawwad/016.mp3"
+    },
+    {
+      "id": 101,
+      "reciter": {
+        "ar": "ماهر المعيقلي",
+        "en": "Maher Al-Muaiqly"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server12.mp3quran.net/maher",
+      "link": "https://server12.mp3quran.net/maher/016.mp3"
+    },
+    {
+      "id": 102,
+      "reciter": {
+        "ar": "ماهر شخاشيرو",
+        "en": "Maher Shakhashero"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server10.mp3quran.net/shaksh",
+      "link": "https://server10.mp3quran.net/shaksh/016.mp3"
+    },
+    {
+      "id": 103,
+      "reciter": {
+        "ar": "محمد أبوسنينة",
+        "en": "Muhammad Abu Sneina"
+      },
+      "rewaya": {
+        "ar": "قالون عن نافع",
+        "en": "They said about Nafi’"
+      },
+      "server": "https://server16.mp3quran.net/sneineh/Rewayat-Qalon-A-n-Nafi",
+      "link": "https://server16.mp3quran.net/sneineh/Rewayat-Qalon-A-n-Nafi/016.mp3"
+    },
+    {
+      "id": 104,
+      "reciter": {
+        "ar": "محمد أيوب",
+        "en": "Muhammad Ayoub"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server8.mp3quran.net/ayyub",
+      "link": "https://server8.mp3quran.net/ayyub/016.mp3"
+    },
+    {
+      "id": 105,
+      "reciter": {
+        "ar": "محمد الأمين قنيوة",
+        "en": "Muhammad Al-Amin Qenwa"
+      },
+      "rewaya": {
+        "ar": "قالون عن نافع",
+        "en": "They said about Nafi’"
+      },
+      "server": "https://server16.mp3quran.net/qeniwa/Rewayat-Qalon-A-n-Nafi",
+      "link": "https://server16.mp3quran.net/qeniwa/Rewayat-Qalon-A-n-Nafi/016.mp3"
+    },
+    {
+      "id": 106,
+      "reciter": {
+        "ar": "محمد الطبلاوي",
+        "en": "Muhammad Al-Tablawi"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server12.mp3quran.net/tblawi",
+      "link": "https://server12.mp3quran.net/tblawi/016.mp3"
+    },
+    {
+      "id": 107,
+      "reciter": {
+        "ar": "محمد اللحيدان",
+        "en": "Muhammad Al-Luhaidan"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server8.mp3quran.net/lhdan",
+      "link": "https://server8.mp3quran.net/lhdan/016.mp3"
+    },
+    {
+      "id": 108,
+      "reciter": {
+        "ar": "محمد جبريل",
+        "en": "Muhammad Jibril"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server8.mp3quran.net/jbrl",
+      "link": "https://server8.mp3quran.net/jbrl/016.mp3"
+    },
+    {
+      "id": 109,
+      "reciter": {
+        "ar": "محمد رشاد الشريف",
+        "en": "Muhammad Rashad Al-Sharif"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server10.mp3quran.net/rashad",
+      "link": "https://server10.mp3quran.net/rashad/016.mp3"
+    },
+    {
+      "id": 110,
+      "reciter": {
+        "ar": "محمد سايد",
+        "en": "Mohamed Sayed"
+      },
+      "rewaya": {
+        "ar": "ورش عن نافع",
+        "en": "Warsh on the authority of Nafi’"
+      },
+      "server": "https://server16.mp3quran.net/m_sayed/Rewayat-Warsh-A-n-Nafi",
+      "link": "https://server16.mp3quran.net/m_sayed/Rewayat-Warsh-A-n-Nafi/016.mp3"
+    },
+    {
+      "id": 111,
+      "reciter": {
+        "ar": "محمد صالح عالم شاه",
+        "en": "Muhammad Saleh Alam Shah"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server12.mp3quran.net/shah",
+      "link": "https://server12.mp3quran.net/shah/016.mp3"
+    },
+    {
+      "id": 112,
+      "reciter": {
+        "ar": "محمد صديق المنشاوي",
+        "en": "Muhammad Siddiq Al-Minshawi"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server10.mp3quran.net/minsh",
+      "link": "https://server10.mp3quran.net/minsh/016.mp3"
+    },
+    {
+      "id": 113,
+      "reciter": {
+        "ar": "محمد صديق المنشاوي",
+        "en": "Muhammad Siddiq Al-Minshawi"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server10.mp3quran.net/minsh/Almusshaf-Al-Mojawwad",
+      "link": "https://server10.mp3quran.net/minsh/Almusshaf-Al-Mojawwad/016.mp3"
+    },
+    {
+      "id": 114,
+      "reciter": {
+        "ar": "محمد صديق المنشاوي",
+        "en": "Muhammad Siddiq Al-Minshawi"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server10.mp3quran.net/minsh/Almusshaf-Al-Mo-lim",
+      "link": "https://server10.mp3quran.net/minsh/Almusshaf-Al-Mo-lim/016.mp3"
+    },
+    {
+      "id": 115,
+      "reciter": {
+        "ar": "محمد عبدالحكيم العبدالله",
+        "en": "Muhammad Abdul Hakim Al Abdullah"
+      },
+      "rewaya": {
+        "ar": "البزي وقنبل عن ابن كثير",
+        "en": "Al-Bazi and Qunbul on the authority of Ibn Kathir"
+      },
+      "server": "https://server9.mp3quran.net/abdullah",
+      "link": "https://server9.mp3quran.net/abdullah/016.mp3"
+    },
+    {
+      "id": 116,
+      "reciter": {
+        "ar": "محمد عبدالحكيم العبدالله",
+        "en": "Muhammad Abdul Hakim Al Abdullah"
+      },
+      "rewaya": {
+        "ar": "الدوري عن الكسائي",
+        "en": "Al-Douri from Al-Kisa’i"
+      },
+      "server": "https://server9.mp3quran.net/abdullah/Rewayat-AlDorai-A-n-Al-Kisa-ai",
+      "link": "https://server9.mp3quran.net/abdullah/Rewayat-AlDorai-A-n-Al-Kisa-ai/016.mp3"
+    },
+    {
+      "id": 117,
+      "reciter": {
+        "ar": "محمد عبدالكريم",
+        "en": "Muhammad Abdel Karim"
+      },
+      "rewaya": {
+        "ar": "ورش عن نافع",
+        "en": "Warsh on the authority of Nafi’"
+      },
+      "server": "https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/",
+      "link": "https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani//016.mp3"
+    },
+    {
+      "id": 118,
+      "reciter": {
+        "ar": "محمد عبدالكريم",
+        "en": "Muhammad Abdel Karim"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server12.mp3quran.net/m_krm",
+      "link": "https://server12.mp3quran.net/m_krm/016.mp3"
+    },
+    {
+      "id": 119,
+      "reciter": {
+        "ar": "محمد عثمان خان ( من الهند )",
+        "en": "Muhammad Usman Khan (from India)"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server6.mp3quran.net/khan",
+      "link": "https://server6.mp3quran.net/khan/016.mp3"
+    },
+    {
+      "id": 120,
+      "reciter": {
+        "ar": "محمود الرفاعي",
+        "en": "Mahmoud Al-Rifai"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server11.mp3quran.net/mrifai",
+      "link": "https://server11.mp3quran.net/mrifai/016.mp3"
+    },
+    {
+      "id": 121,
+      "reciter": {
+        "ar": "محمود الشيمي",
+        "en": "Mahmoud Al-Shimi"
+      },
+      "rewaya": {
+        "ar": "الدوري عن الكسائي",
+        "en": "Al-Douri from Al-Kisa’i"
+      },
+      "server": "https://server10.mp3quran.net/sheimy",
+      "link": "https://server10.mp3quran.net/sheimy/016.mp3"
+    },
+    {
+      "id": 122,
+      "reciter": {
+        "ar": "محمود خليل الحصري",
+        "en": "Mahmoud Khalil Al-Hosary"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server13.mp3quran.net/husr/Almusshaf-Al-Mojawwad",
+      "link": "https://server13.mp3quran.net/husr/Almusshaf-Al-Mojawwad/016.mp3"
+    },
+    {
+      "id": 123,
+      "reciter": {
+        "ar": "محمود خليل الحصري",
+        "en": "Mahmoud Khalil Al-Hosary"
+      },
+      "rewaya": {
+        "ar": "قالون عن نافع",
+        "en": "They said about Nafi’"
+      },
+      "server": "https://server13.mp3quran.net/husr/Rewayat-Qalon-A-n-Nafi",
+      "link": "https://server13.mp3quran.net/husr/Rewayat-Qalon-A-n-Nafi/016.mp3"
+    },
+    {
+      "id": 124,
+      "reciter": {
+        "ar": "محمود خليل الحصري",
+        "en": "Mahmoud Khalil Al-Hosary"
+      },
+      "rewaya": {
+        "ar": "الدوري عن أبي عمرو",
+        "en": "Al-Duri on the authority of Abu Amr"
+      },
+      "server": "https://server13.mp3quran.net/husr/Rewayat-Aldori-A-n-Abi-Amr",
+      "link": "https://server13.mp3quran.net/husr/Rewayat-Aldori-A-n-Abi-Amr/016.mp3"
+    },
+    {
+      "id": 125,
+      "reciter": {
+        "ar": "محمود خليل الحصري",
+        "en": "Mahmoud Khalil Al-Hosary"
+      },
+      "rewaya": {
+        "ar": "ورش عن نافع",
+        "en": "Warsh on the authority of Nafi’"
+      },
+      "server": "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi",
+      "link": "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/016.mp3"
+    },
+    {
+      "id": 126,
+      "reciter": {
+        "ar": "محمود خليل الحصري",
+        "en": "Mahmoud Khalil Al-Hosary"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server13.mp3quran.net/husr",
+      "link": "https://server13.mp3quran.net/husr/016.mp3"
+    },
+    {
+      "id": 127,
+      "reciter": {
+        "ar": "محمود عبدالحكم",
+        "en": "Mahmoud Abdel Hakam"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server16.mp3quran.net/m_abdelhakam/Rewayat-Hafs-A-n-Assem",
+      "link": "https://server16.mp3quran.net/m_abdelhakam/Rewayat-Hafs-A-n-Assem/016.mp3"
+    },
+    {
+      "id": 128,
+      "reciter": {
+        "ar": "محمود علي البنا",
+        "en": "Mahmoud Ali Al-Banna"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server8.mp3quran.net/bna",
+      "link": "https://server8.mp3quran.net/bna/016.mp3"
+    },
+    {
+      "id": 129,
+      "reciter": {
+        "ar": "محمود علي البنا",
+        "en": "Mahmoud Ali Al-Banna"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server8.mp3quran.net/bna/Almusshaf-Al-Mojawwad/",
+      "link": "https://server8.mp3quran.net/bna/Almusshaf-Al-Mojawwad//016.mp3"
+    },
+    {
+      "id": 130,
+      "reciter": {
+        "ar": "مروان العكري",
+        "en": "Marwan Al-Ekry"
+      },
+      "rewaya": {
+        "ar": "قالون عن نافع",
+        "en": "They said about Nafi’"
+      },
+      "server": "https://server16.mp3quran.net/m_akri/Rewayat-Qalon-A-n-Nafi",
+      "link": "https://server16.mp3quran.net/m_akri/Rewayat-Qalon-A-n-Nafi/016.mp3"
+    },
+    {
+      "id": 131,
+      "reciter": {
+        "ar": "مشاري العفاسي",
+        "en": "Mishary Al-Afasy"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server8.mp3quran.net/afs",
+      "link": "https://server8.mp3quran.net/afs/016.mp3"
+    },
+    {
+      "id": 132,
+      "reciter": {
+        "ar": "مصطفى إسماعيل",
+        "en": "Mustafa Ismail"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server8.mp3quran.net/mustafa/Almusshaf-Al-Mojawwad",
+      "link": "https://server8.mp3quran.net/mustafa/Almusshaf-Al-Mojawwad/016.mp3"
+    },
+    {
+      "id": 133,
+      "reciter": {
+        "ar": "مصطفى إسماعيل",
+        "en": "Mustafa Ismail"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server8.mp3quran.net/mustafa",
+      "link": "https://server8.mp3quran.net/mustafa/016.mp3"
+    },
+    {
+      "id": 134,
+      "reciter": {
+        "ar": "مصطفى اللاهوني",
+        "en": "Mustafa Al-Lahouni"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server6.mp3quran.net/lahoni",
+      "link": "https://server6.mp3quran.net/lahoni/016.mp3"
+    },
+    {
+      "id": 135,
+      "reciter": {
+        "ar": "مصطفى رعد العزاوي",
+        "en": "Mustafa Raad Al-Azzawi"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server8.mp3quran.net/ra3ad",
+      "link": "https://server8.mp3quran.net/ra3ad/016.mp3"
+    },
+    {
+      "id": 136,
+      "reciter": {
+        "ar": "معيض الحارثي",
+        "en": "Moeed Al-Harthy"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server8.mp3quran.net/harthi",
+      "link": "https://server8.mp3quran.net/harthi/016.mp3"
+    },
+    {
+      "id": 137,
+      "reciter": {
+        "ar": "مفتاح السلطني",
+        "en": "Saltani Key"
+      },
+      "rewaya": {
+        "ar": "الدوري عن الكسائي",
+        "en": "Al-Douri from Al-Kisa’i"
+      },
+      "server": "https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai",
+      "link": "https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/016.mp3"
+    },
+    {
+      "id": 138,
+      "reciter": {
+        "ar": "مفتاح السلطني",
+        "en": "Saltani Key"
+      },
+      "rewaya": {
+        "ar": "ابن ذكوان عن ابن عامر",
+        "en": "Ibn Dhakwan, on the authority of Ibn Amer"
+      },
+      "server": "https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer",
+      "link": "https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/016.mp3"
+    },
+    {
+      "id": 139,
+      "reciter": {
+        "ar": "مفتاح السلطني",
+        "en": "Saltani Key"
+      },
+      "rewaya": {
+        "ar": "الدوري عن أبي عمرو",
+        "en": "Al-Duri on the authority of Abu Amr"
+      },
+      "server": "https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr",
+      "link": "https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/016.mp3"
+    },
+    {
+      "id": 140,
+      "reciter": {
+        "ar": "مفتاح السلطني",
+        "en": "Saltani Key"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem",
+      "link": "https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/016.mp3"
+    },
+    {
+      "id": 141,
+      "reciter": {
+        "ar": "موسى بلال",
+        "en": "Musa Bilal"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server11.mp3quran.net/bilal",
+      "link": "https://server11.mp3quran.net/bilal/016.mp3"
+    },
+    {
+      "id": 142,
+      "reciter": {
+        "ar": "ناصر القطامي",
+        "en": "Nasser Al-Qatami"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server6.mp3quran.net/qtm",
+      "link": "https://server6.mp3quran.net/qtm/016.mp3"
+    },
+    {
+      "id": 143,
+      "reciter": {
+        "ar": "ناصر الماجد",
+        "en": "Nasser Al Majid"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server14.mp3quran.net/nasser_almajed",
+      "link": "https://server14.mp3quran.net/nasser_almajed/016.mp3"
+    },
+    {
+      "id": 144,
+      "reciter": {
+        "ar": "نبيل الرفاعي",
+        "en": "Nabil Al-Rifai"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server9.mp3quran.net/nabil",
+      "link": "https://server9.mp3quran.net/nabil/016.mp3"
+    },
+    {
+      "id": 145,
+      "reciter": {
+        "ar": "نذير المالكي",
+        "en": "Nazir Al-Maliki"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server16.mp3quran.net/nathier/Rewayat-Hafs-A-n-Assem",
+      "link": "https://server16.mp3quran.net/nathier/Rewayat-Hafs-A-n-Assem/016.mp3"
+    },
+    {
+      "id": 146,
+      "reciter": {
+        "ar": "نعمة الحسان",
+        "en": "The blessing of kindness"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server8.mp3quran.net/namh",
+      "link": "https://server8.mp3quran.net/namh/016.mp3"
+    },
+    {
+      "id": 147,
+      "reciter": {
+        "ar": "نورين محمد صديق",
+        "en": "Noreen Muhammad Siddiq"
+      },
+      "rewaya": {
+        "ar": "الدوري عن أبي عمرو",
+        "en": "Al-Duri on the authority of Abu Amr"
+      },
+      "server": "https://server16.mp3quran.net/nourin_siddig/Rewayat-Aldori-A-n-Abi-Amr",
+      "link": "https://server16.mp3quran.net/nourin_siddig/Rewayat-Aldori-A-n-Abi-Amr/016.mp3"
+    },
+    {
+      "id": 148,
+      "reciter": {
+        "ar": "هاشم أبو دلال",
+        "en": "Hashem Abu Dalal"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server16.mp3quran.net/h_abudalal/Rewayat-Hafs-A-n-Assem",
+      "link": "https://server16.mp3quran.net/h_abudalal/Rewayat-Hafs-A-n-Assem/016.mp3"
+    },
+    {
+      "id": 149,
+      "reciter": {
+        "ar": "هاني الرفاعي",
+        "en": "Hani Al-Rifai"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server8.mp3quran.net/hani",
+      "link": "https://server8.mp3quran.net/hani/016.mp3"
+    },
+    {
+      "id": 150,
+      "reciter": {
+        "ar": "وديع اليمني",
+        "en": "Wadih Al-Yamani"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server6.mp3quran.net/wdee3",
+      "link": "https://server6.mp3quran.net/wdee3/016.mp3"
+    },
+    {
+      "id": 151,
+      "reciter": {
+        "ar": "وليد النائحي",
+        "en": "Walid Al-Nahi"
+      },
+      "rewaya": {
+        "ar": "قالون عن نافع",
+        "en": "They said about Nafi’"
+      },
+      "server": "https://server9.mp3quran.net/waleed",
+      "link": "https://server9.mp3quran.net/waleed/016.mp3"
+    },
+    {
+      "id": 152,
+      "reciter": {
+        "ar": "ياسر الدوسري",
+        "en": "Yasser Al-Dosari"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server11.mp3quran.net/yasser",
+      "link": "https://server11.mp3quran.net/yasser/016.mp3"
+    },
+    {
+      "id": 153,
+      "reciter": {
+        "ar": "ياسر القرشي",
+        "en": "Yasser Al Qurashi"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server9.mp3quran.net/qurashi",
+      "link": "https://server9.mp3quran.net/qurashi/016.mp3"
+    },
+    {
+      "id": 154,
+      "reciter": {
+        "ar": "ياسر المزروعي ",
+        "en": "Yasser Al Mazroui"
+      },
+      "rewaya": {
+        "ar": "روايتي رويس وروح",
+        "en": "My novel Royce and Soul"
+      },
+      "server": "https://server9.mp3quran.net/mzroyee",
+      "link": "https://server9.mp3quran.net/mzroyee/016.mp3"
+    },
+    {
+      "id": 155,
+      "reciter": {
+        "ar": "ياسر سلامة",
+        "en": "Yasser Salama"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server12.mp3quran.net/salamah/Rewayat-Hafs-A-n-Assem/",
+      "link": "https://server12.mp3quran.net/salamah/Rewayat-Hafs-A-n-Assem//016.mp3"
+    },
+    {
+      "id": 156,
+      "reciter": {
+        "ar": "يحيى حوا",
+        "en": "Yahya Hawa"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server12.mp3quran.net/yahya",
+      "link": "https://server12.mp3quran.net/yahya/016.mp3"
+    },
+    {
+      "id": 157,
+      "reciter": {
+        "ar": "يوسف الشويعي",
+        "en": "Youssef Al-Shuwaii"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server9.mp3quran.net/yousef",
+      "link": "https://server9.mp3quran.net/yousef/016.mp3"
+    },
+    {
+      "id": 158,
+      "reciter": {
+        "ar": "يوسف بن نوح أحمد",
+        "en": "Youssef bin Noah Ahmed"
+      },
+      "rewaya": {
+        "ar": "حفص عن عاصم",
+        "en": "Hafs on the authority of Asim"
+      },
+      "server": "https://server8.mp3quran.net/noah",
+      "link": "https://server8.mp3quran.net/noah/016.mp3"
+    }
+  ]
+}
