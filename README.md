@@ -205,6 +205,16 @@ docker rmi quran_data
 
 يتم ترخيص هذا المشروع تحت [رخصة MIT](./LICENSE).
 
-
-
 - مثال على الواجهة [quran-data](https://quran.i8x.net/)
+
+## تحميل القاعدة
+
+<div align="center">
+
+[![json](./unused/but-json.png)](https://github.com/rn0x/Quran-Json/releases/download/v2.0.0/database.json)
+
+[![sqlite](./unused/but-sqlite.png)](https://github.com/rn0x/Quran-Json/releases/download/v2.0.0/database.sqlite)
+
+[![csv](./unused/but-csv.png)](https://github.com/rn0x/Quran-Json/releases/download/v2.0.0/database.csv)
+
+</div>
