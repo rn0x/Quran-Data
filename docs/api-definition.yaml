@@ -1,0 +1,404 @@
+openapi: 3.0.0
+info:
+  title: واجهة برمجة تطبيقات القرآن
+  description: واجهة برمجة تطبيقات للوصول إلى بيانات القرآن بما في ذلك السور والآيات والتسجيلات الصوتية والمزيد.
+  version: 2.0.0
+servers:
+  - url: http://localhost:3000/api
+    description: الخادم المحلي
+
+paths:
+  /surahs:
+    get:
+      summary: استرجاع جميع السور
+      responses:
+        '200':
+          description: قائمة بجميع السور
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  success:
+                    type: boolean
+                    example: true
+                  result:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        number:
+                          type: integer
+                          example: 1
+                        name:
+                          type: object
+                          properties:
+                            ar:
+                              type: string
+                              example: الفاتحة
+                            en:
+                              type: string
+                              example: The Opening
+                            transliteration:
+                              type: string
+                              example: Al-Fatihah
+                        revelation_place:
+                          type: object
+                          properties:
+                            ar:
+                              type: string
+                              example: مكية
+                            en:
+                              type: string
+                              example: meccan
+                        verses_count:
+                          type: integer
+                          example: 7
+                        words_count:
+                          type: integer
+                          example: 29
+                        letters_count:
+                          type: integer
+                          example: 139
+
+  /surah:
+    get:
+      summary: استرجاع سورة محددة باستخدام ID
+      parameters:
+        - name: surah_id
+          in: query
+          required: true
+          schema:
+            type: integer
+            example: 1
+      responses:
+        '200':
+          description: السورة المطلوبة
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  success:
+                    type: boolean
+                    example: true
+                  result:
+                    type: object
+                    properties:
+                      number:
+                        type: integer
+                        example: 1
+                      name:
+                        type: object
+                        properties:
+                          ar:
+                            type: string
+                            example: الفاتحة
+                          en:
+                            type: string
+                            example: The Opening
+                          transliteration:
+                            type: string
+                            example: Al-Fatihah
+                      revelation_place:
+                        type: object
+                        properties:
+                          ar:
+                            type: string
+                            example: مكية
+                          en:
+                            type: string
+                            example: meccan
+                      verses_count:
+                        type: integer
+                        example: 7
+                      words_count:
+                        type: integer
+                        example: 29
+                      letters_count:
+                        type: integer
+                        example: 139
+                      verses:
+                        type: array
+                        items:
+                          type: object
+                          properties:
+                            number:
+                              type: integer
+                              example: 1
+                            text:
+                              type: object
+                              properties:
+                                ar:
+                                  type: string
+                                  example: الٓمٓ
+                                en:
+                                  type: string
+                                  example: Alif, Lam, Meem
+                            juz:
+                              type: integer
+                              example: 1
+                            page:
+                              type: integer
+                              example: 2
+                            sajda:
+                              type: boolean
+                              example: false
+                      audio:
+                        type: array
+                        items:
+                          type: object
+                          properties:
+                            id:
+                              type: integer
+                              example: 1
+                            reciter:
+                              type: object
+                              properties:
+                                ar:
+                                  type: string
+                                  example: أحمد الحواشي
+                                en:
+                                  type: string
+                                  example: Ahmed Al-Hawashi
+                            rewaya:
+                              type: object
+                              properties:
+                                ar:
+                                  type: string
+                                  example: حفص عن عاصم
+                                en:
+                                  type: string
+                                  example: Hafs on the authority of Asim
+                            server:
+                              type: string
+                              example: https://server11.mp3quran.net/hawashi
+                            link:
+                              type: string
+                              example: https://server11.mp3quran.net/hawashi/001.mp3
+
+  /verses:
+    get:
+      summary: استرجاع جميع الآيات لسورة محددة
+      parameters:
+        - name: surah_id
+          in: query
+          required: true
+          schema:
+            type: integer
+            example: 1
+      responses:
+        '200':
+          description: قائمة بالآيات في السورة المحددة
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  success:
+                    type: boolean
+                    example: true
+                  result:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        number:
+                          type: integer
+                          example: 1
+                        text:
+                          type: object
+                          properties:
+                            ar:
+                              type: string
+                              example: الٓمٓ
+                            en:
+                              type: string
+                              example: Alif, Lam, Meem
+                        juz:
+                          type: integer
+                          example: 1
+                        page:
+                          type: integer
+                          example: 2
+                        sajda:
+                          type: boolean
+                          example: false
+
+  /sajda:
+    get:
+      summary: استرجاع جميع الآيات التي تحتوي على سجدة
+      responses:
+        '200':
+          description: قائمة بالآيات التي تحتوي على سجدة
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  success:
+                    type: boolean
+                    example: true
+                  result:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        number:
+                          type: integer
+                          example: 15
+                        text:
+                          type: object
+                          properties:
+                            ar:
+                              type: string
+                              example: وَلِلَّهِۤ يَسۡجُدُۤ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ طَوۡعٗا وَكَرۡهٗا وَظِلَٰلُهُم بِٱلۡغُدُوِّ وَٱلۡأٓصَالِ۩
+                            en:
+                              type: string
+                              example: And to Allah prostrates whoever is within the heavens and the earth, willingly or by compulsion, and their shadows [as well] in the mornings and the afternoons
+                        juz:
+                          type: integer
+                          example: 13
+                        page:
+                          type: integer
+                          example: 251
+                        sajda:
+                          type: object
+                          properties:
+                            id:
+                              type: integer
+                              example: 2
+                            recommended:
+                              type: boolean
+                              example: true
+                            obligatory:
+                              type: boolean
+                              example: false
+                        surahName:
+                          type: string
+                          example: الرعد
+                        surahNumber:
+                          type: integer
+                          example: 13
+
+  /audio:
+    get:
+      summary: استرجاع التسجيل الصوتي لسورة محددة
+      parameters:
+        - name: surah_id
+          in: query
+          required: true
+          schema:
+            type: integer
+            example: 1
+      responses:
+        '200':
+          description: بيانات التسجيل الصوتي للسورة المحددة
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  success:
+                    type: boolean
+                    example: true
+                  result:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        id:
+                          type: integer
+                          example: 1
+                        reciter:
+                          type: object
+                          properties:
+                            ar:
+                              type: string
+                              example: أحمد الحواشي
+                            en:
+                              type: string
+                              example: Ahmed Al-Hawashi
+                        rewaya:
+                          type: object
+                          properties:
+                            ar:
+                              type: string
+                              example: حفص عن عاصم
+                            en:
+                              type: string
+                              example: Hafs on the authority of Asim
+                        server:
+                          type: string
+                          example: https://server11.mp3quran.net/hawashi
+                        link:
+                          type: string
+                          example: https://server11.mp3quran.net/hawashi/001.mp3
+
+  /juz:
+    get:
+      summary: استرجاع الآيات حسب ID الجزء
+      parameters:
+        - name: juz_id
+          in: query
+          required: true
+          schema:
+            type: integer
+            example: 1
+      responses:
+        '200':
+          description: قائمة بالآيات في الجزء المحدد
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  success:
+                    type: boolean
+                    example: true
+                  result:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        number:
+                          type: integer
+                          example: 1
+                        text:
+                          type: object
+                          properties:
+                            ar:
+                              type: string
+                              example: وَٱلۡعَٰدِيَٰتِ ضَبۡحٗا
+                            en:
+                              type: string
+                              example: By the racers, panting
+                        juz:
+                          type: integer
+                          example: 30
+                        page:
+                          type: integer
+                          example: 599
+                        sajda:
+                          type: boolean
+                          example: false
+                        surahName:
+                          type: string
+                          example: العاديات
+                        surahNumber:
+                          type: integer
+                          example: 100
+
+components:
+  schemas:
+    Error:
+      type: object
+      properties:
+        success:
+          type: boolean
+          example: false
+        message:
+          type: string
+          example: حدث خطأ أثناء استرجاع البيانات.
+        details:
+          type: object

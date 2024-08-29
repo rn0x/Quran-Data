@@ -2,12 +2,12 @@
   "name": "quran-data",
   "description": "مشروع Quran Data يوفر واجهة برمجة تطبيقات للوصول إلى بيانات القرآن الكريم وتنظيمها بشكل مرن وشامل",
   "version": "2.0.0",
-  "main": "api/server.mjs",
+  "main": "server/server.mjs",
   "directories": {
     "doc": "docs"
   },
   "scripts": {
-    "start": "node api/server.mjs",
+    "start": "node server/server.mjs",
     "dev": "nodemon",
     "splitData": "node scripts/splitData.js",
     "jsonToSqlite": "node scripts/jsonToSqlite.mjs",
