@@ -27,8 +27,8 @@ const surahMetadata = quranData.map((surah) => ({
     name: surah.name,
     revelation_place: surah.revelation_place,
     verses_count: surah.verses_count,
-    words_count: surah.words__count,
-    letters_count: surah.letters__count,
+    words_count: surah.words_count,
+    letters_count: surah.letters_count,
 }));
 
 // حفظ ملف metadata.json
