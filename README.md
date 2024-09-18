@@ -211,6 +211,8 @@ docker rmi quran_data
 
 <div align="center">
 
+![quran-data](https://img.shields.io/github/downloads/rn0x/Quran-Data/total?color=blue&label=Total%20Downloads)
+
 [![json](./unused/but-json.png)](https://github.com/rn0x/Quran-Json/releases/download/v2.0.0/database.json)
 
 [![sqlite](./unused/but-sqlite.png)](https://github.com/rn0x/Quran-Json/releases/download/v2.0.0/database.sqlite)
