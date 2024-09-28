@@ -1,7 +1,7 @@
 {
   "name": "quran-data",
   "description": "مشروع Quran Data يوفر واجهة برمجة تطبيقات للوصول إلى بيانات القرآن الكريم وتنظيمها بشكل مرن وشامل",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "main": "server/server.mjs",
   "directories": {
     "doc": "docs"

@@ -2,9 +2,9 @@ openapi: 3.0.0
 info:
   title: واجهة برمجة تطبيقات القرآن
   description: واجهة برمجة تطبيقات للوصول إلى بيانات القرآن بما في ذلك السور والآيات والتسجيلات الصوتية والمزيد.
-  version: 2.0.0
+  version: 2.1.0
 servers:
-  - url: http://localhost:3000/api
+  - url: http://localhost:5000/api
     description: الخادم المحلي
 
 paths:
@@ -12,7 +12,7 @@ paths:
     get:
       summary: استرجاع جميع السور
       responses:
-        '200':
+        "200":
           description: قائمة بجميع السور
           content:
             application/json:
@@ -72,7 +72,7 @@ paths:
             type: integer
             example: 1
       responses:
-        '200':
+        "200":
           description: السورة المطلوبة
           content:
             application/json:
@@ -188,7 +188,7 @@ paths:
             type: integer
             example: 1
       responses:
-        '200':
+        "200":
           description: قائمة بالآيات في السورة المحددة
           content:
             application/json:
@@ -229,7 +229,7 @@ paths:
     get:
       summary: استرجاع جميع الآيات التي تحتوي على سجدة
       responses:
-        '200':
+        "200":
           description: قائمة بالآيات التي تحتوي على سجدة
           content:
             application/json:
@@ -292,7 +292,7 @@ paths:
             type: integer
             example: 1
       responses:
-        '200':
+        "200":
           description: بيانات التسجيل الصوتي للسورة المحددة
           content:
             application/json:
@@ -346,7 +346,7 @@ paths:
             type: integer
             example: 1
       responses:
-        '200':
+        "200":
           description: قائمة بالآيات في الجزء المحدد
           content:
             application/json:
@@ -388,6 +388,96 @@ paths:
                         surahNumber:
                           type: integer
                           example: 100
+
+  /pages:
+    get:
+      summary: استرجاع بيانات الصفحات
+      parameters:
+        - name: surah_id
+          in: query
+          required: false
+          schema:
+            type: integer
+            example: 2
+        - name: verse_id
+          in: query
+          required: false
+          schema:
+            type: integer
+            example: 15
+        - name: page
+          in: query
+          required: false
+          schema:
+            type: integer
+            example: 604
+      responses:
+        "200":
+          description: بيانات الصفحة المطلوبة
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  success:
+                    type: boolean
+                    example: true
+                  result:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        page:
+                          type: integer
+                          example: 1
+                        image:
+                          type: object
+                          properties:
+                            url:
+                              type: string
+                              example: "/data/quran_image/1.png"
+                        start:
+                          type: object
+                          properties:
+                            surah_number:
+                              type: integer
+                              example: 1
+                            verse:
+                              type: integer
+                              example: 1
+                            name:
+                              type: object
+                              properties:
+                                ar:
+                                  type: string
+                                  example: "الفاتحة"
+                                en:
+                                  type: string
+                                  example: "The Opening"
+                                transliteration:
+                                  type: string
+                                  example: "Al-Fatihah"
+                        end:
+                          type: object
+                          properties:
+                            surah_number:
+                              type: integer
+                              example: 1
+                            verse:
+                              type: integer
+                              example: 7
+                            name:
+                              type: object
+                              properties:
+                                ar:
+                                  type: string
+                                  example: "الفاتحة"
+                                en:
+                                  type: string
+                                  example: "The Opening"
+                                transliteration:
+                                  type: string
+                                  example: "Al-Fatihah"
 
 components:
   schemas:

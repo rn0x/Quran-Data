@@ -27,6 +27,7 @@
 │
 ├── 📂 data
 │   ├── mainDataQuran.json                # البيانات الرئيسية المتعلقة بالقرآن الكريم.
+│   ├── pagesQuran.json                # بيانات صفحات القرآن الكريم
 │   ├── 📂 json
 │   │   ├── metadata.json                # بيانات تعريفية حول السور.
 │   │   ├── 📂 surah
@@ -140,22 +141,24 @@
 
 لمزيد من المعلومات حول كيفية استخدام واجهة برمجة التطبيقات، [راجع الصفحة](https://quran.i8x.net/docs).
 
-
-- **الخادم المحلي**: `http://localhost:3000/api`
+- **الخادم المحلي**: `http://localhost:5000/api`
 
 ## 🚀 النقاط النهائية (Endpoints)
 
 ### 1. 🕌 استرجاع جميع السور
+
 - **النقطة**: `/surahs`
 - **الطريقة**: `GET`
 - **الوصف**: استرجاع قائمة بجميع السور في القرآن.
-  
+
 #### 📦 مثال `curl`:
+
 ```bash
-curl -X GET "http://localhost:3000/api/surahs"
+curl -X GET "http://localhost:5000/api/surahs"
 ```
 
 #### ✅ الاستجابة:
+
 ```json
 {
   "success": true,
@@ -182,19 +185,25 @@ curl -X GET "http://localhost:3000/api/surahs"
 ---
 
 ### 2. 📖 استرجاع سورة محددة
+
 - **النقطة**: `/surah`
 - **الطريقة**: `GET`
 - **الوصف**: استرجاع سورة معينة باستخدام معرف (ID) السورة.
-  
+
 #### 📝 المعلمة:
+
 - `surah_id` (إجباري) - معرف السورة.
 
 #### 📦 مثال `curl`:
+
 ```bash
-curl -X GET "http://localhost:3000/api/surah?surah_id=1"
+curl -X GET "http://localhost:5000/api/surah?surah_id=1"
+or
+curl -X GET "http://localhost:5000/api/surah/1"
 ```
 
 #### ✅ الاستجابة:
+
 ```json
 {
   "success": true,
@@ -223,19 +232,25 @@ curl -X GET "http://localhost:3000/api/surah?surah_id=1"
 ---
 
 ### 3. 📜 استرجاع جميع الآيات لسورة محددة
+
 - **النقطة**: `/verses`
 - **الطريقة**: `GET`
 - **الوصف**: استرجاع جميع الآيات الخاصة بسورة معينة.
-  
+
 #### 📝 المعلمة:
+
 - `surah_id` (إجباري) - معرف السورة.
 
 #### 📦 مثال `curl`:
+
 ```bash
-curl -X GET "http://localhost:3000/api/verses?surah_id=1"
+curl -X GET "http://localhost:5000/api/verses?surah_id=1"
+or
+curl -X GET "http://localhost:5000/api/verses/1"
 ```
 
 #### ✅ الاستجابة:
+
 ```json
 {
   "success": true,
@@ -256,16 +271,19 @@ curl -X GET "http://localhost:3000/api/verses?surah_id=1"
 ---
 
 ### 4. 🕋 استرجاع جميع الآيات التي تحتوي على سجدة
+
 - **النقطة**: `/sajda`
 - **الطريقة**: `GET`
 - **الوصف**: استرجاع قائمة بالآيات التي تحتوي على مواضع سجدة.
 
 #### 📦 مثال `curl`:
+
 ```bash
-curl -X GET "http://localhost:3000/api/sajda"
+curl -X GET "http://localhost:5000/api/sajda"
 ```
 
 #### ✅ الاستجابة:
+
 ```json
 {
   "success": true,
@@ -288,19 +306,25 @@ curl -X GET "http://localhost:3000/api/sajda"
 ---
 
 ### 5. 🎧 استرجاع التسجيل الصوتي لسورة محددة
+
 - **النقطة**: `/audio`
 - **الطريقة**: `GET`
 - **الوصف**: استرجاع التسجيل الصوتي لسورة معينة.
-  
+
 #### 📝 المعلمة:
+
 - `surah_id` (إجباري) - معرف السورة.
 
 #### 📦 مثال `curl`:
+
 ```bash
-curl -X GET "http://localhost:3000/api/audio?surah_id=1"
+curl -X GET "http://localhost:5000/api/audio?surah_id=1"
+or
+curl -X GET "http://localhost:5000/api/audio/1"
 ```
 
 #### ✅ الاستجابة:
+
 ```json
 {
   "success": true,
@@ -314,6 +338,76 @@ curl -X GET "http://localhost:3000/api/audio?surah_id=1"
       "link": "https://server11.mp3quran.net/hawashi/001.mp3"
     }
   ]
+}
+```
+
+---
+
+### 6. 📄 استرجاع معلومات الصفحة بناءً على السورة أو الآية
+
+- **النقطة**: `/pages`
+- **الطريقة**: `GET`
+- **الوصف**: استرجاع معلومات الصفحات التي تحتوي على سورة معينة أو آية محددة. يمكن تحديد السورة فقط، أو السورة والآية معًا للحصول على الصفحة الدقيقة.
+
+#### 📝 المعلمات:
+
+- `surah_id` معرف السورة.
+- `verse_id` معرف الآية.
+- `page` رقم الصفحة.
+
+#### 📦 مثال `curl`:
+
+**استرجاع الصفحات بناءً على معرف السورة:**
+
+```bash
+curl -X GET "http://localhost:5000/api/pages/2"
+or
+curl -X GET "http://localhost:5000/api/pages?surah_id=2"
+```
+
+**استرجاع الصفحة بناءً على السورة والآية:**
+
+```bash
+curl -X GET "http://localhost:5000/api/pages?surah_id=2&verse_id=15"
+or
+curl -X GET "http://localhost:5000/api/pages/2/15"
+```
+
+**استرجاع الصفحة بناءً على رقم الصفحة:**
+
+```bash
+curl -X GET "http://localhost:5000/api/pages?page=604"
+```
+
+#### ✅ الاستجابة:
+
+```json
+{
+  "success": true,
+  "result": {
+    "page": 5,
+    "image": {
+      "url": "/data/quran_image/5.png"
+    },
+    "start": {
+      "surah_number": 2,
+      "verse": 25,
+      "name": {
+        "ar": "البقرة",
+        "en": "The Cow",
+        "transliteration": "Al-Baqarah"
+      }
+    },
+    "end": {
+      "surah_number": 2,
+      "verse": 29,
+      "name": {
+        "ar": "البقرة",
+        "en": "The Cow",
+        "transliteration": "Al-Baqarah"
+      }
+    }
+  }
 }
 ```
 
@@ -354,7 +448,7 @@ curl -X GET "http://localhost:3000/api/audio?surah_id=1"
    يمكنك الوصول إلى التطبيق عبر متصفح الويب باستخدام العنوان التالي:
 
    ```
-   http://localhost:3000
+   http://localhost:5000
    ```
 
 ### إيقاف الحاوية
@@ -390,11 +484,11 @@ docker rmi quran_data
 
 ![quran-data](https://img.shields.io/github/downloads/rn0x/Quran-Data/total?color=blue&label=Total%20Downloads)
 
-[![json](./unused/but-json.png)](https://github.com/rn0x/Quran-Json/releases/download/v2.0.0/database.json)
+[![json](./unused/but-json.png)](https://github.com/rn0x/Quran-Json/releases/download/database/database.json)
 
-[![sqlite](./unused/but-sqlite.png)](https://github.com/rn0x/Quran-Json/releases/download/v2.0.0/database.sqlite)
+[![sqlite](./unused/but-sqlite.png)](https://github.com/rn0x/Quran-Json/releases/download/database/database.sqlite)
 
-[![csv](./unused/but-csv.png)](https://github.com/rn0x/Quran-Json/releases/download/v2.0.0/database.csv)
+[![csv](./unused/but-csv.png)](https://github.com/rn0x/Quran-Json/releases/download/database/database.csv)
 
 </div>
 

@@ -11,6 +11,8 @@ const metadataPath = path.join(__dirname, '..', '..', 'data', 'json', 'metadata.
 const surahFolderPath = path.join(__dirname, '..', '..', 'data', 'json', 'surah');
 const versesFolderPath = path.join(__dirname, '..', '..', 'data', 'json', 'verses');
 const audioFolderPath = path.join(__dirname, '..', '..', 'data', 'json', 'audio');
+const pagesQuranPath = path.join(__dirname, '..', '..', 'data', 'pagesQuran.json');
+
 
 export const getAllSurahs = (req, res) => {
     try {
@@ -28,7 +30,7 @@ export const getAllSurahs = (req, res) => {
 
 export const getAllVerses = (req, res) => {
     try {
-        const surahId = req.query.surah_id;
+        const surahId = req.query.surah_id || req.params.surah_id;
         const surahPath = path.join(surahFolderPath, `surah_${surahId}.json`);
 
         if (!fs.existsSync(surahPath)) {
@@ -50,7 +52,8 @@ export const getAllVerses = (req, res) => {
 };
 
 export const getSurah = (req, res) => {
-    const surahId = req.query.surah_id;
+
+    const surahId = req.query.surah_id || req.params.surah_id;
     const surahPath = path.join(surahFolderPath, `surah_${surahId}.json`);
 
     if (!fs.existsSync(surahPath)) {
@@ -80,14 +83,28 @@ export const getSurah = (req, res) => {
 };
 
 export const getVerse = (req, res) => {
-    const surahId = req.query.surah_id;
-    const verseId = req.query.verse_id;
+    const surahId = req.query.surah_id || req.params.surah_id;
+    const verseId = req.query.verse_id || req.params.verse_id;
     const versePath = path.join(versesFolderPath, `${String(surahId).padStart(3, '0')}_${String(verseId).padStart(3, '0')}.json`);
 
-    if (verseId) {
+    if (!surahId) {
+        return handleError(res, 400, 'surah_id is required.', {
+            message: 'Please provide a valid surah_id in the query or params.',
+            timestamp: new Date().toISOString(),
+            method: req.method,
+            path: req.originalUrl
+        });
+    } else if (!verseId) {
+        return handleError(res, 400, 'verseId is required.', {
+            message: 'Please provide a valid verseId in the query or params.',
+            timestamp: new Date().toISOString(),
+            method: req.method,
+            path: req.originalUrl
+        });
+    } else {
         // Fetch a specific verse
         if (!fs.existsSync(versePath)) {
-            return handleError(res, 404, '⚠️ The requested verse does not exist.', {
+            return handleError(res, 404, 'The requested verse does not exist.', {
                 surah_id: surahId,
                 verse_id: verseId,
                 timestamp: new Date().toISOString(),
@@ -112,40 +129,11 @@ export const getVerse = (req, res) => {
                 path: req.originalUrl
             });
         }
-    } else {
-        // Fetch all verses of the surah
-        const surahVersesPath = path.join(versesFolderPath, `${String(surahId).padStart(3, '0')}_*.json`);
-        const verseFiles = glob.sync(surahVersesPath);
-
-        if (verseFiles.length === 0) {
-            return handleError(res, 404, '⚠️ No verses found for the specified surah.', {
-                surah_id: surahId,
-                timestamp: new Date().toISOString(),
-                method: req.method,
-                path: req.originalUrl
-            });
-        }
-
-        try {
-            const allVerses = verseFiles.map(file => fs.readJSONSync(file));
-            res.json({
-                success: true,
-                result: allVerses
-            });
-        } catch (error) {
-            handleError(res, 500, 'An error occurred while fetching verses data.', {
-                surah_id: surahId,
-                message: error.message,
-                timestamp: new Date().toISOString(),
-                method: req.method,
-                path: req.originalUrl
-            });
-        }
     }
 };
 
 export const getAudio = (req, res) => {
-    const surahId = req.query.surah_id;
+    const surahId = req.query.surah_id || req.params.surah_id;
     const audioPath = path.join(audioFolderPath, `audio_surah_${surahId}.json`);
 
     if (!fs.existsSync(audioPath)) {
@@ -169,7 +157,7 @@ export const getAudio = (req, res) => {
 };
 
 export const getVersesByJuz = (req, res) => {
-    const juzId = parseInt(req.query.juz_id, 10);
+    const juzId = parseInt(req.query.juz_id || req.params.juz_id, 10);
     const surahFiles = fs.readdirSync(surahFolderPath);
 
     let allVerses = [];
@@ -238,6 +226,68 @@ export const getSajdaVerses = (req, res) => {
         });
     } catch (error) {
         handleError(res, 500, 'An error occurred while fetching sajda verses.', {
+            message: error.message,
+        });
+    }
+};
+
+
+export const getPage = (req, res) => {
+    try {
+        const surahId = parseInt(req.query.surah_id || req.params.surah_id, 10);
+        const verseId = parseInt(req.query.verse_id || req.params.verse_id, 10);
+        const page = parseInt(req.query.page, 10);
+
+        const pagesData = fs.readJSONSync(pagesQuranPath);
+
+        // جلب الصفحة بناءً على السورة أو الآية أو رقم الصفحة
+        let result = [];
+
+        if (page) {
+            // البحث باستخدام رقم الصفحة
+            result = pagesData.filter(p => p.page === page);
+        } else if (surahId && verseId) {
+            // البحث باستخدام رقم السورة والآية
+            result = pagesData.filter(p =>
+                (p.start.surah_number === surahId && p.start.verse <= verseId && p.end.verse >= verseId) ||
+                (p.end.surah_number === surahId && p.end.verse >= verseId)
+            );
+        } else if (surahId) {
+            // البحث باستخدام رقم السورة فقط
+            result = pagesData.filter(p =>
+                (p.start.surah_number === surahId) ||
+                (p.end.surah_number === surahId)
+            );
+        }
+
+        // تحقق إذا لم توجد نتيجة
+        if (result.length === 0) {
+            return handleError(res, 404, 'No pages found for the given query.', {
+                surah_id: surahId,
+                verse_id: verseId,
+                page: page,
+            });
+        }
+
+        // إضافة رابط الصورة لكل نتيجة
+        const imageBaseUrl = '/data/quran_image';
+        const enrichedResult = result.map(item => {
+            return {
+                page: item.page,
+                image: {
+                    url: `${imageBaseUrl}/${item.page}.png`,
+                },
+                ...item,
+
+            };
+        });
+
+        res.json({
+            success: true,
+            result: enrichedResult
+        });
+    } catch (error) {
+        handleError(res, 500, 'An error occurred while fetching page data.', {
             message: error.message,
         });
     }
