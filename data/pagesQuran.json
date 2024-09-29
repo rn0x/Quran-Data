@@ -1,6 +1,7 @@
 [
   {
     "page": 1,
+    "image": { "url": "/data/quran_image/1.png" },
     "start": {
       "surah_number": 1,
       "verse": 1,
@@ -22,6 +23,7 @@
   },
   {
     "page": 2,
+    "image": { "url": "/data/quran_image/2.png" },
     "start": {
       "surah_number": 2,
       "verse": 1,
@@ -43,6 +45,7 @@
   },
   {
     "page": 3,
+    "image": { "url": "/data/quran_image/3.png" },
     "start": {
       "surah_number": 2,
       "verse": 6,
@@ -64,6 +67,7 @@
   },
   {
     "page": 4,
+    "image": { "url": "/data/quran_image/4.png" },
     "start": {
       "surah_number": 2,
       "verse": 17,
@@ -85,6 +89,7 @@
   },
   {
     "page": 5,
+    "image": { "url": "/data/quran_image/5.png" },
     "start": {
       "surah_number": 2,
       "verse": 25,
@@ -106,6 +111,7 @@
   },
   {
     "page": 6,
+    "image": { "url": "/data/quran_image/6.png" },
     "start": {
       "surah_number": 2,
       "verse": 30,
@@ -127,6 +133,7 @@
   },
   {
     "page": 7,
+    "image": { "url": "/data/quran_image/7.png" },
     "start": {
       "surah_number": 2,
       "verse": 38,
@@ -148,6 +155,7 @@
   },
   {
     "page": 8,
+    "image": { "url": "/data/quran_image/8.png" },
     "start": {
       "surah_number": 2,
       "verse": 49,
@@ -169,6 +177,7 @@
   },
   {
     "page": 9,
+    "image": { "url": "/data/quran_image/9.png" },
     "start": {
       "surah_number": 2,
       "verse": 58,
@@ -190,6 +199,7 @@
   },
   {
     "page": 10,
+    "image": { "url": "/data/quran_image/10.png" },
     "start": {
       "surah_number": 2,
       "verse": 62,
@@ -211,6 +221,7 @@
   },
   {
     "page": 11,
+    "image": { "url": "/data/quran_image/11.png" },
     "start": {
       "surah_number": 2,
       "verse": 70,
@@ -232,6 +243,7 @@
   },
   {
     "page": 12,
+    "image": { "url": "/data/quran_image/12.png" },
     "start": {
       "surah_number": 2,
       "verse": 77,
@@ -253,6 +265,7 @@
   },
   {
     "page": 13,
+    "image": { "url": "/data/quran_image/13.png" },
     "start": {
       "surah_number": 2,
       "verse": 84,
@@ -274,6 +287,7 @@
   },
   {
     "page": 14,
+    "image": { "url": "/data/quran_image/14.png" },
     "start": {
       "surah_number": 2,
       "verse": 89,
@@ -295,6 +309,7 @@
   },
   {
     "page": 15,
+    "image": { "url": "/data/quran_image/15.png" },
     "start": {
       "surah_number": 2,
       "verse": 94,
@@ -316,6 +331,7 @@
   },
   {
     "page": 16,
+    "image": { "url": "/data/quran_image/16.png" },
     "start": {
       "surah_number": 2,
       "verse": 102,
@@ -337,6 +353,7 @@
   },
   {
     "page": 17,
+    "image": { "url": "/data/quran_image/17.png" },
     "start": {
       "surah_number": 2,
       "verse": 106,
@@ -358,6 +375,7 @@
   },
   {
     "page": 18,
+    "image": { "url": "/data/quran_image/18.png" },
     "start": {
       "surah_number": 2,
       "verse": 113,
@@ -379,6 +397,7 @@
   },
   {
     "page": 19,
+    "image": { "url": "/data/quran_image/19.png" },
     "start": {
       "surah_number": 2,
       "verse": 120,
@@ -400,6 +419,7 @@
   },
   {
     "page": 20,
+    "image": { "url": "/data/quran_image/20.png" },
     "start": {
       "surah_number": 2,
       "verse": 127,
@@ -421,6 +441,7 @@
   },
   {
     "page": 21,
+    "image": { "url": "/data/quran_image/21.png" },
     "start": {
       "surah_number": 2,
       "verse": 135,
@@ -442,6 +463,7 @@
   },
   {
     "page": 22,
+    "image": { "url": "/data/quran_image/22.png" },
     "start": {
       "surah_number": 2,
       "verse": 142,
@@ -463,6 +485,7 @@
   },
   {
     "page": 23,
+    "image": { "url": "/data/quran_image/23.png" },
     "start": {
       "surah_number": 2,
       "verse": 146,
@@ -484,6 +507,7 @@
   },
   {
     "page": 24,
+    "image": { "url": "/data/quran_image/24.png" },
     "start": {
       "surah_number": 2,
       "verse": 154,
@@ -505,6 +529,7 @@
   },
   {
     "page": 25,
+    "image": { "url": "/data/quran_image/25.png" },
     "start": {
       "surah_number": 2,
       "verse": 164,
@@ -526,6 +551,7 @@
   },
   {
     "page": 26,
+    "image": { "url": "/data/quran_image/26.png" },
     "start": {
       "surah_number": 2,
       "verse": 170,
@@ -547,6 +573,7 @@
   },
   {
     "page": 27,
+    "image": { "url": "/data/quran_image/27.png" },
     "start": {
       "surah_number": 2,
       "verse": 177,
@@ -568,6 +595,7 @@
   },
   {
     "page": 28,
+    "image": { "url": "/data/quran_image/28.png" },
     "start": {
       "surah_number": 2,
       "verse": 182,
@@ -589,6 +617,7 @@
   },
   {
     "page": 29,
+    "image": { "url": "/data/quran_image/29.png" },
     "start": {
       "surah_number": 2,
       "verse": 187,
@@ -610,6 +639,7 @@
   },
   {
     "page": 30,
+    "image": { "url": "/data/quran_image/30.png" },
     "start": {
       "surah_number": 2,
       "verse": 191,
@@ -631,6 +661,7 @@
   },
   {
     "page": 31,
+    "image": { "url": "/data/quran_image/31.png" },
     "start": {
       "surah_number": 2,
       "verse": 197,
@@ -652,6 +683,7 @@
   },
   {
     "page": 32,
+    "image": { "url": "/data/quran_image/32.png" },
     "start": {
       "surah_number": 2,
       "verse": 203,
@@ -673,6 +705,7 @@
   },
   {
     "page": 33,
+    "image": { "url": "/data/quran_image/33.png" },
     "start": {
       "surah_number": 2,
       "verse": 211,
@@ -694,6 +727,7 @@
   },
   {
     "page": 34,
+    "image": { "url": "/data/quran_image/34.png" },
     "start": {
       "surah_number": 2,
       "verse": 216,
@@ -715,6 +749,7 @@
   },
   {
     "page": 35,
+    "image": { "url": "/data/quran_image/35.png" },
     "start": {
       "surah_number": 2,
       "verse": 220,
@@ -736,6 +771,7 @@
   },
   {
     "page": 36,
+    "image": { "url": "/data/quran_image/36.png" },
     "start": {
       "surah_number": 2,
       "verse": 225,
@@ -757,6 +793,7 @@
   },
   {
     "page": 37,
+    "image": { "url": "/data/quran_image/37.png" },
     "start": {
       "surah_number": 2,
       "verse": 231,
@@ -778,6 +815,7 @@
   },
   {
     "page": 38,
+    "image": { "url": "/data/quran_image/38.png" },
     "start": {
       "surah_number": 2,
       "verse": 234,
@@ -799,6 +837,7 @@
   },
   {
     "page": 39,
+    "image": { "url": "/data/quran_image/39.png" },
     "start": {
       "surah_number": 2,
       "verse": 238,
@@ -820,6 +859,7 @@
   },
   {
     "page": 40,
+    "image": { "url": "/data/quran_image/40.png" },
     "start": {
       "surah_number": 2,
       "verse": 246,
@@ -841,6 +881,7 @@
   },
   {
     "page": 41,
+    "image": { "url": "/data/quran_image/41.png" },
     "start": {
       "surah_number": 2,
       "verse": 249,
@@ -862,6 +903,7 @@
   },
   {
     "page": 42,
+    "image": { "url": "/data/quran_image/42.png" },
     "start": {
       "surah_number": 2,
       "verse": 253,
@@ -883,6 +925,7 @@
   },
   {
     "page": 43,
+    "image": { "url": "/data/quran_image/43.png" },
     "start": {
       "surah_number": 2,
       "verse": 257,
@@ -904,6 +947,7 @@
   },
   {
     "page": 44,
+    "image": { "url": "/data/quran_image/44.png" },
     "start": {
       "surah_number": 2,
       "verse": 260,
@@ -925,6 +969,7 @@
   },
   {
     "page": 45,
+    "image": { "url": "/data/quran_image/45.png" },
     "start": {
       "surah_number": 2,
       "verse": 265,
@@ -946,6 +991,7 @@
   },
   {
     "page": 46,
+    "image": { "url": "/data/quran_image/46.png" },
     "start": {
       "surah_number": 2,
       "verse": 270,
@@ -967,6 +1013,7 @@
   },
   {
     "page": 47,
+    "image": { "url": "/data/quran_image/47.png" },
     "start": {
       "surah_number": 2,
       "verse": 275,
@@ -988,6 +1035,7 @@
   },
   {
     "page": 48,
+    "image": { "url": "/data/quran_image/48.png" },
     "start": {
       "surah_number": 2,
       "verse": 282,
@@ -1009,6 +1057,7 @@
   },
   {
     "page": 49,
+    "image": { "url": "/data/quran_image/49.png" },
     "start": {
       "surah_number": 2,
       "verse": 283,
@@ -1030,6 +1079,7 @@
   },
   {
     "page": 50,
+    "image": { "url": "/data/quran_image/50.png" },
     "start": {
       "surah_number": 3,
       "verse": 1,
@@ -1051,6 +1101,7 @@
   },
   {
     "page": 51,
+    "image": { "url": "/data/quran_image/51.png" },
     "start": {
       "surah_number": 3,
       "verse": 10,
@@ -1072,6 +1123,7 @@
   },
   {
     "page": 52,
+    "image": { "url": "/data/quran_image/52.png" },
     "start": {
       "surah_number": 3,
       "verse": 16,
@@ -1093,6 +1145,7 @@
   },
   {
     "page": 53,
+    "image": { "url": "/data/quran_image/53.png" },
     "start": {
       "surah_number": 3,
       "verse": 23,
@@ -1114,6 +1167,7 @@
   },
   {
     "page": 54,
+    "image": { "url": "/data/quran_image/54.png" },
     "start": {
       "surah_number": 3,
       "verse": 30,
@@ -1135,6 +1189,7 @@
   },
   {
     "page": 55,
+    "image": { "url": "/data/quran_image/55.png" },
     "start": {
       "surah_number": 3,
       "verse": 38,
@@ -1156,6 +1211,7 @@
   },
   {
     "page": 56,
+    "image": { "url": "/data/quran_image/56.png" },
     "start": {
       "surah_number": 3,
       "verse": 46,
@@ -1177,6 +1233,7 @@
   },
   {
     "page": 57,
+    "image": { "url": "/data/quran_image/57.png" },
     "start": {
       "surah_number": 3,
       "verse": 53,
@@ -1198,6 +1255,7 @@
   },
   {
     "page": 58,
+    "image": { "url": "/data/quran_image/58.png" },
     "start": {
       "surah_number": 3,
       "verse": 62,
@@ -1219,6 +1277,7 @@
   },
   {
     "page": 59,
+    "image": { "url": "/data/quran_image/59.png" },
     "start": {
       "surah_number": 3,
       "verse": 71,
@@ -1240,6 +1299,7 @@
   },
   {
     "page": 60,
+    "image": { "url": "/data/quran_image/60.png" },
     "start": {
       "surah_number": 3,
       "verse": 78,
@@ -1261,6 +1321,7 @@
   },
   {
     "page": 61,
+    "image": { "url": "/data/quran_image/61.png" },
     "start": {
       "surah_number": 3,
       "verse": 84,
@@ -1282,6 +1343,7 @@
   },
   {
     "page": 62,
+    "image": { "url": "/data/quran_image/62.png" },
     "start": {
       "surah_number": 3,
       "verse": 92,
@@ -1303,6 +1365,7 @@
   },
   {
     "page": 63,
+    "image": { "url": "/data/quran_image/63.png" },
     "start": {
       "surah_number": 3,
       "verse": 101,
@@ -1324,6 +1387,7 @@
   },
   {
     "page": 64,
+    "image": { "url": "/data/quran_image/64.png" },
     "start": {
       "surah_number": 3,
       "verse": 109,
@@ -1345,6 +1409,7 @@
   },
   {
     "page": 65,
+    "image": { "url": "/data/quran_image/65.png" },
     "start": {
       "surah_number": 3,
       "verse": 116,
@@ -1366,6 +1431,7 @@
   },
   {
     "page": 66,
+    "image": { "url": "/data/quran_image/66.png" },
     "start": {
       "surah_number": 3,
       "verse": 122,
@@ -1387,6 +1453,7 @@
   },
   {
     "page": 67,
+    "image": { "url": "/data/quran_image/67.png" },
     "start": {
       "surah_number": 3,
       "verse": 133,
@@ -1408,6 +1475,7 @@
   },
   {
     "page": 68,
+    "image": { "url": "/data/quran_image/68.png" },
     "start": {
       "surah_number": 3,
       "verse": 141,
@@ -1429,6 +1497,7 @@
   },
   {
     "page": 69,
+    "image": { "url": "/data/quran_image/69.png" },
     "start": {
       "surah_number": 3,
       "verse": 149,
@@ -1450,6 +1519,7 @@
   },
   {
     "page": 70,
+    "image": { "url": "/data/quran_image/70.png" },
     "start": {
       "surah_number": 3,
       "verse": 154,
@@ -1471,6 +1541,7 @@
   },
   {
     "page": 71,
+    "image": { "url": "/data/quran_image/71.png" },
     "start": {
       "surah_number": 3,
       "verse": 158,
@@ -1492,6 +1563,7 @@
   },
   {
     "page": 72,
+    "image": { "url": "/data/quran_image/72.png" },
     "start": {
       "surah_number": 3,
       "verse": 166,
@@ -1513,6 +1585,7 @@
   },
   {
     "page": 73,
+    "image": { "url": "/data/quran_image/73.png" },
     "start": {
       "surah_number": 3,
       "verse": 174,
@@ -1534,6 +1607,7 @@
   },
   {
     "page": 74,
+    "image": { "url": "/data/quran_image/74.png" },
     "start": {
       "surah_number": 3,
       "verse": 181,
@@ -1555,6 +1629,7 @@
   },
   {
     "page": 75,
+    "image": { "url": "/data/quran_image/75.png" },
     "start": {
       "surah_number": 3,
       "verse": 187,
@@ -1576,6 +1651,7 @@
   },
   {
     "page": 76,
+    "image": { "url": "/data/quran_image/76.png" },
     "start": {
       "surah_number": 3,
       "verse": 195,
@@ -1597,6 +1673,7 @@
   },
   {
     "page": 77,
+    "image": { "url": "/data/quran_image/77.png" },
     "start": {
       "surah_number": 4,
       "verse": 1,
@@ -1618,6 +1695,7 @@
   },
   {
     "page": 78,
+    "image": { "url": "/data/quran_image/78.png" },
     "start": {
       "surah_number": 4,
       "verse": 7,
@@ -1639,6 +1717,7 @@
   },
   {
     "page": 79,
+    "image": { "url": "/data/quran_image/79.png" },
     "start": {
       "surah_number": 4,
       "verse": 12,
@@ -1660,6 +1739,7 @@
   },
   {
     "page": 80,
+    "image": { "url": "/data/quran_image/80.png" },
     "start": {
       "surah_number": 4,
       "verse": 15,
@@ -1681,6 +1761,7 @@
   },
   {
     "page": 81,
+    "image": { "url": "/data/quran_image/81.png" },
     "start": {
       "surah_number": 4,
       "verse": 20,
@@ -1702,6 +1783,7 @@
   },
   {
     "page": 82,
+    "image": { "url": "/data/quran_image/82.png" },
     "start": {
       "surah_number": 4,
       "verse": 24,
@@ -1723,6 +1805,7 @@
   },
   {
     "page": 83,
+    "image": { "url": "/data/quran_image/83.png" },
     "start": {
       "surah_number": 4,
       "verse": 27,
@@ -1744,6 +1827,7 @@
   },
   {
     "page": 84,
+    "image": { "url": "/data/quran_image/84.png" },
     "start": {
       "surah_number": 4,
       "verse": 34,
@@ -1765,6 +1849,7 @@
   },
   {
     "page": 85,
+    "image": { "url": "/data/quran_image/85.png" },
     "start": {
       "surah_number": 4,
       "verse": 38,
@@ -1786,6 +1871,7 @@
   },
   {
     "page": 86,
+    "image": { "url": "/data/quran_image/86.png" },
     "start": {
       "surah_number": 4,
       "verse": 45,
@@ -1807,6 +1893,7 @@
   },
   {
     "page": 87,
+    "image": { "url": "/data/quran_image/87.png" },
     "start": {
       "surah_number": 4,
       "verse": 52,
@@ -1828,6 +1915,7 @@
   },
   {
     "page": 88,
+    "image": { "url": "/data/quran_image/88.png" },
     "start": {
       "surah_number": 4,
       "verse": 60,
@@ -1849,6 +1937,7 @@
   },
   {
     "page": 89,
+    "image": { "url": "/data/quran_image/89.png" },
     "start": {
       "surah_number": 4,
       "verse": 66,
@@ -1870,6 +1959,7 @@
   },
   {
     "page": 90,
+    "image": { "url": "/data/quran_image/90.png" },
     "start": {
       "surah_number": 4,
       "verse": 75,
@@ -1891,6 +1981,7 @@
   },
   {
     "page": 91,
+    "image": { "url": "/data/quran_image/91.png" },
     "start": {
       "surah_number": 4,
       "verse": 80,
@@ -1912,6 +2003,7 @@
   },
   {
     "page": 92,
+    "image": { "url": "/data/quran_image/92.png" },
     "start": {
       "surah_number": 4,
       "verse": 87,
@@ -1933,6 +2025,7 @@
   },
   {
     "page": 93,
+    "image": { "url": "/data/quran_image/93.png" },
     "start": {
       "surah_number": 4,
       "verse": 92,
@@ -1954,6 +2047,7 @@
   },
   {
     "page": 94,
+    "image": { "url": "/data/quran_image/94.png" },
     "start": {
       "surah_number": 4,
       "verse": 95,
@@ -1975,6 +2069,7 @@
   },
   {
     "page": 95,
+    "image": { "url": "/data/quran_image/95.png" },
     "start": {
       "surah_number": 4,
       "verse": 102,
@@ -1996,6 +2091,7 @@
   },
   {
     "page": 96,
+    "image": { "url": "/data/quran_image/96.png" },
     "start": {
       "surah_number": 4,
       "verse": 106,
@@ -2017,6 +2113,7 @@
   },
   {
     "page": 97,
+    "image": { "url": "/data/quran_image/97.png" },
     "start": {
       "surah_number": 4,
       "verse": 114,
@@ -2038,6 +2135,7 @@
   },
   {
     "page": 98,
+    "image": { "url": "/data/quran_image/98.png" },
     "start": {
       "surah_number": 4,
       "verse": 122,
@@ -2059,6 +2157,7 @@
   },
   {
     "page": 99,
+    "image": { "url": "/data/quran_image/99.png" },
     "start": {
       "surah_number": 4,
       "verse": 128,
@@ -2080,6 +2179,7 @@
   },
   {
     "page": 100,
+    "image": { "url": "/data/quran_image/100.png" },
     "start": {
       "surah_number": 4,
       "verse": 135,
@@ -2101,6 +2201,7 @@
   },
   {
     "page": 101,
+    "image": { "url": "/data/quran_image/101.png" },
     "start": {
       "surah_number": 4,
       "verse": 141,
@@ -2122,6 +2223,7 @@
   },
   {
     "page": 102,
+    "image": { "url": "/data/quran_image/102.png" },
     "start": {
       "surah_number": 4,
       "verse": 148,
@@ -2143,6 +2245,7 @@
   },
   {
     "page": 103,
+    "image": { "url": "/data/quran_image/103.png" },
     "start": {
       "surah_number": 4,
       "verse": 155,
@@ -2164,6 +2267,7 @@
   },
   {
     "page": 104,
+    "image": { "url": "/data/quran_image/104.png" },
     "start": {
       "surah_number": 4,
       "verse": 163,
@@ -2185,6 +2289,7 @@
   },
   {
     "page": 105,
+    "image": { "url": "/data/quran_image/105.png" },
     "start": {
       "surah_number": 4,
       "verse": 171,
@@ -2206,6 +2311,7 @@
   },
   {
     "page": 106,
+    "image": { "url": "/data/quran_image/106.png" },
     "start": {
       "surah_number": 4,
       "verse": 176,
@@ -2227,6 +2333,7 @@
   },
   {
     "page": 107,
+    "image": { "url": "/data/quran_image/107.png" },
     "start": {
       "surah_number": 5,
       "verse": 3,
@@ -2248,6 +2355,7 @@
   },
   {
     "page": 108,
+    "image": { "url": "/data/quran_image/108.png" },
     "start": {
       "surah_number": 5,
       "verse": 6,
@@ -2269,6 +2377,7 @@
   },
   {
     "page": 109,
+    "image": { "url": "/data/quran_image/109.png" },
     "start": {
       "surah_number": 5,
       "verse": 10,
@@ -2290,6 +2399,7 @@
   },
   {
     "page": 110,
+    "image": { "url": "/data/quran_image/110.png" },
     "start": {
       "surah_number": 5,
       "verse": 14,
@@ -2311,6 +2421,7 @@
   },
   {
     "page": 111,
+    "image": { "url": "/data/quran_image/111.png" },
     "start": {
       "surah_number": 5,
       "verse": 18,
@@ -2332,6 +2443,7 @@
   },
   {
     "page": 112,
+    "image": { "url": "/data/quran_image/112.png" },
     "start": {
       "surah_number": 5,
       "verse": 24,
@@ -2353,6 +2465,7 @@
   },
   {
     "page": 113,
+    "image": { "url": "/data/quran_image/113.png" },
     "start": {
       "surah_number": 5,
       "verse": 32,
@@ -2374,6 +2487,7 @@
   },
   {
     "page": 114,
+    "image": { "url": "/data/quran_image/114.png" },
     "start": {
       "surah_number": 5,
       "verse": 37,
@@ -2395,6 +2509,7 @@
   },
   {
     "page": 115,
+    "image": { "url": "/data/quran_image/115.png" },
     "start": {
       "surah_number": 5,
       "verse": 42,
@@ -2416,6 +2531,7 @@
   },
   {
     "page": 116,
+    "image": { "url": "/data/quran_image/116.png" },
     "start": {
       "surah_number": 5,
       "verse": 46,
@@ -2437,6 +2553,7 @@
   },
   {
     "page": 117,
+    "image": { "url": "/data/quran_image/117.png" },
     "start": {
       "surah_number": 5,
       "verse": 51,
@@ -2458,6 +2575,7 @@
   },
   {
     "page": 118,
+    "image": { "url": "/data/quran_image/118.png" },
     "start": {
       "surah_number": 5,
       "verse": 58,
@@ -2479,6 +2597,7 @@
   },
   {
     "page": 119,
+    "image": { "url": "/data/quran_image/119.png" },
     "start": {
       "surah_number": 5,
       "verse": 65,
@@ -2500,6 +2619,7 @@
   },
   {
     "page": 120,
+    "image": { "url": "/data/quran_image/120.png" },
     "start": {
       "surah_number": 5,
       "verse": 71,
@@ -2521,6 +2641,7 @@
   },
   {
     "page": 121,
+    "image": { "url": "/data/quran_image/121.png" },
     "start": {
       "surah_number": 5,
       "verse": 77,
@@ -2542,6 +2663,7 @@
   },
   {
     "page": 122,
+    "image": { "url": "/data/quran_image/122.png" },
     "start": {
       "surah_number": 5,
       "verse": 83,
@@ -2563,6 +2685,7 @@
   },
   {
     "page": 123,
+    "image": { "url": "/data/quran_image/123.png" },
     "start": {
       "surah_number": 5,
       "verse": 90,
@@ -2584,6 +2707,7 @@
   },
   {
     "page": 124,
+    "image": { "url": "/data/quran_image/124.png" },
     "start": {
       "surah_number": 5,
       "verse": 96,
@@ -2605,6 +2729,7 @@
   },
   {
     "page": 125,
+    "image": { "url": "/data/quran_image/125.png" },
     "start": {
       "surah_number": 5,
       "verse": 104,
@@ -2626,6 +2751,7 @@
   },
   {
     "page": 126,
+    "image": { "url": "/data/quran_image/126.png" },
     "start": {
       "surah_number": 5,
       "verse": 109,
@@ -2647,6 +2773,7 @@
   },
   {
     "page": 127,
+    "image": { "url": "/data/quran_image/127.png" },
     "start": {
       "surah_number": 5,
       "verse": 114,
@@ -2668,6 +2795,7 @@
   },
   {
     "page": 128,
+    "image": { "url": "/data/quran_image/128.png" },
     "start": {
       "surah_number": 6,
       "verse": 1,
@@ -2689,6 +2817,7 @@
   },
   {
     "page": 129,
+    "image": { "url": "/data/quran_image/129.png" },
     "start": {
       "surah_number": 6,
       "verse": 9,
@@ -2710,6 +2839,7 @@
   },
   {
     "page": 130,
+    "image": { "url": "/data/quran_image/130.png" },
     "start": {
       "surah_number": 6,
       "verse": 19,
@@ -2731,6 +2861,7 @@
   },
   {
     "page": 131,
+    "image": { "url": "/data/quran_image/131.png" },
     "start": {
       "surah_number": 6,
       "verse": 28,
@@ -2752,6 +2883,7 @@
   },
   {
     "page": 132,
+    "image": { "url": "/data/quran_image/132.png" },
     "start": {
       "surah_number": 6,
       "verse": 36,
@@ -2773,6 +2905,7 @@
   },
   {
     "page": 133,
+    "image": { "url": "/data/quran_image/133.png" },
     "start": {
       "surah_number": 6,
       "verse": 45,
@@ -2794,6 +2927,7 @@
   },
   {
     "page": 134,
+    "image": { "url": "/data/quran_image/134.png" },
     "start": {
       "surah_number": 6,
       "verse": 53,
@@ -2815,6 +2949,7 @@
   },
   {
     "page": 135,
+    "image": { "url": "/data/quran_image/135.png" },
     "start": {
       "surah_number": 6,
       "verse": 60,
@@ -2836,6 +2971,7 @@
   },
   {
     "page": 136,
+    "image": { "url": "/data/quran_image/136.png" },
     "start": {
       "surah_number": 6,
       "verse": 69,
@@ -2857,6 +2993,7 @@
   },
   {
     "page": 137,
+    "image": { "url": "/data/quran_image/137.png" },
     "start": {
       "surah_number": 6,
       "verse": 74,
@@ -2878,6 +3015,7 @@
   },
   {
     "page": 138,
+    "image": { "url": "/data/quran_image/138.png" },
     "start": {
       "surah_number": 6,
       "verse": 82,
@@ -2899,6 +3037,7 @@
   },
   {
     "page": 139,
+    "image": { "url": "/data/quran_image/139.png" },
     "start": {
       "surah_number": 6,
       "verse": 91,
@@ -2920,6 +3059,7 @@
   },
   {
     "page": 140,
+    "image": { "url": "/data/quran_image/140.png" },
     "start": {
       "surah_number": 6,
       "verse": 95,
@@ -2941,6 +3081,7 @@
   },
   {
     "page": 141,
+    "image": { "url": "/data/quran_image/141.png" },
     "start": {
       "surah_number": 6,
       "verse": 102,
@@ -2962,6 +3103,7 @@
   },
   {
     "page": 142,
+    "image": { "url": "/data/quran_image/142.png" },
     "start": {
       "surah_number": 6,
       "verse": 111,
@@ -2983,6 +3125,7 @@
   },
   {
     "page": 143,
+    "image": { "url": "/data/quran_image/143.png" },
     "start": {
       "surah_number": 6,
       "verse": 119,
@@ -3004,6 +3147,7 @@
   },
   {
     "page": 144,
+    "image": { "url": "/data/quran_image/144.png" },
     "start": {
       "surah_number": 6,
       "verse": 125,
@@ -3025,6 +3169,7 @@
   },
   {
     "page": 145,
+    "image": { "url": "/data/quran_image/145.png" },
     "start": {
       "surah_number": 6,
       "verse": 132,
@@ -3046,6 +3191,7 @@
   },
   {
     "page": 146,
+    "image": { "url": "/data/quran_image/146.png" },
     "start": {
       "surah_number": 6,
       "verse": 138,
@@ -3067,6 +3213,7 @@
   },
   {
     "page": 147,
+    "image": { "url": "/data/quran_image/147.png" },
     "start": {
       "surah_number": 6,
       "verse": 143,
@@ -3088,6 +3235,7 @@
   },
   {
     "page": 148,
+    "image": { "url": "/data/quran_image/148.png" },
     "start": {
       "surah_number": 6,
       "verse": 147,
@@ -3109,6 +3257,7 @@
   },
   {
     "page": 149,
+    "image": { "url": "/data/quran_image/149.png" },
     "start": {
       "surah_number": 6,
       "verse": 152,
@@ -3130,6 +3279,7 @@
   },
   {
     "page": 150,
+    "image": { "url": "/data/quran_image/150.png" },
     "start": {
       "surah_number": 6,
       "verse": 158,
@@ -3151,6 +3301,7 @@
   },
   {
     "page": 151,
+    "image": { "url": "/data/quran_image/151.png" },
     "start": {
       "surah_number": 7,
       "verse": 1,
@@ -3172,6 +3323,7 @@
   },
   {
     "page": 152,
+    "image": { "url": "/data/quran_image/152.png" },
     "start": {
       "surah_number": 7,
       "verse": 12,
@@ -3193,6 +3345,7 @@
   },
   {
     "page": 153,
+    "image": { "url": "/data/quran_image/153.png" },
     "start": {
       "surah_number": 7,
       "verse": 23,
@@ -3214,6 +3367,7 @@
   },
   {
     "page": 154,
+    "image": { "url": "/data/quran_image/154.png" },
     "start": {
       "surah_number": 7,
       "verse": 31,
@@ -3235,6 +3389,7 @@
   },
   {
     "page": 155,
+    "image": { "url": "/data/quran_image/155.png" },
     "start": {
       "surah_number": 7,
       "verse": 38,
@@ -3256,6 +3411,7 @@
   },
   {
     "page": 156,
+    "image": { "url": "/data/quran_image/156.png" },
     "start": {
       "surah_number": 7,
       "verse": 44,
@@ -3277,6 +3433,7 @@
   },
   {
     "page": 157,
+    "image": { "url": "/data/quran_image/157.png" },
     "start": {
       "surah_number": 7,
       "verse": 52,
@@ -3298,6 +3455,7 @@
   },
   {
     "page": 158,
+    "image": { "url": "/data/quran_image/158.png" },
     "start": {
       "surah_number": 7,
       "verse": 58,
@@ -3319,6 +3477,7 @@
   },
   {
     "page": 159,
+    "image": { "url": "/data/quran_image/159.png" },
     "start": {
       "surah_number": 7,
       "verse": 68,
@@ -3340,6 +3499,7 @@
   },
   {
     "page": 160,
+    "image": { "url": "/data/quran_image/160.png" },
     "start": {
       "surah_number": 7,
       "verse": 74,
@@ -3361,6 +3521,7 @@
   },
   {
     "page": 161,
+    "image": { "url": "/data/quran_image/161.png" },
     "start": {
       "surah_number": 7,
       "verse": 82,
@@ -3382,6 +3543,7 @@
   },
   {
     "page": 162,
+    "image": { "url": "/data/quran_image/162.png" },
     "start": {
       "surah_number": 7,
       "verse": 88,
@@ -3403,6 +3565,7 @@
   },
   {
     "page": 163,
+    "image": { "url": "/data/quran_image/163.png" },
     "start": {
       "surah_number": 7,
       "verse": 96,
@@ -3424,6 +3587,7 @@
   },
   {
     "page": 164,
+    "image": { "url": "/data/quran_image/164.png" },
     "start": {
       "surah_number": 7,
       "verse": 105,
@@ -3445,6 +3609,7 @@
   },
   {
     "page": 165,
+    "image": { "url": "/data/quran_image/165.png" },
     "start": {
       "surah_number": 7,
       "verse": 121,
@@ -3466,6 +3631,7 @@
   },
   {
     "page": 166,
+    "image": { "url": "/data/quran_image/166.png" },
     "start": {
       "surah_number": 7,
       "verse": 131,
@@ -3487,6 +3653,7 @@
   },
   {
     "page": 167,
+    "image": { "url": "/data/quran_image/167.png" },
     "start": {
       "surah_number": 7,
       "verse": 138,
@@ -3508,6 +3675,7 @@
   },
   {
     "page": 168,
+    "image": { "url": "/data/quran_image/168.png" },
     "start": {
       "surah_number": 7,
       "verse": 144,
@@ -3529,6 +3697,7 @@
   },
   {
     "page": 169,
+    "image": { "url": "/data/quran_image/169.png" },
     "start": {
       "surah_number": 7,
       "verse": 150,
@@ -3550,6 +3719,7 @@
   },
   {
     "page": 170,
+    "image": { "url": "/data/quran_image/170.png" },
     "start": {
       "surah_number": 7,
       "verse": 156,
@@ -3571,6 +3741,7 @@
   },
   {
     "page": 171,
+    "image": { "url": "/data/quran_image/171.png" },
     "start": {
       "surah_number": 7,
       "verse": 160,
@@ -3592,6 +3763,7 @@
   },
   {
     "page": 172,
+    "image": { "url": "/data/quran_image/172.png" },
     "start": {
       "surah_number": 7,
       "verse": 164,
@@ -3613,6 +3785,7 @@
   },
   {
     "page": 173,
+    "image": { "url": "/data/quran_image/173.png" },
     "start": {
       "surah_number": 7,
       "verse": 171,
@@ -3634,6 +3807,7 @@
   },
   {
     "page": 174,
+    "image": { "url": "/data/quran_image/174.png" },
     "start": {
       "surah_number": 7,
       "verse": 179,
@@ -3655,6 +3829,7 @@
   },
   {
     "page": 175,
+    "image": { "url": "/data/quran_image/175.png" },
     "start": {
       "surah_number": 7,
       "verse": 188,
@@ -3676,6 +3851,7 @@
   },
   {
     "page": 176,
+    "image": { "url": "/data/quran_image/176.png" },
     "start": {
       "surah_number": 7,
       "verse": 196,
@@ -3697,6 +3873,7 @@
   },
   {
     "page": 177,
+    "image": { "url": "/data/quran_image/177.png" },
     "start": {
       "surah_number": 8,
       "verse": 1,
@@ -3718,6 +3895,7 @@
   },
   {
     "page": 178,
+    "image": { "url": "/data/quran_image/178.png" },
     "start": {
       "surah_number": 8,
       "verse": 9,
@@ -3739,6 +3917,7 @@
   },
   {
     "page": 179,
+    "image": { "url": "/data/quran_image/179.png" },
     "start": {
       "surah_number": 8,
       "verse": 17,
@@ -3760,6 +3939,7 @@
   },
   {
     "page": 180,
+    "image": { "url": "/data/quran_image/180.png" },
     "start": {
       "surah_number": 8,
       "verse": 26,
@@ -3781,6 +3961,7 @@
   },
   {
     "page": 181,
+    "image": { "url": "/data/quran_image/181.png" },
     "start": {
       "surah_number": 8,
       "verse": 34,
@@ -3802,6 +3983,7 @@
   },
   {
     "page": 182,
+    "image": { "url": "/data/quran_image/182.png" },
     "start": {
       "surah_number": 8,
       "verse": 41,
@@ -3823,6 +4005,7 @@
   },
   {
     "page": 183,
+    "image": { "url": "/data/quran_image/183.png" },
     "start": {
       "surah_number": 8,
       "verse": 46,
@@ -3844,6 +4027,7 @@
   },
   {
     "page": 184,
+    "image": { "url": "/data/quran_image/184.png" },
     "start": {
       "surah_number": 8,
       "verse": 53,
@@ -3865,6 +4049,7 @@
   },
   {
     "page": 185,
+    "image": { "url": "/data/quran_image/185.png" },
     "start": {
       "surah_number": 8,
       "verse": 62,
@@ -3886,6 +4071,7 @@
   },
   {
     "page": 186,
+    "image": { "url": "/data/quran_image/186.png" },
     "start": {
       "surah_number": 8,
       "verse": 70,
@@ -3907,6 +4093,7 @@
   },
   {
     "page": 187,
+    "image": { "url": "/data/quran_image/187.png" },
     "start": {
       "surah_number": 9,
       "verse": 1,
@@ -3928,6 +4115,7 @@
   },
   {
     "page": 188,
+    "image": { "url": "/data/quran_image/188.png" },
     "start": {
       "surah_number": 9,
       "verse": 7,
@@ -3949,6 +4137,7 @@
   },
   {
     "page": 189,
+    "image": { "url": "/data/quran_image/189.png" },
     "start": {
       "surah_number": 9,
       "verse": 14,
@@ -3970,6 +4159,7 @@
   },
   {
     "page": 190,
+    "image": { "url": "/data/quran_image/190.png" },
     "start": {
       "surah_number": 9,
       "verse": 21,
@@ -3991,6 +4181,7 @@
   },
   {
     "page": 191,
+    "image": { "url": "/data/quran_image/191.png" },
     "start": {
       "surah_number": 9,
       "verse": 27,
@@ -4012,6 +4203,7 @@
   },
   {
     "page": 192,
+    "image": { "url": "/data/quran_image/192.png" },
     "start": {
       "surah_number": 9,
       "verse": 32,
@@ -4033,6 +4225,7 @@
   },
   {
     "page": 193,
+    "image": { "url": "/data/quran_image/193.png" },
     "start": {
       "surah_number": 9,
       "verse": 37,
@@ -4054,6 +4247,7 @@
   },
   {
     "page": 194,
+    "image": { "url": "/data/quran_image/194.png" },
     "start": {
       "surah_number": 9,
       "verse": 41,
@@ -4075,6 +4269,7 @@
   },
   {
     "page": 195,
+    "image": { "url": "/data/quran_image/195.png" },
     "start": {
       "surah_number": 9,
       "verse": 48,
@@ -4096,6 +4291,7 @@
   },
   {
     "page": 196,
+    "image": { "url": "/data/quran_image/196.png" },
     "start": {
       "surah_number": 9,
       "verse": 55,
@@ -4117,6 +4313,7 @@
   },
   {
     "page": 197,
+    "image": { "url": "/data/quran_image/197.png" },
     "start": {
       "surah_number": 9,
       "verse": 62,
@@ -4138,6 +4335,7 @@
   },
   {
     "page": 198,
+    "image": { "url": "/data/quran_image/198.png" },
     "start": {
       "surah_number": 9,
       "verse": 69,
@@ -4159,6 +4357,7 @@
   },
   {
     "page": 199,
+    "image": { "url": "/data/quran_image/199.png" },
     "start": {
       "surah_number": 9,
       "verse": 73,
@@ -4180,6 +4379,7 @@
   },
   {
     "page": 200,
+    "image": { "url": "/data/quran_image/200.png" },
     "start": {
       "surah_number": 9,
       "verse": 80,
@@ -4201,6 +4401,7 @@
   },
   {
     "page": 201,
+    "image": { "url": "/data/quran_image/201.png" },
     "start": {
       "surah_number": 9,
       "verse": 87,
@@ -4222,6 +4423,7 @@
   },
   {
     "page": 202,
+    "image": { "url": "/data/quran_image/202.png" },
     "start": {
       "surah_number": 9,
       "verse": 94,
@@ -4243,6 +4445,7 @@
   },
   {
     "page": 203,
+    "image": { "url": "/data/quran_image/203.png" },
     "start": {
       "surah_number": 9,
       "verse": 100,
@@ -4264,6 +4467,7 @@
   },
   {
     "page": 204,
+    "image": { "url": "/data/quran_image/204.png" },
     "start": {
       "surah_number": 9,
       "verse": 107,
@@ -4285,6 +4489,7 @@
   },
   {
     "page": 205,
+    "image": { "url": "/data/quran_image/205.png" },
     "start": {
       "surah_number": 9,
       "verse": 112,
@@ -4306,6 +4511,7 @@
   },
   {
     "page": 206,
+    "image": { "url": "/data/quran_image/206.png" },
     "start": {
       "surah_number": 9,
       "verse": 118,
@@ -4327,6 +4533,7 @@
   },
   {
     "page": 207,
+    "image": { "url": "/data/quran_image/207.png" },
     "start": {
       "surah_number": 9,
       "verse": 123,
@@ -4348,6 +4555,7 @@
   },
   {
     "page": 208,
+    "image": { "url": "/data/quran_image/208.png" },
     "start": {
       "surah_number": 10,
       "verse": 1,
@@ -4361,6 +4569,7 @@
   },
   {
     "page": 209,
+    "image": { "url": "/data/quran_image/209.png" },
     "start": {
       "surah_number": 10,
       "verse": 7,
@@ -4374,6 +4583,7 @@
   },
   {
     "page": 210,
+    "image": { "url": "/data/quran_image/210.png" },
     "start": {
       "surah_number": 10,
       "verse": 15,
@@ -4387,6 +4597,7 @@
   },
   {
     "page": 211,
+    "image": { "url": "/data/quran_image/211.png" },
     "start": {
       "surah_number": 10,
       "verse": 21,
@@ -4400,6 +4611,7 @@
   },
   {
     "page": 212,
+    "image": { "url": "/data/quran_image/212.png" },
     "start": {
       "surah_number": 10,
       "verse": 26,
@@ -4413,6 +4625,7 @@
   },
   {
     "page": 213,
+    "image": { "url": "/data/quran_image/213.png" },
     "start": {
       "surah_number": 10,
       "verse": 34,
@@ -4426,6 +4639,7 @@
   },
   {
     "page": 214,
+    "image": { "url": "/data/quran_image/214.png" },
     "start": {
       "surah_number": 10,
       "verse": 43,
@@ -4439,6 +4653,7 @@
   },
   {
     "page": 215,
+    "image": { "url": "/data/quran_image/215.png" },
     "start": {
       "surah_number": 10,
       "verse": 54,
@@ -4452,6 +4667,7 @@
   },
   {
     "page": 216,
+    "image": { "url": "/data/quran_image/216.png" },
     "start": {
       "surah_number": 10,
       "verse": 62,
@@ -4465,6 +4681,7 @@
   },
   {
     "page": 217,
+    "image": { "url": "/data/quran_image/217.png" },
     "start": {
       "surah_number": 10,
       "verse": 71,
@@ -4478,6 +4695,7 @@
   },
   {
     "page": 218,
+    "image": { "url": "/data/quran_image/218.png" },
     "start": {
       "surah_number": 10,
       "verse": 79,
@@ -4491,6 +4709,7 @@
   },
   {
     "page": 219,
+    "image": { "url": "/data/quran_image/219.png" },
     "start": {
       "surah_number": 10,
       "verse": 89,
@@ -4504,6 +4723,7 @@
   },
   {
     "page": 220,
+    "image": { "url": "/data/quran_image/220.png" },
     "start": {
       "surah_number": 10,
       "verse": 98,
@@ -4517,6 +4737,7 @@
   },
   {
     "page": 221,
+    "image": { "url": "/data/quran_image/221.png" },
     "start": {
       "surah_number": 10,
       "verse": 107,
@@ -4530,6 +4751,7 @@
   },
   {
     "page": 222,
+    "image": { "url": "/data/quran_image/222.png" },
     "start": {
       "surah_number": 11,
       "verse": 6,
@@ -4543,6 +4765,7 @@
   },
   {
     "page": 223,
+    "image": { "url": "/data/quran_image/223.png" },
     "start": {
       "surah_number": 11,
       "verse": 13,
@@ -4556,6 +4779,7 @@
   },
   {
     "page": 224,
+    "image": { "url": "/data/quran_image/224.png" },
     "start": {
       "surah_number": 11,
       "verse": 20,
@@ -4569,6 +4793,7 @@
   },
   {
     "page": 225,
+    "image": { "url": "/data/quran_image/225.png" },
     "start": {
       "surah_number": 11,
       "verse": 29,
@@ -4582,6 +4807,7 @@
   },
   {
     "page": 226,
+    "image": { "url": "/data/quran_image/226.png" },
     "start": {
       "surah_number": 11,
       "verse": 38,
@@ -4595,6 +4821,7 @@
   },
   {
     "page": 227,
+    "image": { "url": "/data/quran_image/227.png" },
     "start": {
       "surah_number": 11,
       "verse": 46,
@@ -4608,6 +4835,7 @@
   },
   {
     "page": 228,
+    "image": { "url": "/data/quran_image/228.png" },
     "start": {
       "surah_number": 11,
       "verse": 54,
@@ -4621,6 +4849,7 @@
   },
   {
     "page": 229,
+    "image": { "url": "/data/quran_image/229.png" },
     "start": {
       "surah_number": 11,
       "verse": 63,
@@ -4634,6 +4863,7 @@
   },
   {
     "page": 230,
+    "image": { "url": "/data/quran_image/230.png" },
     "start": {
       "surah_number": 11,
       "verse": 72,
@@ -4647,6 +4877,7 @@
   },
   {
     "page": 231,
+    "image": { "url": "/data/quran_image/231.png" },
     "start": {
       "surah_number": 11,
       "verse": 82,
@@ -4660,6 +4891,7 @@
   },
   {
     "page": 232,
+    "image": { "url": "/data/quran_image/232.png" },
     "start": {
       "surah_number": 11,
       "verse": 89,
@@ -4673,6 +4905,7 @@
   },
   {
     "page": 233,
+    "image": { "url": "/data/quran_image/233.png" },
     "start": {
       "surah_number": 11,
       "verse": 98,
@@ -4686,6 +4919,7 @@
   },
   {
     "page": 234,
+    "image": { "url": "/data/quran_image/234.png" },
     "start": {
       "surah_number": 11,
       "verse": 109,
@@ -4699,6 +4933,7 @@
   },
   {
     "page": 235,
+    "image": { "url": "/data/quran_image/235.png" },
     "start": {
       "surah_number": 11,
       "verse": 118,
@@ -4712,6 +4947,7 @@
   },
   {
     "page": 236,
+    "image": { "url": "/data/quran_image/236.png" },
     "start": {
       "surah_number": 12,
       "verse": 5,
@@ -4725,6 +4961,7 @@
   },
   {
     "page": 237,
+    "image": { "url": "/data/quran_image/237.png" },
     "start": {
       "surah_number": 12,
       "verse": 15,
@@ -4738,6 +4975,7 @@
   },
   {
     "page": 238,
+    "image": { "url": "/data/quran_image/238.png" },
     "start": {
       "surah_number": 12,
       "verse": 23,
@@ -4751,6 +4989,7 @@
   },
   {
     "page": 239,
+    "image": { "url": "/data/quran_image/239.png" },
     "start": {
       "surah_number": 12,
       "verse": 31,
@@ -4764,6 +5003,7 @@
   },
   {
     "page": 240,
+    "image": { "url": "/data/quran_image/240.png" },
     "start": {
       "surah_number": 12,
       "verse": 38,
@@ -4777,6 +5017,7 @@
   },
   {
     "page": 241,
+    "image": { "url": "/data/quran_image/241.png" },
     "start": {
       "surah_number": 12,
       "verse": 44,
@@ -4790,6 +5031,7 @@
   },
   {
     "page": 242,
+    "image": { "url": "/data/quran_image/242.png" },
     "start": {
       "surah_number": 12,
       "verse": 53,
@@ -4803,6 +5045,7 @@
   },
   {
     "page": 243,
+    "image": { "url": "/data/quran_image/243.png" },
     "start": {
       "surah_number": 12,
       "verse": 64,
@@ -4816,6 +5059,7 @@
   },
   {
     "page": 244,
+    "image": { "url": "/data/quran_image/244.png" },
     "start": {
       "surah_number": 12,
       "verse": 70,
@@ -4829,6 +5073,7 @@
   },
   {
     "page": 245,
+    "image": { "url": "/data/quran_image/245.png" },
     "start": {
       "surah_number": 12,
       "verse": 79,
@@ -4842,6 +5087,7 @@
   },
   {
     "page": 246,
+    "image": { "url": "/data/quran_image/246.png" },
     "start": {
       "surah_number": 12,
       "verse": 87,
@@ -4855,6 +5101,7 @@
   },
   {
     "page": 247,
+    "image": { "url": "/data/quran_image/247.png" },
     "start": {
       "surah_number": 12,
       "verse": 96,
@@ -4868,6 +5115,7 @@
   },
   {
     "page": 248,
+    "image": { "url": "/data/quran_image/248.png" },
     "start": {
       "surah_number": 12,
       "verse": 104,
@@ -4881,6 +5129,7 @@
   },
   {
     "page": 249,
+    "image": { "url": "/data/quran_image/249.png" },
     "start": {
       "surah_number": 13,
       "verse": 1,
@@ -4902,6 +5151,7 @@
   },
   {
     "page": 250,
+    "image": { "url": "/data/quran_image/250.png" },
     "start": {
       "surah_number": 13,
       "verse": 6,
@@ -4923,6 +5173,7 @@
   },
   {
     "page": 251,
+    "image": { "url": "/data/quran_image/251.png" },
     "start": {
       "surah_number": 13,
       "verse": 14,
@@ -4944,6 +5195,7 @@
   },
   {
     "page": 252,
+    "image": { "url": "/data/quran_image/252.png" },
     "start": {
       "surah_number": 13,
       "verse": 19,
@@ -4965,6 +5217,7 @@
   },
   {
     "page": 253,
+    "image": { "url": "/data/quran_image/253.png" },
     "start": {
       "surah_number": 13,
       "verse": 29,
@@ -4986,6 +5239,7 @@
   },
   {
     "page": 254,
+    "image": { "url": "/data/quran_image/254.png" },
     "start": {
       "surah_number": 13,
       "verse": 35,
@@ -5007,6 +5261,7 @@
   },
   {
     "page": 255,
+    "image": { "url": "/data/quran_image/255.png" },
     "start": {
       "surah_number": 13,
       "verse": 43,
@@ -5024,6 +5279,7 @@
   },
   {
     "page": 256,
+    "image": { "url": "/data/quran_image/256.png" },
     "start": {
       "surah_number": 14,
       "verse": 6,
@@ -5037,6 +5293,7 @@
   },
   {
     "page": 257,
+    "image": { "url": "/data/quran_image/257.png" },
     "start": {
       "surah_number": 14,
       "verse": 11,
@@ -5050,6 +5307,7 @@
   },
   {
     "page": 258,
+    "image": { "url": "/data/quran_image/258.png" },
     "start": {
       "surah_number": 14,
       "verse": 19,
@@ -5063,6 +5321,7 @@
   },
   {
     "page": 259,
+    "image": { "url": "/data/quran_image/259.png" },
     "start": {
       "surah_number": 14,
       "verse": 25,
@@ -5076,6 +5335,7 @@
   },
   {
     "page": 260,
+    "image": { "url": "/data/quran_image/260.png" },
     "start": {
       "surah_number": 14,
       "verse": 34,
@@ -5089,6 +5349,7 @@
   },
   {
     "page": 261,
+    "image": { "url": "/data/quran_image/261.png" },
     "start": {
       "surah_number": 14,
       "verse": 43,
@@ -5102,6 +5363,7 @@
   },
   {
     "page": 262,
+    "image": { "url": "/data/quran_image/262.png" },
     "start": {
       "surah_number": 15,
       "verse": 1,
@@ -5115,6 +5377,7 @@
   },
   {
     "page": 263,
+    "image": { "url": "/data/quran_image/263.png" },
     "start": {
       "surah_number": 15,
       "verse": 16,
@@ -5128,6 +5391,7 @@
   },
   {
     "page": 264,
+    "image": { "url": "/data/quran_image/264.png" },
     "start": {
       "surah_number": 15,
       "verse": 32,
@@ -5141,6 +5405,7 @@
   },
   {
     "page": 265,
+    "image": { "url": "/data/quran_image/265.png" },
     "start": {
       "surah_number": 15,
       "verse": 52,
@@ -5154,6 +5419,7 @@
   },
   {
     "page": 266,
+    "image": { "url": "/data/quran_image/266.png" },
     "start": {
       "surah_number": 15,
       "verse": 71,
@@ -5167,6 +5433,7 @@
   },
   {
     "page": 267,
+    "image": { "url": "/data/quran_image/267.png" },
     "start": {
       "surah_number": 15,
       "verse": 91,
@@ -5180,6 +5447,7 @@
   },
   {
     "page": 268,
+    "image": { "url": "/data/quran_image/268.png" },
     "start": {
       "surah_number": 16,
       "verse": 7,
@@ -5193,6 +5461,7 @@
   },
   {
     "page": 269,
+    "image": { "url": "/data/quran_image/269.png" },
     "start": {
       "surah_number": 16,
       "verse": 15,
@@ -5206,6 +5475,7 @@
   },
   {
     "page": 270,
+    "image": { "url": "/data/quran_image/270.png" },
     "start": {
       "surah_number": 16,
       "verse": 27,
@@ -5219,6 +5489,7 @@
   },
   {
     "page": 271,
+    "image": { "url": "/data/quran_image/271.png" },
     "start": {
       "surah_number": 16,
       "verse": 35,
@@ -5232,6 +5503,7 @@
   },
   {
     "page": 272,
+    "image": { "url": "/data/quran_image/272.png" },
     "start": {
       "surah_number": 16,
       "verse": 43,
@@ -5245,6 +5517,7 @@
   },
   {
     "page": 273,
+    "image": { "url": "/data/quran_image/273.png" },
     "start": {
       "surah_number": 16,
       "verse": 55,
@@ -5258,6 +5531,7 @@
   },
   {
     "page": 274,
+    "image": { "url": "/data/quran_image/274.png" },
     "start": {
       "surah_number": 16,
       "verse": 65,
@@ -5271,6 +5545,7 @@
   },
   {
     "page": 275,
+    "image": { "url": "/data/quran_image/275.png" },
     "start": {
       "surah_number": 16,
       "verse": 73,
@@ -5284,6 +5559,7 @@
   },
   {
     "page": 276,
+    "image": { "url": "/data/quran_image/276.png" },
     "start": {
       "surah_number": 16,
       "verse": 80,
@@ -5297,6 +5573,7 @@
   },
   {
     "page": 277,
+    "image": { "url": "/data/quran_image/277.png" },
     "start": {
       "surah_number": 16,
       "verse": 88,
@@ -5310,6 +5587,7 @@
   },
   {
     "page": 278,
+    "image": { "url": "/data/quran_image/278.png" },
     "start": {
       "surah_number": 16,
       "verse": 94,
@@ -5323,6 +5601,7 @@
   },
   {
     "page": 279,
+    "image": { "url": "/data/quran_image/279.png" },
     "start": {
       "surah_number": 16,
       "verse": 103,
@@ -5336,6 +5615,7 @@
   },
   {
     "page": 280,
+    "image": { "url": "/data/quran_image/280.png" },
     "start": {
       "surah_number": 16,
       "verse": 111,
@@ -5349,6 +5629,7 @@
   },
   {
     "page": 281,
+    "image": { "url": "/data/quran_image/281.png" },
     "start": {
       "surah_number": 16,
       "verse": 119,
@@ -5362,6 +5643,7 @@
   },
   {
     "page": 282,
+    "image": { "url": "/data/quran_image/282.png" },
     "start": {
       "surah_number": 17,
       "verse": 1,
@@ -5383,6 +5665,7 @@
   },
   {
     "page": 283,
+    "image": { "url": "/data/quran_image/283.png" },
     "start": {
       "surah_number": 17,
       "verse": 8,
@@ -5404,6 +5687,7 @@
   },
   {
     "page": 284,
+    "image": { "url": "/data/quran_image/284.png" },
     "start": {
       "surah_number": 17,
       "verse": 18,
@@ -5425,6 +5709,7 @@
   },
   {
     "page": 285,
+    "image": { "url": "/data/quran_image/285.png" },
     "start": {
       "surah_number": 17,
       "verse": 28,
@@ -5446,6 +5731,7 @@
   },
   {
     "page": 286,
+    "image": { "url": "/data/quran_image/286.png" },
     "start": {
       "surah_number": 17,
       "verse": 39,
@@ -5467,6 +5753,7 @@
   },
   {
     "page": 287,
+    "image": { "url": "/data/quran_image/287.png" },
     "start": {
       "surah_number": 17,
       "verse": 50,
@@ -5488,6 +5775,7 @@
   },
   {
     "page": 288,
+    "image": { "url": "/data/quran_image/288.png" },
     "start": {
       "surah_number": 17,
       "verse": 59,
@@ -5509,6 +5797,7 @@
   },
   {
     "page": 289,
+    "image": { "url": "/data/quran_image/289.png" },
     "start": {
       "surah_number": 17,
       "verse": 67,
@@ -5530,6 +5819,7 @@
   },
   {
     "page": 290,
+    "image": { "url": "/data/quran_image/290.png" },
     "start": {
       "surah_number": 17,
       "verse": 76,
@@ -5551,6 +5841,7 @@
   },
   {
     "page": 291,
+    "image": { "url": "/data/quran_image/291.png" },
     "start": {
       "surah_number": 17,
       "verse": 87,
@@ -5572,6 +5863,7 @@
   },
   {
     "page": 292,
+    "image": { "url": "/data/quran_image/292.png" },
     "start": {
       "surah_number": 17,
       "verse": 97,
@@ -5593,6 +5885,7 @@
   },
   {
     "page": 293,
+    "image": { "url": "/data/quran_image/293.png" },
     "start": {
       "surah_number": 17,
       "verse": 105,
@@ -5610,6 +5903,7 @@
   },
   {
     "page": 294,
+    "image": { "url": "/data/quran_image/294.png" },
     "start": {
       "surah_number": 18,
       "verse": 5,
@@ -5623,6 +5917,7 @@
   },
   {
     "page": 295,
+    "image": { "url": "/data/quran_image/295.png" },
     "start": {
       "surah_number": 18,
       "verse": 16,
@@ -5636,6 +5931,7 @@
   },
   {
     "page": 296,
+    "image": { "url": "/data/quran_image/296.png" },
     "start": {
       "surah_number": 18,
       "verse": 21,
@@ -5649,6 +5945,7 @@
   },
   {
     "page": 297,
+    "image": { "url": "/data/quran_image/297.png" },
     "start": {
       "surah_number": 18,
       "verse": 28,
@@ -5662,6 +5959,7 @@
   },
   {
     "page": 298,
+    "image": { "url": "/data/quran_image/298.png" },
     "start": {
       "surah_number": 18,
       "verse": 35,
@@ -5675,6 +5973,7 @@
   },
   {
     "page": 299,
+    "image": { "url": "/data/quran_image/299.png" },
     "start": {
       "surah_number": 18,
       "verse": 46,
@@ -5688,6 +5987,7 @@
   },
   {
     "page": 300,
+    "image": { "url": "/data/quran_image/300.png" },
     "start": {
       "surah_number": 18,
       "verse": 54,
@@ -5701,6 +6001,7 @@
   },
   {
     "page": 301,
+    "image": { "url": "/data/quran_image/301.png" },
     "start": {
       "surah_number": 18,
       "verse": 62,
@@ -5714,6 +6015,7 @@
   },
   {
     "page": 302,
+    "image": { "url": "/data/quran_image/302.png" },
     "start": {
       "surah_number": 18,
       "verse": 75,
@@ -5727,6 +6029,7 @@
   },
   {
     "page": 303,
+    "image": { "url": "/data/quran_image/303.png" },
     "start": {
       "surah_number": 18,
       "verse": 84,
@@ -5740,6 +6043,7 @@
   },
   {
     "page": 304,
+    "image": { "url": "/data/quran_image/304.png" },
     "start": {
       "surah_number": 18,
       "verse": 98,
@@ -5753,6 +6057,7 @@
   },
   {
     "page": 305,
+    "image": { "url": "/data/quran_image/305.png" },
     "start": {
       "surah_number": 19,
       "verse": 1,
@@ -5766,6 +6071,7 @@
   },
   {
     "page": 306,
+    "image": { "url": "/data/quran_image/306.png" },
     "start": {
       "surah_number": 19,
       "verse": 12,
@@ -5779,6 +6085,7 @@
   },
   {
     "page": 307,
+    "image": { "url": "/data/quran_image/307.png" },
     "start": {
       "surah_number": 19,
       "verse": 26,
@@ -5792,6 +6099,7 @@
   },
   {
     "page": 308,
+    "image": { "url": "/data/quran_image/308.png" },
     "start": {
       "surah_number": 19,
       "verse": 39,
@@ -5805,6 +6113,7 @@
   },
   {
     "page": 309,
+    "image": { "url": "/data/quran_image/309.png" },
     "start": {
       "surah_number": 19,
       "verse": 52,
@@ -5818,6 +6127,7 @@
   },
   {
     "page": 310,
+    "image": { "url": "/data/quran_image/310.png" },
     "start": {
       "surah_number": 19,
       "verse": 65,
@@ -5831,6 +6141,7 @@
   },
   {
     "page": 311,
+    "image": { "url": "/data/quran_image/311.png" },
     "start": {
       "surah_number": 19,
       "verse": 77,
@@ -5844,6 +6155,7 @@
   },
   {
     "page": 312,
+    "image": { "url": "/data/quran_image/312.png" },
     "start": {
       "surah_number": 19,
       "verse": 96,
@@ -5857,6 +6169,7 @@
   },
   {
     "page": 313,
+    "image": { "url": "/data/quran_image/313.png" },
     "start": {
       "surah_number": 20,
       "verse": 13,
@@ -5870,6 +6183,7 @@
   },
   {
     "page": 314,
+    "image": { "url": "/data/quran_image/314.png" },
     "start": {
       "surah_number": 20,
       "verse": 38,
@@ -5883,6 +6197,7 @@
   },
   {
     "page": 315,
+    "image": { "url": "/data/quran_image/315.png" },
     "start": {
       "surah_number": 20,
       "verse": 52,
@@ -5896,6 +6211,7 @@
   },
   {
     "page": 316,
+    "image": { "url": "/data/quran_image/316.png" },
     "start": {
       "surah_number": 20,
       "verse": 65,
@@ -5909,6 +6225,7 @@
   },
   {
     "page": 317,
+    "image": { "url": "/data/quran_image/317.png" },
     "start": {
       "surah_number": 20,
       "verse": 77,
@@ -5922,6 +6239,7 @@
   },
   {
     "page": 318,
+    "image": { "url": "/data/quran_image/318.png" },
     "start": {
       "surah_number": 20,
       "verse": 88,
@@ -5935,6 +6253,7 @@
   },
   {
     "page": 319,
+    "image": { "url": "/data/quran_image/319.png" },
     "start": {
       "surah_number": 20,
       "verse": 99,
@@ -5948,6 +6267,7 @@
   },
   {
     "page": 320,
+    "image": { "url": "/data/quran_image/320.png" },
     "start": {
       "surah_number": 20,
       "verse": 114,
@@ -5961,6 +6281,7 @@
   },
   {
     "page": 321,
+    "image": { "url": "/data/quran_image/321.png" },
     "start": {
       "surah_number": 20,
       "verse": 126,
@@ -5974,6 +6295,7 @@
   },
   {
     "page": 322,
+    "image": { "url": "/data/quran_image/322.png" },
     "start": {
       "surah_number": 21,
       "verse": 1,
@@ -5995,6 +6317,7 @@
   },
   {
     "page": 323,
+    "image": { "url": "/data/quran_image/323.png" },
     "start": {
       "surah_number": 21,
       "verse": 11,
@@ -6016,6 +6339,7 @@
   },
   {
     "page": 324,
+    "image": { "url": "/data/quran_image/324.png" },
     "start": {
       "surah_number": 21,
       "verse": 25,
@@ -6037,6 +6361,7 @@
   },
   {
     "page": 325,
+    "image": { "url": "/data/quran_image/325.png" },
     "start": {
       "surah_number": 21,
       "verse": 36,
@@ -6058,6 +6383,7 @@
   },
   {
     "page": 326,
+    "image": { "url": "/data/quran_image/326.png" },
     "start": {
       "surah_number": 21,
       "verse": 45,
@@ -6079,6 +6405,7 @@
   },
   {
     "page": 327,
+    "image": { "url": "/data/quran_image/327.png" },
     "start": {
       "surah_number": 21,
       "verse": 58,
@@ -6100,6 +6427,7 @@
   },
   {
     "page": 328,
+    "image": { "url": "/data/quran_image/328.png" },
     "start": {
       "surah_number": 21,
       "verse": 73,
@@ -6121,6 +6449,7 @@
   },
   {
     "page": 329,
+    "image": { "url": "/data/quran_image/329.png" },
     "start": {
       "surah_number": 21,
       "verse": 82,
@@ -6142,6 +6471,7 @@
   },
   {
     "page": 330,
+    "image": { "url": "/data/quran_image/330.png" },
     "start": {
       "surah_number": 21,
       "verse": 91,
@@ -6163,6 +6493,7 @@
   },
   {
     "page": 331,
+    "image": { "url": "/data/quran_image/331.png" },
     "start": {
       "surah_number": 21,
       "verse": 102,
@@ -6184,6 +6515,7 @@
   },
   {
     "page": 332,
+    "image": { "url": "/data/quran_image/332.png" },
     "start": {
       "surah_number": 22,
       "verse": 1,
@@ -6205,6 +6537,7 @@
   },
   {
     "page": 333,
+    "image": { "url": "/data/quran_image/333.png" },
     "start": {
       "surah_number": 22,
       "verse": 6,
@@ -6226,6 +6559,7 @@
   },
   {
     "page": 334,
+    "image": { "url": "/data/quran_image/334.png" },
     "start": {
       "surah_number": 22,
       "verse": 16,
@@ -6247,6 +6581,7 @@
   },
   {
     "page": 335,
+    "image": { "url": "/data/quran_image/335.png" },
     "start": {
       "surah_number": 22,
       "verse": 24,
@@ -6268,6 +6603,7 @@
   },
   {
     "page": 336,
+    "image": { "url": "/data/quran_image/336.png" },
     "start": {
       "surah_number": 22,
       "verse": 31,
@@ -6289,6 +6625,7 @@
   },
   {
     "page": 337,
+    "image": { "url": "/data/quran_image/337.png" },
     "start": {
       "surah_number": 22,
       "verse": 39,
@@ -6310,6 +6647,7 @@
   },
   {
     "page": 338,
+    "image": { "url": "/data/quran_image/338.png" },
     "start": {
       "surah_number": 22,
       "verse": 47,
@@ -6331,6 +6669,7 @@
   },
   {
     "page": 339,
+    "image": { "url": "/data/quran_image/339.png" },
     "start": {
       "surah_number": 22,
       "verse": 56,
@@ -6352,6 +6691,7 @@
   },
   {
     "page": 340,
+    "image": { "url": "/data/quran_image/340.png" },
     "start": {
       "surah_number": 22,
       "verse": 65,
@@ -6373,6 +6713,7 @@
   },
   {
     "page": 341,
+    "image": { "url": "/data/quran_image/341.png" },
     "start": {
       "surah_number": 22,
       "verse": 73,
@@ -6394,6 +6735,7 @@
   },
   {
     "page": 342,
+    "image": { "url": "/data/quran_image/342.png" },
     "start": {
       "surah_number": 23,
       "verse": 1,
@@ -6415,6 +6757,7 @@
   },
   {
     "page": 343,
+    "image": { "url": "/data/quran_image/343.png" },
     "start": {
       "surah_number": 23,
       "verse": 18,
@@ -6436,6 +6779,7 @@
   },
   {
     "page": 344,
+    "image": { "url": "/data/quran_image/344.png" },
     "start": {
       "surah_number": 23,
       "verse": 28,
@@ -6457,6 +6801,7 @@
   },
   {
     "page": 345,
+    "image": { "url": "/data/quran_image/345.png" },
     "start": {
       "surah_number": 23,
       "verse": 43,
@@ -6478,6 +6823,7 @@
   },
   {
     "page": 346,
+    "image": { "url": "/data/quran_image/346.png" },
     "start": {
       "surah_number": 23,
       "verse": 60,
@@ -6499,6 +6845,7 @@
   },
   {
     "page": 347,
+    "image": { "url": "/data/quran_image/347.png" },
     "start": {
       "surah_number": 23,
       "verse": 75,
@@ -6520,6 +6867,7 @@
   },
   {
     "page": 348,
+    "image": { "url": "/data/quran_image/348.png" },
     "start": {
       "surah_number": 23,
       "verse": 90,
@@ -6541,6 +6889,7 @@
   },
   {
     "page": 349,
+    "image": { "url": "/data/quran_image/349.png" },
     "start": {
       "surah_number": 23,
       "verse": 105,
@@ -6562,6 +6911,7 @@
   },
   {
     "page": 350,
+    "image": { "url": "/data/quran_image/350.png" },
     "start": {
       "surah_number": 24,
       "verse": 1,
@@ -6575,6 +6925,7 @@
   },
   {
     "page": 351,
+    "image": { "url": "/data/quran_image/351.png" },
     "start": {
       "surah_number": 24,
       "verse": 11,
@@ -6588,6 +6939,7 @@
   },
   {
     "page": 352,
+    "image": { "url": "/data/quran_image/352.png" },
     "start": {
       "surah_number": 24,
       "verse": 21,
@@ -6601,6 +6953,7 @@
   },
   {
     "page": 353,
+    "image": { "url": "/data/quran_image/353.png" },
     "start": {
       "surah_number": 24,
       "verse": 28,
@@ -6614,6 +6967,7 @@
   },
   {
     "page": 354,
+    "image": { "url": "/data/quran_image/354.png" },
     "start": {
       "surah_number": 24,
       "verse": 32,
@@ -6627,6 +6981,7 @@
   },
   {
     "page": 355,
+    "image": { "url": "/data/quran_image/355.png" },
     "start": {
       "surah_number": 24,
       "verse": 37,
@@ -6640,6 +6995,7 @@
   },
   {
     "page": 356,
+    "image": { "url": "/data/quran_image/356.png" },
     "start": {
       "surah_number": 24,
       "verse": 44,
@@ -6653,6 +7009,7 @@
   },
   {
     "page": 357,
+    "image": { "url": "/data/quran_image/357.png" },
     "start": {
       "surah_number": 24,
       "verse": 54,
@@ -6666,6 +7023,7 @@
   },
   {
     "page": 358,
+    "image": { "url": "/data/quran_image/358.png" },
     "start": {
       "surah_number": 24,
       "verse": 59,
@@ -6679,6 +7037,7 @@
   },
   {
     "page": 359,
+    "image": { "url": "/data/quran_image/359.png" },
     "start": {
       "surah_number": 24,
       "verse": 62,
@@ -6696,6 +7055,7 @@
   },
   {
     "page": 360,
+    "image": { "url": "/data/quran_image/360.png" },
     "start": {
       "surah_number": 25,
       "verse": 3,
@@ -6717,6 +7077,7 @@
   },
   {
     "page": 361,
+    "image": { "url": "/data/quran_image/361.png" },
     "start": {
       "surah_number": 25,
       "verse": 12,
@@ -6738,6 +7099,7 @@
   },
   {
     "page": 362,
+    "image": { "url": "/data/quran_image/362.png" },
     "start": {
       "surah_number": 25,
       "verse": 21,
@@ -6759,6 +7121,7 @@
   },
   {
     "page": 363,
+    "image": { "url": "/data/quran_image/363.png" },
     "start": {
       "surah_number": 25,
       "verse": 33,
@@ -6780,6 +7143,7 @@
   },
   {
     "page": 364,
+    "image": { "url": "/data/quran_image/364.png" },
     "start": {
       "surah_number": 25,
       "verse": 44,
@@ -6801,6 +7165,7 @@
   },
   {
     "page": 365,
+    "image": { "url": "/data/quran_image/365.png" },
     "start": {
       "surah_number": 25,
       "verse": 56,
@@ -6822,6 +7187,7 @@
   },
   {
     "page": 366,
+    "image": { "url": "/data/quran_image/366.png" },
     "start": {
       "surah_number": 25,
       "verse": 68,
@@ -6843,6 +7209,7 @@
   },
   {
     "page": 367,
+    "image": { "url": "/data/quran_image/367.png" },
     "start": {
       "surah_number": 26,
       "verse": 1,
@@ -6864,6 +7231,7 @@
   },
   {
     "page": 368,
+    "image": { "url": "/data/quran_image/368.png" },
     "start": {
       "surah_number": 26,
       "verse": 20,
@@ -6885,6 +7253,7 @@
   },
   {
     "page": 369,
+    "image": { "url": "/data/quran_image/369.png" },
     "start": {
       "surah_number": 26,
       "verse": 40,
@@ -6906,6 +7275,7 @@
   },
   {
     "page": 370,
+    "image": { "url": "/data/quran_image/370.png" },
     "start": {
       "surah_number": 26,
       "verse": 61,
@@ -6927,6 +7297,7 @@
   },
   {
     "page": 371,
+    "image": { "url": "/data/quran_image/371.png" },
     "start": {
       "surah_number": 26,
       "verse": 84,
@@ -6948,6 +7319,7 @@
   },
   {
     "page": 372,
+    "image": { "url": "/data/quran_image/372.png" },
     "start": {
       "surah_number": 26,
       "verse": 112,
@@ -6969,6 +7341,7 @@
   },
   {
     "page": 373,
+    "image": { "url": "/data/quran_image/373.png" },
     "start": {
       "surah_number": 26,
       "verse": 137,
@@ -6990,6 +7363,7 @@
   },
   {
     "page": 374,
+    "image": { "url": "/data/quran_image/374.png" },
     "start": {
       "surah_number": 26,
       "verse": 160,
@@ -7011,6 +7385,7 @@
   },
   {
     "page": 375,
+    "image": { "url": "/data/quran_image/375.png" },
     "start": {
       "surah_number": 26,
       "verse": 184,
@@ -7032,6 +7407,7 @@
   },
   {
     "page": 376,
+    "image": { "url": "/data/quran_image/376.png" },
     "start": {
       "surah_number": 26,
       "verse": 207,
@@ -7053,6 +7429,7 @@
   },
   {
     "page": 377,
+    "image": { "url": "/data/quran_image/377.png" },
     "start": {
       "surah_number": 27,
       "verse": 1,
@@ -7066,6 +7443,7 @@
   },
   {
     "page": 378,
+    "image": { "url": "/data/quran_image/378.png" },
     "start": {
       "surah_number": 27,
       "verse": 14,
@@ -7079,6 +7457,7 @@
   },
   {
     "page": 379,
+    "image": { "url": "/data/quran_image/379.png" },
     "start": {
       "surah_number": 27,
       "verse": 23,
@@ -7092,6 +7471,7 @@
   },
   {
     "page": 380,
+    "image": { "url": "/data/quran_image/380.png" },
     "start": {
       "surah_number": 27,
       "verse": 36,
@@ -7105,6 +7485,7 @@
   },
   {
     "page": 381,
+    "image": { "url": "/data/quran_image/381.png" },
     "start": {
       "surah_number": 27,
       "verse": 45,
@@ -7118,6 +7499,7 @@
   },
   {
     "page": 382,
+    "image": { "url": "/data/quran_image/382.png" },
     "start": {
       "surah_number": 27,
       "verse": 56,
@@ -7131,6 +7513,7 @@
   },
   {
     "page": 383,
+    "image": { "url": "/data/quran_image/383.png" },
     "start": {
       "surah_number": 27,
       "verse": 64,
@@ -7144,6 +7527,7 @@
   },
   {
     "page": 384,
+    "image": { "url": "/data/quran_image/384.png" },
     "start": {
       "surah_number": 27,
       "verse": 77,
@@ -7157,6 +7541,7 @@
   },
   {
     "page": 385,
+    "image": { "url": "/data/quran_image/385.png" },
     "start": {
       "surah_number": 27,
       "verse": 89,
@@ -7174,6 +7559,7 @@
   },
   {
     "page": 386,
+    "image": { "url": "/data/quran_image/386.png" },
     "start": {
       "surah_number": 28,
       "verse": 6,
@@ -7195,6 +7581,7 @@
   },
   {
     "page": 387,
+    "image": { "url": "/data/quran_image/387.png" },
     "start": {
       "surah_number": 28,
       "verse": 14,
@@ -7216,6 +7603,7 @@
   },
   {
     "page": 388,
+    "image": { "url": "/data/quran_image/388.png" },
     "start": {
       "surah_number": 28,
       "verse": 22,
@@ -7237,6 +7625,7 @@
   },
   {
     "page": 389,
+    "image": { "url": "/data/quran_image/389.png" },
     "start": {
       "surah_number": 28,
       "verse": 29,
@@ -7258,6 +7647,7 @@
   },
   {
     "page": 390,
+    "image": { "url": "/data/quran_image/390.png" },
     "start": {
       "surah_number": 28,
       "verse": 36,
@@ -7279,6 +7669,7 @@
   },
   {
     "page": 391,
+    "image": { "url": "/data/quran_image/391.png" },
     "start": {
       "surah_number": 28,
       "verse": 44,
@@ -7300,6 +7691,7 @@
   },
   {
     "page": 392,
+    "image": { "url": "/data/quran_image/392.png" },
     "start": {
       "surah_number": 28,
       "verse": 51,
@@ -7321,6 +7713,7 @@
   },
   {
     "page": 393,
+    "image": { "url": "/data/quran_image/393.png" },
     "start": {
       "surah_number": 28,
       "verse": 60,
@@ -7342,6 +7735,7 @@
   },
   {
     "page": 394,
+    "image": { "url": "/data/quran_image/394.png" },
     "start": {
       "surah_number": 28,
       "verse": 71,
@@ -7363,6 +7757,7 @@
   },
   {
     "page": 395,
+    "image": { "url": "/data/quran_image/395.png" },
     "start": {
       "surah_number": 28,
       "verse": 78,
@@ -7384,6 +7779,7 @@
   },
   {
     "page": 396,
+    "image": { "url": "/data/quran_image/396.png" },
     "start": {
       "surah_number": 28,
       "verse": 85,
@@ -7405,6 +7801,7 @@
   },
   {
     "page": 397,
+    "image": { "url": "/data/quran_image/397.png" },
     "start": {
       "surah_number": 29,
       "verse": 7,
@@ -7426,6 +7823,7 @@
   },
   {
     "page": 398,
+    "image": { "url": "/data/quran_image/398.png" },
     "start": {
       "surah_number": 29,
       "verse": 15,
@@ -7447,6 +7845,7 @@
   },
   {
     "page": 399,
+    "image": { "url": "/data/quran_image/399.png" },
     "start": {
       "surah_number": 29,
       "verse": 24,
@@ -7468,6 +7867,7 @@
   },
   {
     "page": 400,
+    "image": { "url": "/data/quran_image/400.png" },
     "start": {
       "surah_number": 29,
       "verse": 31,
@@ -7489,6 +7889,7 @@
   },
   {
     "page": 401,
+    "image": { "url": "/data/quran_image/401.png" },
     "start": {
       "surah_number": 29,
       "verse": 39,
@@ -7510,6 +7911,7 @@
   },
   {
     "page": 402,
+    "image": { "url": "/data/quran_image/402.png" },
     "start": {
       "surah_number": 29,
       "verse": 46,
@@ -7531,6 +7933,7 @@
   },
   {
     "page": 403,
+    "image": { "url": "/data/quran_image/403.png" },
     "start": {
       "surah_number": 29,
       "verse": 53,
@@ -7552,6 +7955,7 @@
   },
   {
     "page": 404,
+    "image": { "url": "/data/quran_image/404.png" },
     "start": {
       "surah_number": 29,
       "verse": 64,
@@ -7569,6 +7973,7 @@
   },
   {
     "page": 405,
+    "image": { "url": "/data/quran_image/405.png" },
     "start": {
       "surah_number": 30,
       "verse": 6,
@@ -7582,6 +7987,7 @@
   },
   {
     "page": 406,
+    "image": { "url": "/data/quran_image/406.png" },
     "start": {
       "surah_number": 30,
       "verse": 16,
@@ -7595,6 +8001,7 @@
   },
   {
     "page": 407,
+    "image": { "url": "/data/quran_image/407.png" },
     "start": {
       "surah_number": 30,
       "verse": 25,
@@ -7608,6 +8015,7 @@
   },
   {
     "page": 408,
+    "image": { "url": "/data/quran_image/408.png" },
     "start": {
       "surah_number": 30,
       "verse": 33,
@@ -7621,6 +8029,7 @@
   },
   {
     "page": 409,
+    "image": { "url": "/data/quran_image/409.png" },
     "start": {
       "surah_number": 30,
       "verse": 42,
@@ -7634,6 +8043,7 @@
   },
   {
     "page": 410,
+    "image": { "url": "/data/quran_image/410.png" },
     "start": {
       "surah_number": 30,
       "verse": 51,
@@ -7647,6 +8057,7 @@
   },
   {
     "page": 411,
+    "image": { "url": "/data/quran_image/411.png" },
     "start": {
       "surah_number": 31,
       "verse": 1,
@@ -7660,6 +8071,7 @@
   },
   {
     "page": 412,
+    "image": { "url": "/data/quran_image/412.png" },
     "start": {
       "surah_number": 31,
       "verse": 12,
@@ -7673,6 +8085,7 @@
   },
   {
     "page": 413,
+    "image": { "url": "/data/quran_image/413.png" },
     "start": {
       "surah_number": 31,
       "verse": 20,
@@ -7686,6 +8099,7 @@
   },
   {
     "page": 414,
+    "image": { "url": "/data/quran_image/414.png" },
     "start": {
       "surah_number": 31,
       "verse": 29,
@@ -7699,6 +8113,7 @@
   },
   {
     "page": 415,
+    "image": { "url": "/data/quran_image/415.png" },
     "start": {
       "surah_number": 32,
       "verse": 1,
@@ -7720,6 +8135,7 @@
   },
   {
     "page": 416,
+    "image": { "url": "/data/quran_image/416.png" },
     "start": {
       "surah_number": 32,
       "verse": 12,
@@ -7741,6 +8157,7 @@
   },
   {
     "page": 417,
+    "image": { "url": "/data/quran_image/417.png" },
     "start": {
       "surah_number": 32,
       "verse": 21,
@@ -7762,6 +8179,7 @@
   },
   {
     "page": 418,
+    "image": { "url": "/data/quran_image/418.png" },
     "start": {
       "surah_number": 33,
       "verse": 1,
@@ -7783,6 +8201,7 @@
   },
   {
     "page": 419,
+    "image": { "url": "/data/quran_image/419.png" },
     "start": {
       "surah_number": 33,
       "verse": 7,
@@ -7804,6 +8223,7 @@
   },
   {
     "page": 420,
+    "image": { "url": "/data/quran_image/420.png" },
     "start": {
       "surah_number": 33,
       "verse": 16,
@@ -7825,6 +8245,7 @@
   },
   {
     "page": 421,
+    "image": { "url": "/data/quran_image/421.png" },
     "start": {
       "surah_number": 33,
       "verse": 23,
@@ -7846,6 +8267,7 @@
   },
   {
     "page": 422,
+    "image": { "url": "/data/quran_image/422.png" },
     "start": {
       "surah_number": 33,
       "verse": 31,
@@ -7867,6 +8289,7 @@
   },
   {
     "page": 423,
+    "image": { "url": "/data/quran_image/423.png" },
     "start": {
       "surah_number": 33,
       "verse": 36,
@@ -7888,6 +8311,7 @@
   },
   {
     "page": 424,
+    "image": { "url": "/data/quran_image/424.png" },
     "start": {
       "surah_number": 33,
       "verse": 44,
@@ -7909,6 +8333,7 @@
   },
   {
     "page": 425,
+    "image": { "url": "/data/quran_image/425.png" },
     "start": {
       "surah_number": 33,
       "verse": 51,
@@ -7930,6 +8355,7 @@
   },
   {
     "page": 426,
+    "image": { "url": "/data/quran_image/426.png" },
     "start": {
       "surah_number": 33,
       "verse": 55,
@@ -7951,6 +8377,7 @@
   },
   {
     "page": 427,
+    "image": { "url": "/data/quran_image/427.png" },
     "start": {
       "surah_number": 33,
       "verse": 63,
@@ -7972,6 +8399,7 @@
   },
   {
     "page": 428,
+    "image": { "url": "/data/quran_image/428.png" },
     "start": {
       "surah_number": 34,
       "verse": 1,
@@ -7985,6 +8413,7 @@
   },
   {
     "page": 429,
+    "image": { "url": "/data/quran_image/429.png" },
     "start": {
       "surah_number": 34,
       "verse": 8,
@@ -7998,6 +8427,7 @@
   },
   {
     "page": 430,
+    "image": { "url": "/data/quran_image/430.png" },
     "start": {
       "surah_number": 34,
       "verse": 15,
@@ -8011,6 +8441,7 @@
   },
   {
     "page": 431,
+    "image": { "url": "/data/quran_image/431.png" },
     "start": {
       "surah_number": 34,
       "verse": 23,
@@ -8024,6 +8455,7 @@
   },
   {
     "page": 432,
+    "image": { "url": "/data/quran_image/432.png" },
     "start": {
       "surah_number": 34,
       "verse": 32,
@@ -8037,6 +8469,7 @@
   },
   {
     "page": 433,
+    "image": { "url": "/data/quran_image/433.png" },
     "start": {
       "surah_number": 34,
       "verse": 40,
@@ -8050,6 +8483,7 @@
   },
   {
     "page": 434,
+    "image": { "url": "/data/quran_image/434.png" },
     "start": {
       "surah_number": 34,
       "verse": 49,
@@ -8067,6 +8501,7 @@
   },
   {
     "page": 435,
+    "image": { "url": "/data/quran_image/435.png" },
     "start": {
       "surah_number": 35,
       "verse": 4,
@@ -8088,6 +8523,7 @@
   },
   {
     "page": 436,
+    "image": { "url": "/data/quran_image/436.png" },
     "start": {
       "surah_number": 35,
       "verse": 12,
@@ -8109,6 +8545,7 @@
   },
   {
     "page": 437,
+    "image": { "url": "/data/quran_image/437.png" },
     "start": {
       "surah_number": 35,
       "verse": 19,
@@ -8130,6 +8567,7 @@
   },
   {
     "page": 438,
+    "image": { "url": "/data/quran_image/438.png" },
     "start": {
       "surah_number": 35,
       "verse": 31,
@@ -8151,6 +8589,7 @@
   },
   {
     "page": 439,
+    "image": { "url": "/data/quran_image/439.png" },
     "start": {
       "surah_number": 35,
       "verse": 39,
@@ -8172,6 +8611,7 @@
   },
   {
     "page": 440,
+    "image": { "url": "/data/quran_image/440.png" },
     "start": {
       "surah_number": 35,
       "verse": 45,
@@ -8189,6 +8629,7 @@
   },
   {
     "page": 441,
+    "image": { "url": "/data/quran_image/441.png" },
     "start": {
       "surah_number": 36,
       "verse": 13,
@@ -8202,6 +8643,7 @@
   },
   {
     "page": 442,
+    "image": { "url": "/data/quran_image/442.png" },
     "start": {
       "surah_number": 36,
       "verse": 28,
@@ -8215,6 +8657,7 @@
   },
   {
     "page": 443,
+    "image": { "url": "/data/quran_image/443.png" },
     "start": {
       "surah_number": 36,
       "verse": 41,
@@ -8228,6 +8671,7 @@
   },
   {
     "page": 444,
+    "image": { "url": "/data/quran_image/444.png" },
     "start": {
       "surah_number": 36,
       "verse": 55,
@@ -8241,6 +8685,7 @@
   },
   {
     "page": 445,
+    "image": { "url": "/data/quran_image/445.png" },
     "start": {
       "surah_number": 36,
       "verse": 71,
@@ -8254,6 +8699,7 @@
   },
   {
     "page": 446,
+    "image": { "url": "/data/quran_image/446.png" },
     "start": {
       "surah_number": 37,
       "verse": 1,
@@ -8275,6 +8721,7 @@
   },
   {
     "page": 447,
+    "image": { "url": "/data/quran_image/447.png" },
     "start": {
       "surah_number": 37,
       "verse": 25,
@@ -8296,6 +8743,7 @@
   },
   {
     "page": 448,
+    "image": { "url": "/data/quran_image/448.png" },
     "start": {
       "surah_number": 37,
       "verse": 52,
@@ -8317,6 +8765,7 @@
   },
   {
     "page": 449,
+    "image": { "url": "/data/quran_image/449.png" },
     "start": {
       "surah_number": 37,
       "verse": 77,
@@ -8338,6 +8787,7 @@
   },
   {
     "page": 450,
+    "image": { "url": "/data/quran_image/450.png" },
     "start": {
       "surah_number": 37,
       "verse": 103,
@@ -8359,6 +8809,7 @@
   },
   {
     "page": 451,
+    "image": { "url": "/data/quran_image/451.png" },
     "start": {
       "surah_number": 37,
       "verse": 127,
@@ -8380,6 +8831,7 @@
   },
   {
     "page": 452,
+    "image": { "url": "/data/quran_image/452.png" },
     "start": {
       "surah_number": 37,
       "verse": 154,
@@ -8401,6 +8853,7 @@
   },
   {
     "page": 453,
+    "image": { "url": "/data/quran_image/453.png" },
     "start": {
       "surah_number": 38,
       "verse": 1,
@@ -8414,6 +8867,7 @@
   },
   {
     "page": 454,
+    "image": { "url": "/data/quran_image/454.png" },
     "start": {
       "surah_number": 38,
       "verse": 17,
@@ -8427,6 +8881,7 @@
   },
   {
     "page": 455,
+    "image": { "url": "/data/quran_image/455.png" },
     "start": {
       "surah_number": 38,
       "verse": 27,
@@ -8440,6 +8895,7 @@
   },
   {
     "page": 456,
+    "image": { "url": "/data/quran_image/456.png" },
     "start": {
       "surah_number": 38,
       "verse": 43,
@@ -8453,6 +8909,7 @@
   },
   {
     "page": 457,
+    "image": { "url": "/data/quran_image/457.png" },
     "start": {
       "surah_number": 38,
       "verse": 62,
@@ -8466,6 +8923,7 @@
   },
   {
     "page": 458,
+    "image": { "url": "/data/quran_image/458.png" },
     "start": {
       "surah_number": 38,
       "verse": 84,
@@ -8483,6 +8941,7 @@
   },
   {
     "page": 459,
+    "image": { "url": "/data/quran_image/459.png" },
     "start": {
       "surah_number": 39,
       "verse": 6,
@@ -8504,6 +8963,7 @@
   },
   {
     "page": 460,
+    "image": { "url": "/data/quran_image/460.png" },
     "start": {
       "surah_number": 39,
       "verse": 11,
@@ -8525,6 +8985,7 @@
   },
   {
     "page": 461,
+    "image": { "url": "/data/quran_image/461.png" },
     "start": {
       "surah_number": 39,
       "verse": 22,
@@ -8546,6 +9007,7 @@
   },
   {
     "page": 462,
+    "image": { "url": "/data/quran_image/462.png" },
     "start": {
       "surah_number": 39,
       "verse": 32,
@@ -8567,6 +9029,7 @@
   },
   {
     "page": 463,
+    "image": { "url": "/data/quran_image/463.png" },
     "start": {
       "surah_number": 39,
       "verse": 41,
@@ -8588,6 +9051,7 @@
   },
   {
     "page": 464,
+    "image": { "url": "/data/quran_image/464.png" },
     "start": {
       "surah_number": 39,
       "verse": 48,
@@ -8609,6 +9073,7 @@
   },
   {
     "page": 465,
+    "image": { "url": "/data/quran_image/465.png" },
     "start": {
       "surah_number": 39,
       "verse": 57,
@@ -8630,6 +9095,7 @@
   },
   {
     "page": 466,
+    "image": { "url": "/data/quran_image/466.png" },
     "start": {
       "surah_number": 39,
       "verse": 68,
@@ -8651,6 +9117,7 @@
   },
   {
     "page": 467,
+    "image": { "url": "/data/quran_image/467.png" },
     "start": {
       "surah_number": 39,
       "verse": 75,
@@ -8672,6 +9139,7 @@
   },
   {
     "page": 468,
+    "image": { "url": "/data/quran_image/468.png" },
     "start": {
       "surah_number": 40,
       "verse": 8,
@@ -8693,6 +9161,7 @@
   },
   {
     "page": 469,
+    "image": { "url": "/data/quran_image/469.png" },
     "start": {
       "surah_number": 40,
       "verse": 17,
@@ -8714,6 +9183,7 @@
   },
   {
     "page": 470,
+    "image": { "url": "/data/quran_image/470.png" },
     "start": {
       "surah_number": 40,
       "verse": 26,
@@ -8735,6 +9205,7 @@
   },
   {
     "page": 471,
+    "image": { "url": "/data/quran_image/471.png" },
     "start": {
       "surah_number": 40,
       "verse": 34,
@@ -8756,6 +9227,7 @@
   },
   {
     "page": 472,
+    "image": { "url": "/data/quran_image/472.png" },
     "start": {
       "surah_number": 40,
       "verse": 41,
@@ -8777,6 +9249,7 @@
   },
   {
     "page": 473,
+    "image": { "url": "/data/quran_image/473.png" },
     "start": {
       "surah_number": 40,
       "verse": 50,
@@ -8798,6 +9271,7 @@
   },
   {
     "page": 474,
+    "image": { "url": "/data/quran_image/474.png" },
     "start": {
       "surah_number": 40,
       "verse": 59,
@@ -8819,6 +9293,7 @@
   },
   {
     "page": 475,
+    "image": { "url": "/data/quran_image/475.png" },
     "start": {
       "surah_number": 40,
       "verse": 67,
@@ -8840,6 +9315,7 @@
   },
   {
     "page": 476,
+    "image": { "url": "/data/quran_image/476.png" },
     "start": {
       "surah_number": 40,
       "verse": 78,
@@ -8861,6 +9337,7 @@
   },
   {
     "page": 477,
+    "image": { "url": "/data/quran_image/477.png" },
     "start": {
       "surah_number": 41,
       "verse": 1,
@@ -8882,6 +9359,7 @@
   },
   {
     "page": 478,
+    "image": { "url": "/data/quran_image/478.png" },
     "start": {
       "surah_number": 41,
       "verse": 12,
@@ -8903,6 +9381,7 @@
   },
   {
     "page": 479,
+    "image": { "url": "/data/quran_image/479.png" },
     "start": {
       "surah_number": 41,
       "verse": 21,
@@ -8924,6 +9403,7 @@
   },
   {
     "page": 480,
+    "image": { "url": "/data/quran_image/480.png" },
     "start": {
       "surah_number": 41,
       "verse": 30,
@@ -8945,6 +9425,7 @@
   },
   {
     "page": 481,
+    "image": { "url": "/data/quran_image/481.png" },
     "start": {
       "surah_number": 41,
       "verse": 39,
@@ -8966,6 +9447,7 @@
   },
   {
     "page": 482,
+    "image": { "url": "/data/quran_image/482.png" },
     "start": {
       "surah_number": 41,
       "verse": 47,
@@ -8987,6 +9469,7 @@
   },
   {
     "page": 483,
+    "image": { "url": "/data/quran_image/483.png" },
     "start": {
       "surah_number": 42,
       "verse": 1,
@@ -9008,6 +9491,7 @@
   },
   {
     "page": 484,
+    "image": { "url": "/data/quran_image/484.png" },
     "start": {
       "surah_number": 42,
       "verse": 11,
@@ -9029,6 +9513,7 @@
   },
   {
     "page": 485,
+    "image": { "url": "/data/quran_image/485.png" },
     "start": {
       "surah_number": 42,
       "verse": 16,
@@ -9050,6 +9535,7 @@
   },
   {
     "page": 486,
+    "image": { "url": "/data/quran_image/486.png" },
     "start": {
       "surah_number": 42,
       "verse": 23,
@@ -9071,6 +9557,7 @@
   },
   {
     "page": 487,
+    "image": { "url": "/data/quran_image/487.png" },
     "start": {
       "surah_number": 42,
       "verse": 32,
@@ -9092,6 +9579,7 @@
   },
   {
     "page": 488,
+    "image": { "url": "/data/quran_image/488.png" },
     "start": {
       "surah_number": 42,
       "verse": 45,
@@ -9113,6 +9601,7 @@
   },
   {
     "page": 489,
+    "image": { "url": "/data/quran_image/489.png" },
     "start": {
       "surah_number": 42,
       "verse": 52,
@@ -9134,6 +9623,7 @@
   },
   {
     "page": 490,
+    "image": { "url": "/data/quran_image/490.png" },
     "start": {
       "surah_number": 43,
       "verse": 11,
@@ -9155,6 +9645,7 @@
   },
   {
     "page": 491,
+    "image": { "url": "/data/quran_image/491.png" },
     "start": {
       "surah_number": 43,
       "verse": 23,
@@ -9176,6 +9667,7 @@
   },
   {
     "page": 492,
+    "image": { "url": "/data/quran_image/492.png" },
     "start": {
       "surah_number": 43,
       "verse": 34,
@@ -9197,6 +9689,7 @@
   },
   {
     "page": 493,
+    "image": { "url": "/data/quran_image/493.png" },
     "start": {
       "surah_number": 43,
       "verse": 48,
@@ -9218,6 +9711,7 @@
   },
   {
     "page": 494,
+    "image": { "url": "/data/quran_image/494.png" },
     "start": {
       "surah_number": 43,
       "verse": 61,
@@ -9239,6 +9733,7 @@
   },
   {
     "page": 495,
+    "image": { "url": "/data/quran_image/495.png" },
     "start": {
       "surah_number": 43,
       "verse": 74,
@@ -9260,6 +9755,7 @@
   },
   {
     "page": 496,
+    "image": { "url": "/data/quran_image/496.png" },
     "start": {
       "surah_number": 44,
       "verse": 1,
@@ -9281,6 +9777,7 @@
   },
   {
     "page": 497,
+    "image": { "url": "/data/quran_image/497.png" },
     "start": {
       "surah_number": 44,
       "verse": 19,
@@ -9302,6 +9799,7 @@
   },
   {
     "page": 498,
+    "image": { "url": "/data/quran_image/498.png" },
     "start": {
       "surah_number": 44,
       "verse": 40,
@@ -9323,6 +9821,7 @@
   },
   {
     "page": 499,
+    "image": { "url": "/data/quran_image/499.png" },
     "start": {
       "surah_number": 45,
       "verse": 1,
@@ -9344,6 +9843,7 @@
   },
   {
     "page": 500,
+    "image": { "url": "/data/quran_image/500.png" },
     "start": {
       "surah_number": 45,
       "verse": 14,
@@ -9365,6 +9865,7 @@
   },
   {
     "page": 501,
+    "image": { "url": "/data/quran_image/501.png" },
     "start": {
       "surah_number": 45,
       "verse": 23,
@@ -9386,6 +9887,7 @@
   },
   {
     "page": 502,
+    "image": { "url": "/data/quran_image/502.png" },
     "start": {
       "surah_number": 45,
       "verse": 33,
@@ -9407,6 +9909,7 @@
   },
   {
     "page": 503,
+    "image": { "url": "/data/quran_image/503.png" },
     "start": {
       "surah_number": 46,
       "verse": 6,
@@ -9428,6 +9931,7 @@
   },
   {
     "page": 504,
+    "image": { "url": "/data/quran_image/504.png" },
     "start": {
       "surah_number": 46,
       "verse": 15,
@@ -9449,6 +9953,7 @@
   },
   {
     "page": 505,
+    "image": { "url": "/data/quran_image/505.png" },
     "start": {
       "surah_number": 46,
       "verse": 21,
@@ -9470,6 +9975,7 @@
   },
   {
     "page": 506,
+    "image": { "url": "/data/quran_image/506.png" },
     "start": {
       "surah_number": 46,
       "verse": 29,
@@ -9491,6 +9997,7 @@
   },
   {
     "page": 507,
+    "image": { "url": "/data/quran_image/507.png" },
     "start": {
       "surah_number": 47,
       "verse": 1,
@@ -9504,6 +10011,7 @@
   },
   {
     "page": 508,
+    "image": { "url": "/data/quran_image/508.png" },
     "start": {
       "surah_number": 47,
       "verse": 12,
@@ -9517,6 +10025,7 @@
   },
   {
     "page": 509,
+    "image": { "url": "/data/quran_image/509.png" },
     "start": {
       "surah_number": 47,
       "verse": 20,
@@ -9530,6 +10039,7 @@
   },
   {
     "page": 510,
+    "image": { "url": "/data/quran_image/510.png" },
     "start": {
       "surah_number": 47,
       "verse": 30,
@@ -9543,6 +10053,7 @@
   },
   {
     "page": 511,
+    "image": { "url": "/data/quran_image/511.png" },
     "start": {
       "surah_number": 48,
       "verse": 1,
@@ -9564,6 +10075,7 @@
   },
   {
     "page": 512,
+    "image": { "url": "/data/quran_image/512.png" },
     "start": {
       "surah_number": 48,
       "verse": 10,
@@ -9585,6 +10097,7 @@
   },
   {
     "page": 513,
+    "image": { "url": "/data/quran_image/513.png" },
     "start": {
       "surah_number": 48,
       "verse": 16,
@@ -9606,6 +10119,7 @@
   },
   {
     "page": 514,
+    "image": { "url": "/data/quran_image/514.png" },
     "start": {
       "surah_number": 48,
       "verse": 24,
@@ -9627,6 +10141,7 @@
   },
   {
     "page": 515,
+    "image": { "url": "/data/quran_image/515.png" },
     "start": {
       "surah_number": 48,
       "verse": 29,
@@ -9648,6 +10163,7 @@
   },
   {
     "page": 516,
+    "image": { "url": "/data/quran_image/516.png" },
     "start": {
       "surah_number": 49,
       "verse": 5,
@@ -9669,6 +10185,7 @@
   },
   {
     "page": 517,
+    "image": { "url": "/data/quran_image/517.png" },
     "start": {
       "surah_number": 49,
       "verse": 12,
@@ -9690,6 +10207,7 @@
   },
   {
     "page": 518,
+    "image": { "url": "/data/quran_image/518.png" },
     "start": {
       "surah_number": 50,
       "verse": 1,
@@ -9703,6 +10221,7 @@
   },
   {
     "page": 519,
+    "image": { "url": "/data/quran_image/519.png" },
     "start": {
       "surah_number": 50,
       "verse": 16,
@@ -9716,6 +10235,7 @@
   },
   {
     "page": 520,
+    "image": { "url": "/data/quran_image/520.png" },
     "start": {
       "surah_number": 50,
       "verse": 36,
@@ -9733,6 +10253,7 @@
   },
   {
     "page": 521,
+    "image": { "url": "/data/quran_image/521.png" },
     "start": {
       "surah_number": 51,
       "verse": 7,
@@ -9754,6 +10275,7 @@
   },
   {
     "page": 522,
+    "image": { "url": "/data/quran_image/522.png" },
     "start": {
       "surah_number": 51,
       "verse": 31,
@@ -9775,6 +10297,7 @@
   },
   {
     "page": 523,
+    "image": { "url": "/data/quran_image/523.png" },
     "start": {
       "surah_number": 51,
       "verse": 52,
@@ -9792,6 +10315,7 @@
   },
   {
     "page": 524,
+    "image": { "url": "/data/quran_image/524.png" },
     "start": {
       "surah_number": 52,
       "verse": 15,
@@ -9805,6 +10329,7 @@
   },
   {
     "page": 525,
+    "image": { "url": "/data/quran_image/525.png" },
     "start": {
       "surah_number": 52,
       "verse": 32,
@@ -9818,6 +10343,7 @@
   },
   {
     "page": 526,
+    "image": { "url": "/data/quran_image/526.png" },
     "start": {
       "surah_number": 53,
       "verse": 1,
@@ -9831,6 +10357,7 @@
   },
   {
     "page": 527,
+    "image": { "url": "/data/quran_image/527.png" },
     "start": {
       "surah_number": 53,
       "verse": 27,
@@ -9844,6 +10371,7 @@
   },
   {
     "page": 528,
+    "image": { "url": "/data/quran_image/528.png" },
     "start": {
       "surah_number": 53,
       "verse": 45,
@@ -9857,6 +10385,7 @@
   },
   {
     "page": 529,
+    "image": { "url": "/data/quran_image/529.png" },
     "start": {
       "surah_number": 54,
       "verse": 7,
@@ -9870,6 +10399,7 @@
   },
   {
     "page": 530,
+    "image": { "url": "/data/quran_image/530.png" },
     "start": {
       "surah_number": 54,
       "verse": 28,
@@ -9883,6 +10413,7 @@
   },
   {
     "page": 531,
+    "image": { "url": "/data/quran_image/531.png" },
     "start": {
       "surah_number": 54,
       "verse": 50,
@@ -9900,6 +10431,7 @@
   },
   {
     "page": 532,
+    "image": { "url": "/data/quran_image/532.png" },
     "start": {
       "surah_number": 55,
       "verse": 17,
@@ -9921,6 +10453,7 @@
   },
   {
     "page": 533,
+    "image": { "url": "/data/quran_image/533.png" },
     "start": {
       "surah_number": 55,
       "verse": 41,
@@ -9942,6 +10475,7 @@
   },
   {
     "page": 534,
+    "image": { "url": "/data/quran_image/534.png" },
     "start": {
       "surah_number": 55,
       "verse": 68,
@@ -9963,6 +10497,7 @@
   },
   {
     "page": 535,
+    "image": { "url": "/data/quran_image/535.png" },
     "start": {
       "surah_number": 56,
       "verse": 17,
@@ -9984,6 +10519,7 @@
   },
   {
     "page": 536,
+    "image": { "url": "/data/quran_image/536.png" },
     "start": {
       "surah_number": 56,
       "verse": 51,
@@ -10005,6 +10541,7 @@
   },
   {
     "page": 537,
+    "image": { "url": "/data/quran_image/537.png" },
     "start": {
       "surah_number": 56,
       "verse": 77,
@@ -10026,6 +10563,7 @@
   },
   {
     "page": 538,
+    "image": { "url": "/data/quran_image/538.png" },
     "start": {
       "surah_number": 57,
       "verse": 4,
@@ -10047,6 +10585,7 @@
   },
   {
     "page": 539,
+    "image": { "url": "/data/quran_image/539.png" },
     "start": {
       "surah_number": 57,
       "verse": 12,
@@ -10068,6 +10607,7 @@
   },
   {
     "page": 540,
+    "image": { "url": "/data/quran_image/540.png" },
     "start": {
       "surah_number": 57,
       "verse": 19,
@@ -10089,6 +10629,7 @@
   },
   {
     "page": 541,
+    "image": { "url": "/data/quran_image/541.png" },
     "start": {
       "surah_number": 57,
       "verse": 25,
@@ -10110,6 +10651,7 @@
   },
   {
     "page": 542,
+    "image": { "url": "/data/quran_image/542.png" },
     "start": {
       "surah_number": 58,
       "verse": 1,
@@ -10131,6 +10673,7 @@
   },
   {
     "page": 543,
+    "image": { "url": "/data/quran_image/543.png" },
     "start": {
       "surah_number": 58,
       "verse": 7,
@@ -10152,6 +10695,7 @@
   },
   {
     "page": 544,
+    "image": { "url": "/data/quran_image/544.png" },
     "start": {
       "surah_number": 58,
       "verse": 12,
@@ -10173,6 +10717,7 @@
   },
   {
     "page": 545,
+    "image": { "url": "/data/quran_image/545.png" },
     "start": {
       "surah_number": 58,
       "verse": 22,
@@ -10194,6 +10739,7 @@
   },
   {
     "page": 546,
+    "image": { "url": "/data/quran_image/546.png" },
     "start": {
       "surah_number": 59,
       "verse": 4,
@@ -10215,6 +10761,7 @@
   },
   {
     "page": 547,
+    "image": { "url": "/data/quran_image/547.png" },
     "start": {
       "surah_number": 59,
       "verse": 10,
@@ -10236,6 +10783,7 @@
   },
   {
     "page": 548,
+    "image": { "url": "/data/quran_image/548.png" },
     "start": {
       "surah_number": 59,
       "verse": 17,
@@ -10257,6 +10805,7 @@
   },
   {
     "page": 549,
+    "image": { "url": "/data/quran_image/549.png" },
     "start": {
       "surah_number": 60,
       "verse": 1,
@@ -10278,6 +10827,7 @@
   },
   {
     "page": 550,
+    "image": { "url": "/data/quran_image/550.png" },
     "start": {
       "surah_number": 60,
       "verse": 6,
@@ -10299,6 +10849,7 @@
   },
   {
     "page": 551,
+    "image": { "url": "/data/quran_image/551.png" },
     "start": {
       "surah_number": 60,
       "verse": 12,
@@ -10316,6 +10867,7 @@
   },
   {
     "page": 552,
+    "image": { "url": "/data/quran_image/552.png" },
     "start": {
       "surah_number": 61,
       "verse": 6,
@@ -10329,6 +10881,7 @@
   },
   {
     "page": 553,
+    "image": { "url": "/data/quran_image/553.png" },
     "start": {
       "surah_number": 62,
       "verse": 1,
@@ -10350,6 +10903,7 @@
   },
   {
     "page": 554,
+    "image": { "url": "/data/quran_image/554.png" },
     "start": {
       "surah_number": 62,
       "verse": 9,
@@ -10371,6 +10925,7 @@
   },
   {
     "page": 555,
+    "image": { "url": "/data/quran_image/555.png" },
     "start": {
       "surah_number": 63,
       "verse": 5,
@@ -10392,6 +10947,7 @@
   },
   {
     "page": 556,
+    "image": { "url": "/data/quran_image/556.png" },
     "start": {
       "surah_number": 64,
       "verse": 1,
@@ -10413,6 +10969,7 @@
   },
   {
     "page": 557,
+    "image": { "url": "/data/quran_image/557.png" },
     "start": {
       "surah_number": 64,
       "verse": 10,
@@ -10434,6 +10991,7 @@
   },
   {
     "page": 558,
+    "image": { "url": "/data/quran_image/558.png" },
     "start": {
       "surah_number": 65,
       "verse": 1,
@@ -10447,6 +11005,7 @@
   },
   {
     "page": 559,
+    "image": { "url": "/data/quran_image/559.png" },
     "start": {
       "surah_number": 65,
       "verse": 6,
@@ -10460,6 +11019,7 @@
   },
   {
     "page": 560,
+    "image": { "url": "/data/quran_image/560.png" },
     "start": {
       "surah_number": 66,
       "verse": 1,
@@ -10481,6 +11041,7 @@
   },
   {
     "page": 561,
+    "image": { "url": "/data/quran_image/561.png" },
     "start": {
       "surah_number": 66,
       "verse": 8,
@@ -10502,6 +11063,7 @@
   },
   {
     "page": 562,
+    "image": { "url": "/data/quran_image/562.png" },
     "start": {
       "surah_number": 67,
       "verse": 1,
@@ -10523,6 +11085,7 @@
   },
   {
     "page": 563,
+    "image": { "url": "/data/quran_image/563.png" },
     "start": {
       "surah_number": 67,
       "verse": 13,
@@ -10544,6 +11107,7 @@
   },
   {
     "page": 564,
+    "image": { "url": "/data/quran_image/564.png" },
     "start": {
       "surah_number": 67,
       "verse": 27,
@@ -10561,6 +11125,7 @@
   },
   {
     "page": 565,
+    "image": { "url": "/data/quran_image/565.png" },
     "start": {
       "surah_number": 68,
       "verse": 16,
@@ -10574,6 +11139,7 @@
   },
   {
     "page": 566,
+    "image": { "url": "/data/quran_image/566.png" },
     "start": {
       "surah_number": 68,
       "verse": 43,
@@ -10591,6 +11157,7 @@
   },
   {
     "page": 567,
+    "image": { "url": "/data/quran_image/567.png" },
     "start": {
       "surah_number": 69,
       "verse": 9,
@@ -10612,6 +11179,7 @@
   },
   {
     "page": 568,
+    "image": { "url": "/data/quran_image/568.png" },
     "start": {
       "surah_number": 69,
       "verse": 35,
@@ -10633,6 +11201,7 @@
   },
   {
     "page": 569,
+    "image": { "url": "/data/quran_image/569.png" },
     "start": {
       "surah_number": 70,
       "verse": 11,
@@ -10654,6 +11223,7 @@
   },
   {
     "page": 570,
+    "image": { "url": "/data/quran_image/570.png" },
     "start": {
       "surah_number": 70,
       "verse": 40,
@@ -10671,6 +11241,7 @@
   },
   {
     "page": 571,
+    "image": { "url": "/data/quran_image/571.png" },
     "start": {
       "surah_number": 71,
       "verse": 11,
@@ -10684,6 +11255,7 @@
   },
   {
     "page": 572,
+    "image": { "url": "/data/quran_image/572.png" },
     "start": {
       "surah_number": 72,
       "verse": 1,
@@ -10697,6 +11269,7 @@
   },
   {
     "page": 573,
+    "image": { "url": "/data/quran_image/573.png" },
     "start": {
       "surah_number": 72,
       "verse": 14,
@@ -10710,6 +11283,7 @@
   },
   {
     "page": 574,
+    "image": { "url": "/data/quran_image/574.png" },
     "start": {
       "surah_number": 73,
       "verse": 1,
@@ -10731,6 +11305,7 @@
   },
   {
     "page": 575,
+    "image": { "url": "/data/quran_image/575.png" },
     "start": {
       "surah_number": 73,
       "verse": 20,
@@ -10752,6 +11327,7 @@
   },
   {
     "page": 576,
+    "image": { "url": "/data/quran_image/576.png" },
     "start": {
       "surah_number": 74,
       "verse": 18,
@@ -10773,6 +11349,7 @@
   },
   {
     "page": 577,
+    "image": { "url": "/data/quran_image/577.png" },
     "start": {
       "surah_number": 74,
       "verse": 48,
@@ -10794,6 +11371,7 @@
   },
   {
     "page": 578,
+    "image": { "url": "/data/quran_image/578.png" },
     "start": {
       "surah_number": 75,
       "verse": 20,
@@ -10811,6 +11389,7 @@
   },
   {
     "page": 579,
+    "image": { "url": "/data/quran_image/579.png" },
     "start": {
       "surah_number": 76,
       "verse": 6,
@@ -10824,6 +11403,7 @@
   },
   {
     "page": 580,
+    "image": { "url": "/data/quran_image/580.png" },
     "start": {
       "surah_number": 76,
       "verse": 26,
@@ -10841,6 +11421,7 @@
   },
   {
     "page": 581,
+    "image": { "url": "/data/quran_image/581.png" },
     "start": {
       "surah_number": 77,
       "verse": 20,
@@ -10862,6 +11443,7 @@
   },
   {
     "page": 582,
+    "image": { "url": "/data/quran_image/582.png" },
     "start": {
       "surah_number": 78,
       "verse": 1,
@@ -10883,6 +11465,7 @@
   },
   {
     "page": 583,
+    "image": { "url": "/data/quran_image/583.png" },
     "start": {
       "surah_number": 78,
       "verse": 31,
@@ -10904,6 +11487,7 @@
   },
   {
     "page": 584,
+    "image": { "url": "/data/quran_image/584.png" },
     "start": {
       "surah_number": 79,
       "verse": 16,
@@ -10925,6 +11509,7 @@
   },
   {
     "page": 585,
+    "image": { "url": "/data/quran_image/585.png" },
     "start": {
       "surah_number": 80,
       "verse": 1,
@@ -10938,6 +11523,7 @@
   },
   {
     "page": 586,
+    "image": { "url": "/data/quran_image/586.png" },
     "start": {
       "surah_number": 81,
       "verse": 1,
@@ -10959,6 +11545,7 @@
   },
   {
     "page": 587,
+    "image": { "url": "/data/quran_image/587.png" },
     "start": {
       "surah_number": 82,
       "verse": 1,
@@ -10980,6 +11567,7 @@
   },
   {
     "page": 588,
+    "image": { "url": "/data/quran_image/588.png" },
     "start": {
       "surah_number": 83,
       "verse": 7,
@@ -11001,6 +11589,7 @@
   },
   {
     "page": 589,
+    "image": { "url": "/data/quran_image/589.png" },
     "start": {
       "surah_number": 83,
       "verse": 35,
@@ -11022,6 +11611,7 @@
   },
   {
     "page": 590,
+    "image": { "url": "/data/quran_image/590.png" },
     "start": {
       "surah_number": 85,
       "verse": 1,
@@ -11043,6 +11633,7 @@
   },
   {
     "page": 591,
+    "image": { "url": "/data/quran_image/591.png" },
     "start": {
       "surah_number": 86,
       "verse": 1,
@@ -11064,6 +11655,7 @@
   },
   {
     "page": 592,
+    "image": { "url": "/data/quran_image/592.png" },
     "start": {
       "surah_number": 87,
       "verse": 16,
@@ -11085,6 +11677,7 @@
   },
   {
     "page": 593,
+    "image": { "url": "/data/quran_image/593.png" },
     "start": {
       "surah_number": 89,
       "verse": 1,
@@ -11098,6 +11691,7 @@
   },
   {
     "page": 594,
+    "image": { "url": "/data/quran_image/594.png" },
     "start": {
       "surah_number": 89,
       "verse": 24,
@@ -11111,6 +11705,7 @@
   },
   {
     "page": 595,
+    "image": { "url": "/data/quran_image/595.png" },
     "start": {
       "surah_number": 91,
       "verse": 1,
@@ -11124,6 +11719,7 @@
   },
   {
     "page": 596,
+    "image": { "url": "/data/quran_image/596.png" },
     "start": {
       "surah_number": 92,
       "verse": 15,
@@ -11141,6 +11737,7 @@
   },
   {
     "page": 597,
+    "image": { "url": "/data/quran_image/597.png" },
     "start": {
       "surah_number": 95,
       "verse": 1,
@@ -11154,6 +11751,7 @@
   },
   {
     "page": 598,
+    "image": { "url": "/data/quran_image/598.png" },
     "start": {
       "surah_number": 97,
       "verse": 1,
@@ -11175,6 +11773,7 @@
   },
   {
     "page": 599,
+    "image": { "url": "/data/quran_image/599.png" },
     "start": {
       "surah_number": 98,
       "verse": 8,
@@ -11196,6 +11795,7 @@
   },
   {
     "page": 600,
+    "image": { "url": "/data/quran_image/600.png" },
     "start": {
       "surah_number": 100,
       "verse": 10,
@@ -11217,6 +11817,7 @@
   },
   {
     "page": 601,
+    "image": { "url": "/data/quran_image/601.png" },
     "start": {
       "surah_number": 103,
       "verse": 1,
@@ -11238,6 +11839,7 @@
   },
   {
     "page": 602,
+    "image": { "url": "/data/quran_image/602.png" },
     "start": {
       "surah_number": 106,
       "verse": 1,
@@ -11255,6 +11857,7 @@
   },
   {
     "page": 603,
+    "image": { "url": "/data/quran_image/603.png" },
     "start": {
       "surah_number": 109,
       "verse": 1,
@@ -11276,6 +11879,7 @@
   },
   {
     "page": 604,
+    "image": { "url": "/data/quran_image/604.png" },
     "start": {
       "surah_number": 112,
       "verse": 1,
